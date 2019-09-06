@@ -1,0 +1,4169 @@
+,Epoch: [0][1/100]	Time 11.622	Loss 4.663
+0,"shape of embedding.... (?, 128)"
+1,Epoch: [0][2/100]	Time 0.093	Loss 4.747
+2,"shape of embedding.... (?, 128)"
+3,Epoch: [0][3/100]	Time 0.080	Loss 4.696
+4,"shape of embedding.... (?, 128)"
+5,Epoch: [0][4/100]	Time 0.084	Loss 4.506
+6,"shape of embedding.... (?, 128)"
+7,Epoch: [0][5/100]	Time 0.085	Loss 4.563
+8,"shape of embedding.... (?, 128)"
+9,Epoch: [0][6/100]	Time 0.085	Loss 4.435
+10,"shape of embedding.... (?, 128)"
+11,Epoch: [0][7/100]	Time 0.091	Loss 4.401
+12,"shape of embedding.... (?, 128)"
+13,Epoch: [0][8/100]	Time 0.087	Loss 4.581
+14,"shape of embedding.... (?, 128)"
+15,Epoch: [0][9/100]	Time 0.083	Loss 4.681
+16,"shape of embedding.... (?, 128)"
+17,Epoch: [0][10/100]	Time 0.083	Loss 4.533
+18,"shape of embedding.... (?, 128)"
+19,Epoch: [0][11/100]	Time 0.087	Loss 4.674
+20,"shape of embedding.... (?, 128)"
+21,Epoch: [0][12/100]	Time 0.085	Loss 4.508
+22,"shape of embedding.... (?, 128)"
+23,Epoch: [0][13/100]	Time 0.088	Loss 4.536
+24,"shape of embedding.... (?, 128)"
+25,Epoch: [0][14/100]	Time 0.084	Loss 4.627
+26,"shape of embedding.... (?, 128)"
+27,Epoch: [0][15/100]	Time 0.088	Loss 4.633
+28,"shape of embedding.... (?, 128)"
+29,Epoch: [0][16/100]	Time 0.084	Loss 4.685
+30,"shape of embedding.... (?, 128)"
+31,Epoch: [0][17/100]	Time 0.085	Loss 4.706
+32,"shape of embedding.... (?, 128)"
+33,Epoch: [0][18/100]	Time 0.087	Loss 4.801
+34,"shape of embedding.... (?, 128)"
+35,Epoch: [0][19/100]	Time 0.082	Loss 4.994
+36,"shape of embedding.... (?, 128)"
+37,Epoch: [0][20/100]	Time 0.080	Loss 4.562
+38,"shape of embedding.... (?, 128)"
+39,Epoch: [0][21/100]	Time 0.089	Loss 4.470
+40,"shape of embedding.... (?, 128)"
+41,Epoch: [0][22/100]	Time 0.085	Loss 4.737
+42,"shape of embedding.... (?, 128)"
+43,Epoch: [0][23/100]	Time 0.084	Loss 4.495
+44,"shape of embedding.... (?, 128)"
+45,Epoch: [0][24/100]	Time 0.083	Loss 4.535
+46,"shape of embedding.... (?, 128)"
+47,Epoch: [0][25/100]	Time 0.089	Loss 4.619
+48,"shape of embedding.... (?, 128)"
+49,Epoch: [0][26/100]	Time 0.085	Loss 4.541
+50,"shape of embedding.... (?, 128)"
+51,Epoch: [0][27/100]	Time 0.089	Loss 5.117
+52,"shape of embedding.... (?, 128)"
+53,Epoch: [0][28/100]	Time 0.086	Loss 4.519
+54,"shape of embedding.... (?, 128)"
+55,Epoch: [0][29/100]	Time 0.087	Loss 5.127
+56,"shape of embedding.... (?, 128)"
+57,Epoch: [0][30/100]	Time 0.085	Loss 4.550
+58,"shape of embedding.... (?, 128)"
+59,Epoch: [0][31/100]	Time 0.080	Loss 4.668
+60,"shape of embedding.... (?, 128)"
+61,Epoch: [0][32/100]	Time 0.086	Loss 4.420
+62,"shape of embedding.... (?, 128)"
+63,Epoch: [0][33/100]	Time 0.084	Loss 4.660
+64,"shape of embedding.... (?, 128)"
+65,Epoch: [0][34/100]	Time 0.089	Loss 4.629
+66,"shape of embedding.... (?, 128)"
+67,Epoch: [0][35/100]	Time 0.087	Loss 4.503
+68,"shape of embedding.... (?, 128)"
+69,Epoch: [0][36/100]	Time 0.089	Loss 4.591
+70,"shape of embedding.... (?, 128)"
+71,Epoch: [0][37/100]	Time 0.082	Loss 4.612
+72,"shape of embedding.... (?, 128)"
+73,Epoch: [0][38/100]	Time 0.083	Loss 4.676
+74,"shape of embedding.... (?, 128)"
+75,Epoch: [0][39/100]	Time 0.087	Loss 4.593
+76,"shape of embedding.... (?, 128)"
+77,Epoch: [0][40/100]	Time 0.087	Loss 4.726
+78,"shape of embedding.... (?, 128)"
+79,Epoch: [0][41/100]	Time 0.085	Loss 4.497
+80,"shape of embedding.... (?, 128)"
+81,Epoch: [0][42/100]	Time 0.081	Loss 4.865
+82,"shape of embedding.... (?, 128)"
+83,Epoch: [0][43/100]	Time 0.080	Loss 4.607
+84,"shape of embedding.... (?, 128)"
+85,Epoch: [0][44/100]	Time 0.086	Loss 4.542
+86,"shape of embedding.... (?, 128)"
+87,Epoch: [0][45/100]	Time 0.081	Loss 4.588
+88,"shape of embedding.... (?, 128)"
+89,Epoch: [0][46/100]	Time 0.086	Loss 4.934
+90,"shape of embedding.... (?, 128)"
+91,Epoch: [0][47/100]	Time 0.089	Loss 4.644
+92,"shape of embedding.... (?, 128)"
+93,Epoch: [0][48/100]	Time 0.087	Loss 4.591
+94,"shape of embedding.... (?, 128)"
+95,Epoch: [0][49/100]	Time 0.082	Loss 4.421
+96,"shape of embedding.... (?, 128)"
+97,Epoch: [0][50/100]	Time 0.088	Loss 4.403
+98,"shape of embedding.... (?, 128)"
+99,Epoch: [0][51/100]	Time 0.086	Loss 4.673
+100,"shape of embedding.... (?, 128)"
+101,Epoch: [0][52/100]	Time 0.087	Loss 5.048
+102,"shape of embedding.... (?, 128)"
+103,Epoch: [0][53/100]	Time 0.084	Loss 4.606
+104,"shape of embedding.... (?, 128)"
+105,Epoch: [0][54/100]	Time 0.087	Loss 4.548
+106,"shape of embedding.... (?, 128)"
+107,Epoch: [0][55/100]	Time 0.094	Loss 4.615
+108,"shape of embedding.... (?, 128)"
+109,Epoch: [0][56/100]	Time 0.086	Loss 4.812
+110,"shape of embedding.... (?, 128)"
+111,Epoch: [0][57/100]	Time 0.087	Loss 4.401
+112,"shape of embedding.... (?, 128)"
+113,Epoch: [0][58/100]	Time 0.084	Loss 4.778
+114,"shape of embedding.... (?, 128)"
+115,Epoch: [0][59/100]	Time 0.086	Loss 4.401
+116,"shape of embedding.... (?, 128)"
+117,Epoch: [0][60/100]	Time 0.082	Loss 4.447
+118,"shape of embedding.... (?, 128)"
+119,Epoch: [0][61/100]	Time 0.088	Loss 4.400
+120,"shape of embedding.... (?, 128)"
+121,Epoch: [0][62/100]	Time 0.086	Loss 4.774
+122,"shape of embedding.... (?, 128)"
+123,Epoch: [0][63/100]	Time 0.087	Loss 4.563
+124,"shape of embedding.... (?, 128)"
+125,Epoch: [0][64/100]	Time 0.086	Loss 4.797
+126,"shape of embedding.... (?, 128)"
+127,Epoch: [0][65/100]	Time 0.087	Loss 4.423
+128,"shape of embedding.... (?, 128)"
+129,Epoch: [0][66/100]	Time 0.083	Loss 4.740
+130,"shape of embedding.... (?, 128)"
+131,Epoch: [0][67/100]	Time 0.084	Loss 4.638
+132,"shape of embedding.... (?, 128)"
+133,Epoch: [0][68/100]	Time 0.093	Loss 4.919
+134,"shape of embedding.... (?, 128)"
+135,Epoch: [0][69/100]	Time 0.082	Loss 4.480
+136,"shape of embedding.... (?, 128)"
+137,Epoch: [0][70/100]	Time 0.087	Loss 4.585
+138,"shape of embedding.... (?, 128)"
+139,Epoch: [0][71/100]	Time 0.087	Loss 4.397
+140,"shape of embedding.... (?, 128)"
+141,Epoch: [0][72/100]	Time 0.089	Loss 4.396
+142,"shape of embedding.... (?, 128)"
+143,Epoch: [0][73/100]	Time 0.090	Loss 4.396
+144,"shape of embedding.... (?, 128)"
+145,Epoch: [0][74/100]	Time 0.089	Loss 4.430
+146,"shape of embedding.... (?, 128)"
+147,Epoch: [0][75/100]	Time 0.082	Loss 4.395
+148,"shape of embedding.... (?, 128)"
+149,Epoch: [0][76/100]	Time 0.087	Loss 4.822
+150,"shape of embedding.... (?, 128)"
+151,Epoch: [0][77/100]	Time 0.085	Loss 4.713
+152,"shape of embedding.... (?, 128)"
+153,Epoch: [0][78/100]	Time 0.086	Loss 4.394
+154,"shape of embedding.... (?, 128)"
+155,Epoch: [0][79/100]	Time 0.089	Loss 4.475
+156,"shape of embedding.... (?, 128)"
+157,Epoch: [0][80/100]	Time 0.083	Loss 4.393
+158,"shape of embedding.... (?, 128)"
+159,Epoch: [0][81/100]	Time 0.086	Loss 4.494
+160,"shape of embedding.... (?, 128)"
+161,Epoch: [0][82/100]	Time 0.095	Loss 4.486
+162,"shape of embedding.... (?, 128)"
+163,Epoch: [0][83/100]	Time 0.089	Loss 4.477
+164,"shape of embedding.... (?, 128)"
+165,Epoch: [0][84/100]	Time 0.083	Loss 4.392
+166,"shape of embedding.... (?, 128)"
+167,Epoch: [0][85/100]	Time 0.082	Loss 4.581
+168,"shape of embedding.... (?, 128)"
+169,Epoch: [0][86/100]	Time 0.087	Loss 4.425
+170,"shape of embedding.... (?, 128)"
+171,Epoch: [0][87/100]	Time 0.084	Loss 4.582
+172,"shape of embedding.... (?, 128)"
+173,Epoch: [0][88/100]	Time 0.087	Loss 4.930
+174,"shape of embedding.... (?, 128)"
+175,Epoch: [0][89/100]	Time 0.082	Loss 4.949
+176,"shape of embedding.... (?, 128)"
+177,Epoch: [0][90/100]	Time 0.089	Loss 4.389
+178,"shape of embedding.... (?, 128)"
+179,Epoch: [0][91/100]	Time 0.085	Loss 4.647
+180,"shape of embedding.... (?, 128)"
+181,Epoch: [0][92/100]	Time 0.084	Loss 4.694
+182,"shape of embedding.... (?, 128)"
+183,Epoch: [0][93/100]	Time 0.079	Loss 4.758
+184,"shape of embedding.... (?, 128)"
+185,Epoch: [0][94/100]	Time 0.089	Loss 4.631
+186,"shape of embedding.... (?, 128)"
+187,Epoch: [0][95/100]	Time 0.087	Loss 4.510
+188,"shape of embedding.... (?, 128)"
+189,Epoch: [0][96/100]	Time 0.086	Loss 4.449
+190,"shape of embedding.... (?, 128)"
+191,Epoch: [0][97/100]	Time 0.084	Loss 4.747
+192,"shape of embedding.... (?, 128)"
+193,Epoch: [0][98/100]	Time 0.083	Loss 4.431
+194,"shape of embedding.... (?, 128)"
+195,Epoch: [0][99/100]	Time 0.090	Loss 4.764
+196,"shape of embedding.... (?, 128)"
+197,Epoch: [0][100/100]	Time 0.087	Loss 4.65
+198,"shape of embedding.... (?, 128)"
+199,Epoch: [0][101/100]	Time 0.083	Loss 4.52
+200,"shape of embedding.... (?, 128)"
+201,Epoch: [0][102/100]	Time 0.086	Loss 4.84
+202,"shape of embedding.... (?, 128)"
+203,Epoch: [0][103/100]	Time 0.085	Loss 4.62
+204,"shape of embedding.... (?, 128)"
+205,Epoch: [0][104/100]	Time 0.085	Loss 4.38
+206,"shape of embedding.... (?, 128)"
+207,Epoch: [0][105/100]	Time 0.084	Loss 4.48
+208,"shape of embedding.... (?, 128)"
+209,Epoch: [0][106/100]	Time 0.086	Loss 4.41
+210,"shape of embedding.... (?, 128)"
+211,Epoch: [0][107/100]	Time 0.088	Loss 4.73
+212,"shape of embedding.... (?, 128)"
+213,Epoch: [0][108/100]	Time 0.090	Loss 4.45
+214,"shape of embedding.... (?, 128)"
+215,Epoch: [0][109/100]	Time 0.083	Loss 4.65
+216,"shape of embedding.... (?, 128)"
+217,Epoch: [0][110/100]	Time 0.083	Loss 4.83
+218,"shape of embedding.... (?, 128)"
+219,Epoch: [0][111/100]	Time 0.082	Loss 4.41
+220,"shape of embedding.... (?, 128)"
+221,Epoch: [0][112/100]	Time 0.084	Loss 4.38
+222,"shape of embedding.... (?, 128)"
+223,Epoch: [0][113/100]	Time 0.086	Loss 4.42
+224,"shape of embedding.... (?, 128)"
+225,Epoch: [0][114/100]	Time 0.083	Loss 4.65
+226,"shape of embedding.... (?, 128)"
+227,Epoch: [0][115/100]	Time 0.085	Loss 4.38
+228,"shape of embedding.... (?, 128)"
+229,Epoch: [0][116/100]	Time 0.088	Loss 4.68
+230,"shape of embedding.... (?, 128)"
+231,Epoch: [0][117/100]	Time 0.088	Loss 4.60
+232,"shape of embedding.... (?, 128)"
+233,Epoch: [0][118/100]	Time 0.086	Loss 5.01
+234,"shape of embedding.... (?, 128)"
+235,Epoch: [0][119/100]	Time 0.084	Loss 4.60
+236,"shape of embedding.... (?, 128)"
+237,Epoch: [0][120/100]	Time 0.085	Loss 4.46
+238,"shape of embedding.... (?, 128)"
+239,Epoch: [0][121/100]	Time 0.084	Loss 4.48
+240,"shape of embedding.... (?, 128)"
+241,Epoch: [0][122/100]	Time 0.085	Loss 4.37
+242,"shape of embedding.... (?, 128)"
+243,Epoch: [0][123/100]	Time 0.086	Loss 4.58
+244,"shape of embedding.... (?, 128)"
+245,Epoch: [0][124/100]	Time 0.088	Loss 4.54
+246,"shape of embedding.... (?, 128)"
+247,Epoch: [0][125/100]	Time 0.085	Loss 4.72
+248,"shape of embedding.... (?, 128)"
+249,Epoch: [0][126/100]	Time 0.083	Loss 4.37
+250,"shape of embedding.... (?, 128)"
+251,Epoch: [0][127/100]	Time 0.088	Loss 4.43
+252,"shape of embedding.... (?, 128)"
+253,Epoch: [0][128/100]	Time 0.085	Loss 4.38
+254,"shape of embedding.... (?, 128)"
+255,Epoch: [0][129/100]	Time 0.087	Loss 4.39
+256,"shape of embedding.... (?, 128)"
+257,Epoch: [0][130/100]	Time 0.083	Loss 4.53
+258,"shape of embedding.... (?, 128)"
+259,Epoch: [0][131/100]	Time 0.088	Loss 4.37
+260,"shape of embedding.... (?, 128)"
+261,Epoch: [0][132/100]	Time 0.090	Loss 4.37
+262,"shape of embedding.... (?, 128)"
+263,Epoch: [0][133/100]	Time 0.089	Loss 5.00
+264,"shape of embedding.... (?, 128)"
+265,Epoch: [0][134/100]	Time 0.086	Loss 4.69
+266,"shape of embedding.... (?, 128)"
+267,Epoch: [0][135/100]	Time 0.084	Loss 4.40
+268,"shape of embedding.... (?, 128)"
+269,Epoch: [0][136/100]	Time 0.088	Loss 4.75
+270,"shape of embedding.... (?, 128)"
+271,Epoch: [0][137/100]	Time 0.084	Loss 4.45
+272,"shape of embedding.... (?, 128)"
+273,Epoch: [0][138/100]	Time 0.086	Loss 4.66
+274,"shape of embedding.... (?, 128)"
+275,Epoch: [0][139/100]	Time 0.082	Loss 4.52
+276,"shape of embedding.... (?, 128)"
+277,Epoch: [0][140/100]	Time 0.085	Loss 4.48
+278,"shape of embedding.... (?, 128)"
+279,Epoch: [0][141/100]	Time 0.083	Loss 4.39
+280,"shape of embedding.... (?, 128)"
+281,Epoch: [0][142/100]	Time 0.085	Loss 4.36
+282,"shape of embedding.... (?, 128)"
+283,Epoch: [0][143/100]	Time 0.085	Loss 4.75
+284,"shape of embedding.... (?, 128)"
+285,Epoch: [0][144/100]	Time 0.085	Loss 4.42
+286,"shape of embedding.... (?, 128)"
+287,Epoch: [0][145/100]	Time 0.083	Loss 4.38
+288,"shape of embedding.... (?, 128)"
+289,Epoch: [0][146/100]	Time 0.088	Loss 4.48
+290,"shape of embedding.... (?, 128)"
+291,Epoch: [0][147/100]	Time 0.088	Loss 4.36
+292,"shape of embedding.... (?, 128)"
+293,Epoch: [0][148/100]	Time 0.087	Loss 4.65
+294,"shape of embedding.... (?, 128)"
+295,Epoch: [0][149/100]	Time 0.085	Loss 4.58
+296,"shape of embedding.... (?, 128)"
+297,Epoch: [0][150/100]	Time 0.087	Loss 4.44
+298,"shape of embedding.... (?, 128)"
+299,Epoch: [0][151/100]	Time 0.088	Loss 4.45
+300,"shape of embedding.... (?, 128)"
+301,Epoch: [0][152/100]	Time 0.087	Loss 4.48
+302,"shape of embedding.... (?, 128)"
+303,Epoch: [0][153/100]	Time 0.084	Loss 4.50
+304,"shape of embedding.... (?, 128)"
+305,Epoch: [0][154/100]	Time 0.087	Loss 4.46
+306,"shape of embedding.... (?, 128)"
+307,Epoch: [0][155/100]	Time 0.090	Loss 4.78
+308,"shape of embedding.... (?, 128)"
+309,Epoch: [0][156/100]	Time 0.091	Loss 4.51
+310,"shape of embedding.... (?, 128)"
+311,Epoch: [0][157/100]	Time 0.088	Loss 4.66
+312,"shape of embedding.... (?, 128)"
+313,Epoch: [0][158/100]	Time 0.085	Loss 4.38
+314,"shape of embedding.... (?, 128)"
+315,Epoch: [0][159/100]	Time 0.086	Loss 4.46
+316,"shape of embedding.... (?, 128)"
+317,Epoch: [0][160/100]	Time 0.084	Loss 4.93
+318,"shape of embedding.... (?, 128)"
+319,Epoch: [0][161/100]	Time 0.083	Loss 4.45
+320,"shape of embedding.... (?, 128)"
+321,Epoch: [0][162/100]	Time 0.088	Loss 4.39
+322,"shape of embedding.... (?, 128)"
+323,Epoch: [0][163/100]	Time 0.087	Loss 4.47
+324,"shape of embedding.... (?, 128)"
+325,Epoch: [0][164/100]	Time 0.088	Loss 4.67
+326,"shape of embedding.... (?, 128)"
+327,Epoch: [0][165/100]	Time 0.091	Loss 4.69
+328,"shape of embedding.... (?, 128)"
+329,Epoch: [0][166/100]	Time 0.082	Loss 4.36
+330,"shape of embedding.... (?, 128)"
+331,Epoch: [0][167/100]	Time 0.079	Loss 4.35
+332,"shape of embedding.... (?, 128)"
+333,Epoch: [0][168/100]	Time 0.087	Loss 4.49
+334,"shape of embedding.... (?, 128)"
+335,Epoch: [0][169/100]	Time 0.089	Loss 4.39
+336,"shape of embedding.... (?, 128)"
+337,Epoch: [0][170/100]	Time 0.087	Loss 4.56
+338,"shape of embedding.... (?, 128)"
+339,Epoch: [0][171/100]	Time 0.090	Loss 4.81
+340,"shape of embedding.... (?, 128)"
+341,Epoch: [0][172/100]	Time 0.088	Loss 4.49
+342,"shape of embedding.... (?, 128)"
+343,Epoch: [0][173/100]	Time 0.084	Loss 4.72
+344,"shape of embedding.... (?, 128)"
+345,Epoch: [0][174/100]	Time 0.090	Loss 4.87
+346,"shape of embedding.... (?, 128)"
+347,Epoch: [0][175/100]	Time 0.082	Loss 4.35
+348,"shape of embedding.... (?, 128)"
+349,Epoch: [0][176/100]	Time 0.087	Loss 4.44
+350,"shape of embedding.... (?, 128)"
+351,Epoch: [0][177/100]	Time 0.087	Loss 4.75
+352,"shape of embedding.... (?, 128)"
+353,Epoch: [0][178/100]	Time 0.086	Loss 4.46
+354,"shape of embedding.... (?, 128)"
+355,Epoch: [0][179/100]	Time 0.084	Loss 4.35
+356,"shape of embedding.... (?, 128)"
+357,Epoch: [0][180/100]	Time 0.087	Loss 4.48
+358,"shape of embedding.... (?, 128)"
+359,Epoch: [0][181/100]	Time 0.086	Loss 4.60
+360,"shape of embedding.... (?, 128)"
+361,Epoch: [0][182/100]	Time 0.088	Loss 4.92
+362,"shape of embedding.... (?, 128)"
+363,Epoch: [0][183/100]	Time 0.089	Loss 4.42
+364,"shape of embedding.... (?, 128)"
+365,Epoch: [0][184/100]	Time 0.088	Loss 4.35
+366,"shape of embedding.... (?, 128)"
+367,Epoch: [0][185/100]	Time 0.087	Loss 4.57
+368,"shape of embedding.... (?, 128)"
+369,Epoch: [0][186/100]	Time 0.080	Loss 4.51
+370,"shape of embedding.... (?, 128)"
+371,Epoch: [0][187/100]	Time 0.087	Loss 4.76
+372,"shape of embedding.... (?, 128)"
+373,Epoch: [0][188/100]	Time 0.083	Loss 4.68
+374,"shape of embedding.... (?, 128)"
+375,Epoch: [0][189/100]	Time 0.088	Loss 4.46
+376,"shape of embedding.... (?, 128)"
+377,Epoch: [0][190/100]	Time 0.087	Loss 4.45
+378,"shape of embedding.... (?, 128)"
+379,Epoch: [0][191/100]	Time 0.085	Loss 4.65
+380,"shape of embedding.... (?, 128)"
+381,Epoch: [0][192/100]	Time 0.085	Loss 4.43
+382,"shape of embedding.... (?, 128)"
+383,Epoch: [0][193/100]	Time 0.085	Loss 4.69
+384,"shape of embedding.... (?, 128)"
+385,Epoch: [0][194/100]	Time 0.089	Loss 4.48
+386,"shape of embedding.... (?, 128)"
+387,Epoch: [0][195/100]	Time 0.081	Loss 4.65
+388,"shape of embedding.... (?, 128)"
+389,Epoch: [0][196/100]	Time 0.082	Loss 4.43
+390,"shape of embedding.... (?, 128)"
+391,Epoch: [0][197/100]	Time 0.091	Loss 4.58
+392,"shape of embedding.... (?, 128)"
+393,Epoch: [0][198/100]	Time 0.085	Loss 4.66
+394,"shape of embedding.... (?, 128)"
+395,Epoch: [0][199/100]	Time 0.085	Loss 4.34
+396,"shape of embedding.... (?, 128)"
+397,Epoch: [0][200/100]	Time 0.089	Loss 4.42
+398,"shape of embedding.... (?, 128)"
+399,Epoch: [0][201/100]	Time 0.088	Loss 4.35
+400,"shape of embedding.... (?, 128)"
+401,Epoch: [0][202/100]	Time 0.079	Loss 4.63
+402,"shape of embedding.... (?, 128)"
+403,Epoch: [0][203/100]	Time 0.087	Loss 4.34
+404,"shape of embedding.... (?, 128)"
+405,Epoch: [0][204/100]	Time 0.086	Loss 4.34
+406,"shape of embedding.... (?, 128)"
+407,Epoch: [0][205/100]	Time 0.089	Loss 4.51
+408,"shape of embedding.... (?, 128)"
+409,Epoch: [0][206/100]	Time 0.085	Loss 4.40
+410,"shape of embedding.... (?, 128)"
+411,Epoch: [0][207/100]	Time 0.087	Loss 4.60
+412,"shape of embedding.... (?, 128)"
+413,Epoch: [0][208/100]	Time 0.086	Loss 4.51
+414,"shape of embedding.... (?, 128)"
+415,Epoch: [0][209/100]	Time 0.087	Loss 4.49
+416,"shape of embedding.... (?, 128)"
+417,Epoch: [0][210/100]	Time 0.093	Loss 4.35
+418,"shape of embedding.... (?, 128)"
+419,Epoch: [0][211/100]	Time 0.086	Loss 4.41
+420,"shape of embedding.... (?, 128)"
+421,Epoch: [0][212/100]	Time 0.082	Loss 4.34
+422,"shape of embedding.... (?, 128)"
+423,Epoch: [0][213/100]	Time 0.086	Loss 4.55
+424,"shape of embedding.... (?, 128)"
+425,Epoch: [0][214/100]	Time 0.091	Loss 4.44
+426,"shape of embedding.... (?, 128)"
+427,Epoch: [0][215/100]	Time 0.084	Loss 4.53
+428,"shape of embedding.... (?, 128)"
+429,Epoch: [0][216/100]	Time 0.087	Loss 4.69
+430,"shape of embedding.... (?, 128)"
+431,Epoch: [0][217/100]	Time 0.085	Loss 4.84
+432,"shape of embedding.... (?, 128)"
+433,Epoch: [0][218/100]	Time 0.083	Loss 4.34
+434,"shape of embedding.... (?, 128)"
+435,Epoch: [0][219/100]	Time 0.086	Loss 4.36
+436,"shape of embedding.... (?, 128)"
+437,Epoch: [0][220/100]	Time 0.083	Loss 4.48
+438,"shape of embedding.... (?, 128)"
+439,Epoch: [0][221/100]	Time 0.084	Loss 4.33
+440,"shape of embedding.... (?, 128)"
+441,Epoch: [0][222/100]	Time 0.086	Loss 4.37
+442,"shape of embedding.... (?, 128)"
+443,Epoch: [0][223/100]	Time 0.088	Loss 4.47
+444,"shape of embedding.... (?, 128)"
+445,Epoch: [0][224/100]	Time 0.085	Loss 4.75
+446,"shape of embedding.... (?, 128)"
+447,Epoch: [0][225/100]	Time 0.089	Loss 4.34
+448,"shape of embedding.... (?, 128)"
+449,Epoch: [0][226/100]	Time 0.084	Loss 4.87
+450,"shape of embedding.... (?, 128)"
+451,Epoch: [0][227/100]	Time 0.088	Loss 4.63
+452,"shape of embedding.... (?, 128)"
+453,Epoch: [0][228/100]	Time 0.086	Loss 4.68
+454,"shape of embedding.... (?, 128)"
+455,Epoch: [0][229/100]	Time 0.086	Loss 4.64
+456,"shape of embedding.... (?, 128)"
+457,Epoch: [0][230/100]	Time 0.088	Loss 4.77
+458,"shape of embedding.... (?, 128)"
+459,Epoch: [0][231/100]	Time 0.085	Loss 4.39
+460,"shape of embedding.... (?, 128)"
+461,Epoch: [0][232/100]	Time 0.085	Loss 4.37
+462,"shape of embedding.... (?, 128)"
+463,Epoch: [0][233/100]	Time 0.080	Loss 4.64
+464,"shape of embedding.... (?, 128)"
+465,Epoch: [0][234/100]	Time 0.083	Loss 4.37
+466,"shape of embedding.... (?, 128)"
+467,Epoch: [0][235/100]	Time 0.085	Loss 4.33
+468,"shape of embedding.... (?, 128)"
+469,Epoch: [0][236/100]	Time 0.089	Loss 4.51
+470,"shape of embedding.... (?, 128)"
+471,Epoch: [0][237/100]	Time 0.092	Loss 4.42
+472,"shape of embedding.... (?, 128)"
+473,Epoch: [0][238/100]	Time 0.084	Loss 4.42
+474,"shape of embedding.... (?, 128)"
+475,Epoch: [0][239/100]	Time 0.086	Loss 4.33
+476,"shape of embedding.... (?, 128)"
+477,Epoch: [0][240/100]	Time 0.084	Loss 4.39
+478,"shape of embedding.... (?, 128)"
+479,Epoch: [0][241/100]	Time 0.087	Loss 4.33
+480,"shape of embedding.... (?, 128)"
+481,Epoch: [0][242/100]	Time 0.084	Loss 4.51
+482,"shape of embedding.... (?, 128)"
+483,Epoch: [0][243/100]	Time 0.089	Loss 4.37
+484,"shape of embedding.... (?, 128)"
+485,Epoch: [0][244/100]	Time 0.089	Loss 4.46
+486,"shape of embedding.... (?, 128)"
+487,Epoch: [0][245/100]	Time 0.087	Loss 4.42
+488,"shape of embedding.... (?, 128)"
+489,Epoch: [0][246/100]	Time 0.085	Loss 4.56
+490,"shape of embedding.... (?, 128)"
+491,Epoch: [0][247/100]	Time 0.089	Loss 4.32
+492,"shape of embedding.... (?, 128)"
+493,Epoch: [0][248/100]	Time 0.088	Loss 4.58
+494,"shape of embedding.... (?, 128)"
+495,Epoch: [0][249/100]	Time 0.089	Loss 4.45
+496,"shape of embedding.... (?, 128)"
+497,Epoch: [0][250/100]	Time 0.089	Loss 4.32
+498,"shape of embedding.... (?, 128)"
+499,Epoch: [0][251/100]	Time 0.084	Loss 4.32
+500,"shape of embedding.... (?, 128)"
+501,Epoch: [0][252/100]	Time 0.084	Loss 4.58
+502,"shape of embedding.... (?, 128)"
+503,Epoch: [0][253/100]	Time 0.085	Loss 4.88
+504,"shape of embedding.... (?, 128)"
+505,Epoch: [0][254/100]	Time 0.080	Loss 4.63
+506,"shape of embedding.... (?, 128)"
+507,Epoch: [0][255/100]	Time 0.085	Loss 4.39
+508,"shape of embedding.... (?, 128)"
+509,Epoch: [0][256/100]	Time 0.085	Loss 4.43
+510,"shape of embedding.... (?, 128)"
+511,Epoch: [0][257/100]	Time 0.086	Loss 4.38
+512,"shape of embedding.... (?, 128)"
+513,Epoch: [0][258/100]	Time 0.090	Loss 4.53
+514,"shape of embedding.... (?, 128)"
+515,Epoch: [0][259/100]	Time 0.087	Loss 4.32
+516,"shape of embedding.... (?, 128)"
+517,Epoch: [0][260/100]	Time 0.082	Loss 4.82
+518,"shape of embedding.... (?, 128)"
+519,Epoch: [0][261/100]	Time 0.087	Loss 4.39
+520,"shape of embedding.... (?, 128)"
+521,Epoch: [0][262/100]	Time 0.086	Loss 4.55
+522,"shape of embedding.... (?, 128)"
+523,Epoch: [0][263/100]	Time 0.089	Loss 4.69
+524,"shape of embedding.... (?, 128)"
+525,Epoch: [0][264/100]	Time 0.085	Loss 4.89
+526,"shape of embedding.... (?, 128)"
+527,Epoch: [0][265/100]	Time 0.083	Loss 4.32
+528,"shape of embedding.... (?, 128)"
+529,Epoch: [0][266/100]	Time 0.086	Loss 4.92
+530,"shape of embedding.... (?, 128)"
+531,Epoch: [0][267/100]	Time 0.087	Loss 4.56
+532,"shape of embedding.... (?, 128)"
+533,Epoch: [0][268/100]	Time 0.087	Loss 5.00
+534,"shape of embedding.... (?, 128)"
+535,Epoch: [0][269/100]	Time 0.086	Loss 4.47
+536,"shape of embedding.... (?, 128)"
+537,Epoch: [0][270/100]	Time 0.080	Loss 4.43
+538,"shape of embedding.... (?, 128)"
+539,Epoch: [0][271/100]	Time 0.088	Loss 4.32
+540,"shape of embedding.... (?, 128)"
+541,Epoch: [0][272/100]	Time 0.085	Loss 4.31
+542,"shape of embedding.... (?, 128)"
+543,Epoch: [0][273/100]	Time 0.086	Loss 4.66
+544,"shape of embedding.... (?, 128)"
+545,Epoch: [0][274/100]	Time 0.089	Loss 4.51
+546,"shape of embedding.... (?, 128)"
+547,Epoch: [0][275/100]	Time 0.083	Loss 4.80
+548,"shape of embedding.... (?, 128)"
+549,Epoch: [0][276/100]	Time 0.085	Loss 4.73
+550,"shape of embedding.... (?, 128)"
+551,Epoch: [0][277/100]	Time 0.087	Loss 4.52
+552,"shape of embedding.... (?, 128)"
+553,Epoch: [0][278/100]	Time 0.087	Loss 4.48
+554,"shape of embedding.... (?, 128)"
+555,Epoch: [0][279/100]	Time 0.080	Loss 4.37
+556,"shape of embedding.... (?, 128)"
+557,Epoch: [0][280/100]	Time 0.085	Loss 4.33
+558,"shape of embedding.... (?, 128)"
+559,Epoch: [0][281/100]	Time 0.085	Loss 4.79
+560,"shape of embedding.... (?, 128)"
+561,Epoch: [0][282/100]	Time 0.086	Loss 4.60
+562,"shape of embedding.... (?, 128)"
+563,Epoch: [0][283/100]	Time 0.086	Loss 4.57
+564,"shape of embedding.... (?, 128)"
+565,Epoch: [0][284/100]	Time 0.087	Loss 4.43
+566,"shape of embedding.... (?, 128)"
+567,Epoch: [0][285/100]	Time 0.090	Loss 4.31
+568,"shape of embedding.... (?, 128)"
+569,Epoch: [0][286/100]	Time 0.084	Loss 4.39
+570,"shape of embedding.... (?, 128)"
+571,Epoch: [0][287/100]	Time 0.084	Loss 4.36
+572,"shape of embedding.... (?, 128)"
+573,Epoch: [0][288/100]	Time 0.087	Loss 4.36
+574,"shape of embedding.... (?, 128)"
+575,Epoch: [0][289/100]	Time 0.082	Loss 4.92
+576,"shape of embedding.... (?, 128)"
+577,Epoch: [0][290/100]	Time 0.084	Loss 4.64
+578,"shape of embedding.... (?, 128)"
+579,Epoch: [0][291/100]	Time 0.086	Loss 4.75
+580,"shape of embedding.... (?, 128)"
+581,Epoch: [0][292/100]	Time 0.079	Loss 4.31
+582,"shape of embedding.... (?, 128)"
+583,Epoch: [0][293/100]	Time 0.083	Loss 4.31
+584,"shape of embedding.... (?, 128)"
+585,Epoch: [0][294/100]	Time 0.087	Loss 4.31
+586,"shape of embedding.... (?, 128)"
+587,Epoch: [0][295/100]	Time 0.085	Loss 4.80
+588,"shape of embedding.... (?, 128)"
+589,Epoch: [0][296/100]	Time 0.086	Loss 4.31
+590,"shape of embedding.... (?, 128)"
+591,Epoch: [0][297/100]	Time 0.083	Loss 4.59
+592,"shape of embedding.... (?, 128)"
+593,Epoch: [0][298/100]	Time 0.088	Loss 4.60
+594,"shape of embedding.... (?, 128)"
+595,Epoch: [0][299/100]	Time 0.086	Loss 4.30
+596,"shape of embedding.... (?, 128)"
+597,Epoch: [0][300/100]	Time 0.088	Loss 4.49
+598,"shape of embedding.... (?, 128)"
+599,Epoch: [0][301/100]	Time 0.084	Loss 4.41
+600,"shape of embedding.... (?, 128)"
+601,Epoch: [0][302/100]	Time 0.091	Loss 4.63
+602,"shape of embedding.... (?, 128)"
+603,Epoch: [0][303/100]	Time 0.083	Loss 4.30
+604,"shape of embedding.... (?, 128)"
+605,Epoch: [0][304/100]	Time 0.088	Loss 4.41
+606,"shape of embedding.... (?, 128)"
+607,Epoch: [0][305/100]	Time 0.087	Loss 4.53
+608,"shape of embedding.... (?, 128)"
+609,Epoch: [0][306/100]	Time 0.084	Loss 4.30
+610,"shape of embedding.... (?, 128)"
+611,Epoch: [0][307/100]	Time 0.087	Loss 4.30
+612,"shape of embedding.... (?, 128)"
+613,Epoch: [0][308/100]	Time 0.090	Loss 4.55
+614,"shape of embedding.... (?, 128)"
+615,Epoch: [0][309/100]	Time 0.088	Loss 4.43
+616,"shape of embedding.... (?, 128)"
+617,Epoch: [0][310/100]	Time 0.085	Loss 4.30
+618,"shape of embedding.... (?, 128)"
+619,Epoch: [0][311/100]	Time 0.092	Loss 4.58
+620,"shape of embedding.... (?, 128)"
+621,Epoch: [0][312/100]	Time 0.086	Loss 4.31
+622,"shape of embedding.... (?, 128)"
+623,Epoch: [0][313/100]	Time 0.080	Loss 4.58
+624,"shape of embedding.... (?, 128)"
+625,Epoch: [0][314/100]	Time 0.087	Loss 4.53
+626,"shape of embedding.... (?, 128)"
+627,Epoch: [0][315/100]	Time 0.083	Loss 4.51
+628,"shape of embedding.... (?, 128)"
+629,Epoch: [0][316/100]	Time 0.082	Loss 4.39
+630,"shape of embedding.... (?, 128)"
+631,Epoch: [0][317/100]	Time 0.082	Loss 4.61
+632,"shape of embedding.... (?, 128)"
+633,Epoch: [0][318/100]	Time 0.088	Loss 4.30
+634,"shape of embedding.... (?, 128)"
+635,Epoch: [0][319/100]	Time 0.089	Loss 4.58
+636,"shape of embedding.... (?, 128)"
+637,Epoch: [0][320/100]	Time 0.085	Loss 4.66
+638,"shape of embedding.... (?, 128)"
+639,Epoch: [0][321/100]	Time 0.087	Loss 4.30
+640,"shape of embedding.... (?, 128)"
+641,Epoch: [0][322/100]	Time 0.084	Loss 4.58
+642,"shape of embedding.... (?, 128)"
+643,Epoch: [0][323/100]	Time 0.081	Loss 4.30
+644,"shape of embedding.... (?, 128)"
+645,Epoch: [0][324/100]	Time 0.091	Loss 4.29
+646,"shape of embedding.... (?, 128)"
+647,Epoch: [0][325/100]	Time 0.089	Loss 4.56
+648,"shape of embedding.... (?, 128)"
+649,Epoch: [0][326/100]	Time 0.082	Loss 4.86
+650,"shape of embedding.... (?, 128)"
+651,Epoch: [0][327/100]	Time 0.086	Loss 4.33
+652,"shape of embedding.... (?, 128)"
+653,Epoch: [0][328/100]	Time 0.089	Loss 4.29
+654,"shape of embedding.... (?, 128)"
+655,Epoch: [0][329/100]	Time 0.088	Loss 4.72
+656,"shape of embedding.... (?, 128)"
+657,Epoch: [0][330/100]	Time 0.086	Loss 4.60
+658,"shape of embedding.... (?, 128)"
+659,Epoch: [0][331/100]	Time 0.087	Loss 4.29
+660,"shape of embedding.... (?, 128)"
+661,Epoch: [0][332/100]	Time 0.084	Loss 4.29
+662,"shape of embedding.... (?, 128)"
+663,Epoch: [0][333/100]	Time 0.087	Loss 4.29
+664,"shape of embedding.... (?, 128)"
+665,Epoch: [0][334/100]	Time 0.087	Loss 4.29
+666,"shape of embedding.... (?, 128)"
+667,Epoch: [0][335/100]	Time 0.087	Loss 4.39
+668,"shape of embedding.... (?, 128)"
+669,Epoch: [0][336/100]	Time 0.089	Loss 4.43
+670,"shape of embedding.... (?, 128)"
+671,Epoch: [0][337/100]	Time 0.087	Loss 4.38
+672,"shape of embedding.... (?, 128)"
+673,Epoch: [0][338/100]	Time 0.084	Loss 4.29
+674,"shape of embedding.... (?, 128)"
+675,Epoch: [0][339/100]	Time 0.087	Loss 4.45
+676,"shape of embedding.... (?, 128)"
+677,Epoch: [0][340/100]	Time 0.085	Loss 4.34
+678,"shape of embedding.... (?, 128)"
+679,Epoch: [0][341/100]	Time 0.083	Loss 4.57
+680,"shape of embedding.... (?, 128)"
+681,Epoch: [0][342/100]	Time 0.085	Loss 4.85
+682,"shape of embedding.... (?, 128)"
+683,Epoch: [0][343/100]	Time 0.088	Loss 4.61
+684,"shape of embedding.... (?, 128)"
+685,Epoch: [0][344/100]	Time 0.088	Loss 4.29
+686,"shape of embedding.... (?, 128)"
+687,Epoch: [0][345/100]	Time 0.081	Loss 4.45
+688,"shape of embedding.... (?, 128)"
+689,Epoch: [0][346/100]	Time 0.083	Loss 4.49
+690,"shape of embedding.... (?, 128)"
+691,Epoch: [0][347/100]	Time 0.085	Loss 4.29
+692,"shape of embedding.... (?, 128)"
+693,Epoch: [0][348/100]	Time 0.087	Loss 4.39
+694,"shape of embedding.... (?, 128)"
+695,Epoch: [0][349/100]	Time 0.088	Loss 4.29
+696,"shape of embedding.... (?, 128)"
+697,Epoch: [0][350/100]	Time 0.082	Loss 4.56
+698,"shape of embedding.... (?, 128)"
+699,Epoch: [0][351/100]	Time 0.083	Loss 4.98
+700,"shape of embedding.... (?, 128)"
+701,Epoch: [0][352/100]	Time 0.089	Loss 4.47
+702,"shape of embedding.... (?, 128)"
+703,Epoch: [0][353/100]	Time 0.087	Loss 4.53
+704,"shape of embedding.... (?, 128)"
+705,Epoch: [0][354/100]	Time 0.085	Loss 4.28
+706,"shape of embedding.... (?, 128)"
+707,Epoch: [0][355/100]	Time 0.085	Loss 4.51
+708,"shape of embedding.... (?, 128)"
+709,Epoch: [0][356/100]	Time 0.092	Loss 4.36
+710,"shape of embedding.... (?, 128)"
+711,Epoch: [0][357/100]	Time 0.088	Loss 4.30
+712,"shape of embedding.... (?, 128)"
+713,Epoch: [0][358/100]	Time 0.088	Loss 4.43
+714,"shape of embedding.... (?, 128)"
+715,Epoch: [0][359/100]	Time 0.087	Loss 4.48
+716,"shape of embedding.... (?, 128)"
+717,Epoch: [0][360/100]	Time 0.083	Loss 4.46
+718,"shape of embedding.... (?, 128)"
+719,Epoch: [0][361/100]	Time 0.085	Loss 4.28
+720,"shape of embedding.... (?, 128)"
+721,Epoch: [0][362/100]	Time 0.088	Loss 4.35
+722,"shape of embedding.... (?, 128)"
+723,Epoch: [0][363/100]	Time 0.081	Loss 4.61
+724,"shape of embedding.... (?, 128)"
+725,Epoch: [0][364/100]	Time 0.090	Loss 4.53
+726,"shape of embedding.... (?, 128)"
+727,Epoch: [0][365/100]	Time 0.084	Loss 4.28
+728,"shape of embedding.... (?, 128)"
+729,Epoch: [0][366/100]	Time 0.085	Loss 4.37
+730,"shape of embedding.... (?, 128)"
+731,Epoch: [0][367/100]	Time 0.085	Loss 4.28
+732,"shape of embedding.... (?, 128)"
+733,Epoch: [0][368/100]	Time 0.089	Loss 4.28
+734,"shape of embedding.... (?, 128)"
+735,Epoch: [0][369/100]	Time 0.080	Loss 5.16
+736,"shape of embedding.... (?, 128)"
+737,Epoch: [0][370/100]	Time 0.088	Loss 4.67
+738,"shape of embedding.... (?, 128)"
+739,Epoch: [0][371/100]	Time 0.087	Loss 4.35
+740,"shape of embedding.... (?, 128)"
+741,Epoch: [0][372/100]	Time 0.088	Loss 4.39
+742,"shape of embedding.... (?, 128)"
+743,Epoch: [0][373/100]	Time 0.085	Loss 4.35
+744,"shape of embedding.... (?, 128)"
+745,Epoch: [0][374/100]	Time 0.087	Loss 4.57
+746,"shape of embedding.... (?, 128)"
+747,Epoch: [0][375/100]	Time 0.088	Loss 4.67
+748,"shape of embedding.... (?, 128)"
+749,Epoch: [0][376/100]	Time 0.085	Loss 4.51
+750,"shape of embedding.... (?, 128)"
+751,Epoch: [0][377/100]	Time 0.082	Loss 4.65
+752,"shape of embedding.... (?, 128)"
+753,Epoch: [0][378/100]	Time 0.084	Loss 4.27
+754,"shape of embedding.... (?, 128)"
+755,Epoch: [0][379/100]	Time 0.091	Loss 4.27
+756,"shape of embedding.... (?, 128)"
+757,Epoch: [0][380/100]	Time 0.087	Loss 4.50
+758,"shape of embedding.... (?, 128)"
+759,Epoch: [0][381/100]	Time 0.087	Loss 4.32
+760,"shape of embedding.... (?, 128)"
+761,Epoch: [0][382/100]	Time 0.089	Loss 4.55
+762,"shape of embedding.... (?, 128)"
+763,Epoch: [0][383/100]	Time 0.087	Loss 4.48
+764,"shape of embedding.... (?, 128)"
+765,Epoch: [0][384/100]	Time 0.084	Loss 4.27
+766,"shape of embedding.... (?, 128)"
+767,Epoch: [0][385/100]	Time 0.084	Loss 4.66
+768,"shape of embedding.... (?, 128)"
+769,Epoch: [0][386/100]	Time 0.086	Loss 4.27
+770,"shape of embedding.... (?, 128)"
+771,Epoch: [0][387/100]	Time 0.088	Loss 4.40
+772,"shape of embedding.... (?, 128)"
+773,Epoch: [0][388/100]	Time 0.084	Loss 4.27
+774,"shape of embedding.... (?, 128)"
+775,Epoch: [0][389/100]	Time 0.083	Loss 4.28
+776,"shape of embedding.... (?, 128)"
+777,Epoch: [0][390/100]	Time 0.094	Loss 4.35
+778,"shape of embedding.... (?, 128)"
+779,Epoch: [0][391/100]	Time 0.080	Loss 4.27
+780,"shape of embedding.... (?, 128)"
+781,Epoch: [0][392/100]	Time 0.087	Loss 4.27
+782,"shape of embedding.... (?, 128)"
+783,Epoch: [0][393/100]	Time 0.086	Loss 4.34
+784,"shape of embedding.... (?, 128)"
+785,Epoch: [0][394/100]	Time 0.088	Loss 4.39
+786,"shape of embedding.... (?, 128)"
+787,Epoch: [0][395/100]	Time 0.094	Loss 4.27
+788,"shape of embedding.... (?, 128)"
+789,Epoch: [0][396/100]	Time 0.087	Loss 4.89
+790,"shape of embedding.... (?, 128)"
+791,Epoch: [0][397/100]	Time 0.088	Loss 4.47
+792,"shape of embedding.... (?, 128)"
+793,Epoch: [0][398/100]	Time 0.089	Loss 4.49
+794,"shape of embedding.... (?, 128)"
+795,Epoch: [0][399/100]	Time 0.088	Loss 4.27
+796,"shape of embedding.... (?, 128)"
+797,Epoch: [0][400/100]	Time 0.081	Loss 4.26
+798,"shape of embedding.... (?, 128)"
+799,Epoch: [0][401/100]	Time 0.087	Loss 4.69
+800,"shape of embedding.... (?, 128)"
+801,Epoch: [0][402/100]	Time 0.083	Loss 4.47
+802,"shape of embedding.... (?, 128)"
+803,Epoch: [0][403/100]	Time 0.088	Loss 4.48
+804,"shape of embedding.... (?, 128)"
+805,Epoch: [0][404/100]	Time 0.088	Loss 4.51
+806,"shape of embedding.... (?, 128)"
+807,Epoch: [0][405/100]	Time 0.085	Loss 4.94
+808,"shape of embedding.... (?, 128)"
+809,Epoch: [0][406/100]	Time 0.083	Loss 4.26
+810,"shape of embedding.... (?, 128)"
+811,Epoch: [0][407/100]	Time 0.086	Loss 4.38
+812,"shape of embedding.... (?, 128)"
+813,Epoch: [0][408/100]	Time 0.091	Loss 4.28
+814,"shape of embedding.... (?, 128)"
+815,Epoch: [0][409/100]	Time 0.086	Loss 4.73
+816,"shape of embedding.... (?, 128)"
+817,Epoch: [0][410/100]	Time 0.087	Loss 4.26
+818,"shape of embedding.... (?, 128)"
+819,Epoch: [0][411/100]	Time 0.082	Loss 4.26
+820,"shape of embedding.... (?, 128)"
+821,Epoch: [0][412/100]	Time 0.087	Loss 4.30
+822,"shape of embedding.... (?, 128)"
+823,Epoch: [0][413/100]	Time 0.093	Loss 4.46
+824,"shape of embedding.... (?, 128)"
+825,Epoch: [0][414/100]	Time 0.087	Loss 4.26
+826,"shape of embedding.... (?, 128)"
+827,Epoch: [0][415/100]	Time 0.086	Loss 4.57
+828,"shape of embedding.... (?, 128)"
+829,Epoch: [0][416/100]	Time 0.087	Loss 4.30
+830,"shape of embedding.... (?, 128)"
+831,Epoch: [0][417/100]	Time 0.087	Loss 4.43
+832,"shape of embedding.... (?, 128)"
+833,Epoch: [0][418/100]	Time 0.087	Loss 4.32
+834,"shape of embedding.... (?, 128)"
+835,Epoch: [0][419/100]	Time 0.086	Loss 4.46
+836,"shape of embedding.... (?, 128)"
+837,Epoch: [0][420/100]	Time 0.085	Loss 4.37
+838,"shape of embedding.... (?, 128)"
+839,Epoch: [0][421/100]	Time 0.085	Loss 4.60
+840,"shape of embedding.... (?, 128)"
+841,Epoch: [0][422/100]	Time 0.092	Loss 4.26
+842,"shape of embedding.... (?, 128)"
+843,Epoch: [0][423/100]	Time 0.093	Loss 4.32
+844,"shape of embedding.... (?, 128)"
+845,Epoch: [0][424/100]	Time 0.089	Loss 4.26
+846,"shape of embedding.... (?, 128)"
+847,Epoch: [0][425/100]	Time 0.097	Loss 4.31
+848,"shape of embedding.... (?, 128)"
+849,Epoch: [0][426/100]	Time 0.093	Loss 4.41
+850,"shape of embedding.... (?, 128)"
+851,Epoch: [0][427/100]	Time 0.092	Loss 4.38
+852,"shape of embedding.... (?, 128)"
+853,Epoch: [0][428/100]	Time 0.091	Loss 4.25
+854,"shape of embedding.... (?, 128)"
+855,Epoch: [0][429/100]	Time 0.090	Loss 4.84
+856,"shape of embedding.... (?, 128)"
+857,Epoch: [0][430/100]	Time 0.099	Loss 4.50
+858,"shape of embedding.... (?, 128)"
+859,Epoch: [0][431/100]	Time 0.091	Loss 4.25
+860,"shape of embedding.... (?, 128)"
+861,Epoch: [0][432/100]	Time 0.090	Loss 4.49
+862,"shape of embedding.... (?, 128)"
+863,Epoch: [0][433/100]	Time 0.087	Loss 4.45
+864,"shape of embedding.... (?, 128)"
+865,Epoch: [0][434/100]	Time 0.093	Loss 4.50
+866,"shape of embedding.... (?, 128)"
+867,Epoch: [0][435/100]	Time 0.092	Loss 4.42
+868,"shape of embedding.... (?, 128)"
+869,Epoch: [0][436/100]	Time 0.090	Loss 4.25
+870,"shape of embedding.... (?, 128)"
+871,Epoch: [0][437/100]	Time 0.080	Loss 4.30
+872,"shape of embedding.... (?, 128)"
+873,Epoch: [0][438/100]	Time 0.084	Loss 4.28
+874,"shape of embedding.... (?, 128)"
+875,Epoch: [0][439/100]	Time 0.088	Loss 4.34
+876,"shape of embedding.... (?, 128)"
+877,Epoch: [0][440/100]	Time 0.091	Loss 4.70
+878,"shape of embedding.... (?, 128)"
+879,Epoch: [0][441/100]	Time 0.085	Loss 4.58
+880,"shape of embedding.... (?, 128)"
+881,Epoch: [0][442/100]	Time 0.092	Loss 4.34
+882,"shape of embedding.... (?, 128)"
+883,Epoch: [0][443/100]	Time 0.082	Loss 4.46
+884,"shape of embedding.... (?, 128)"
+885,Epoch: [0][444/100]	Time 0.084	Loss 4.41
+886,"shape of embedding.... (?, 128)"
+887,Epoch: [0][445/100]	Time 0.084	Loss 4.34
+888,"shape of embedding.... (?, 128)"
+889,Epoch: [0][446/100]	Time 0.092	Loss 4.25
+890,"shape of embedding.... (?, 128)"
+891,Epoch: [0][447/100]	Time 0.096	Loss 4.25
+892,"shape of embedding.... (?, 128)"
+893,Epoch: [0][448/100]	Time 0.091	Loss 4.29
+894,"shape of embedding.... (?, 128)"
+895,Epoch: [0][449/100]	Time 0.093	Loss 4.24
+896,"shape of embedding.... (?, 128)"
+897,Epoch: [0][450/100]	Time 0.090	Loss 4.46
+898,"shape of embedding.... (?, 128)"
+899,Epoch: [0][451/100]	Time 0.082	Loss 4.24
+900,"shape of embedding.... (?, 128)"
+901,Epoch: [0][452/100]	Time 0.088	Loss 4.44
+902,"shape of embedding.... (?, 128)"
+903,Epoch: [0][453/100]	Time 0.087	Loss 4.73
+904,"shape of embedding.... (?, 128)"
+905,Epoch: [0][454/100]	Time 0.083	Loss 4.56
+906,"shape of embedding.... (?, 128)"
+907,Epoch: [0][455/100]	Time 0.087	Loss 4.29
+908,"shape of embedding.... (?, 128)"
+909,Epoch: [0][456/100]	Time 0.085	Loss 4.33
+910,"shape of embedding.... (?, 128)"
+911,Epoch: [0][457/100]	Time 0.087	Loss 4.24
+912,"shape of embedding.... (?, 128)"
+913,Epoch: [0][458/100]	Time 0.096	Loss 4.24
+914,"shape of embedding.... (?, 128)"
+915,Epoch: [0][459/100]	Time 0.093	Loss 4.29
+916,"shape of embedding.... (?, 128)"
+917,Epoch: [0][460/100]	Time 0.090	Loss 4.24
+918,"shape of embedding.... (?, 128)"
+919,Epoch: [0][461/100]	Time 0.090	Loss 4.52
+920,"shape of embedding.... (?, 128)"
+921,Epoch: [0][462/100]	Time 0.091	Loss 4.38
+922,"shape of embedding.... (?, 128)"
+923,Epoch: [0][463/100]	Time 0.087	Loss 4.30
+924,"shape of embedding.... (?, 128)"
+925,Epoch: [0][464/100]	Time 0.087	Loss 4.35
+926,"shape of embedding.... (?, 128)"
+927,Epoch: [0][465/100]	Time 0.087	Loss 4.24
+928,"shape of embedding.... (?, 128)"
+929,Epoch: [0][466/100]	Time 0.092	Loss 4.65
+930,"shape of embedding.... (?, 128)"
+931,Epoch: [0][467/100]	Time 0.087	Loss 4.28
+932,"shape of embedding.... (?, 128)"
+933,Epoch: [0][468/100]	Time 0.086	Loss 4.24
+934,"shape of embedding.... (?, 128)"
+935,Epoch: [0][469/100]	Time 0.087	Loss 4.30
+936,"shape of embedding.... (?, 128)"
+937,Epoch: [0][470/100]	Time 0.084	Loss 4.40
+938,"shape of embedding.... (?, 128)"
+939,Epoch: [0][471/100]	Time 0.086	Loss 4.31
+940,"shape of embedding.... (?, 128)"
+941,Epoch: [0][472/100]	Time 0.086	Loss 4.38
+942,"shape of embedding.... (?, 128)"
+943,Epoch: [0][473/100]	Time 0.085	Loss 4.42
+944,"shape of embedding.... (?, 128)"
+945,Epoch: [0][474/100]	Time 0.083	Loss 4.50
+946,"shape of embedding.... (?, 128)"
+947,Epoch: [0][475/100]	Time 0.083	Loss 4.54
+948,"shape of embedding.... (?, 128)"
+949,Epoch: [0][476/100]	Time 0.091	Loss 4.23
+950,"shape of embedding.... (?, 128)"
+951,Epoch: [0][477/100]	Time 0.089	Loss 4.29
+952,"shape of embedding.... (?, 128)"
+953,Epoch: [0][478/100]	Time 0.084	Loss 4.42
+954,"shape of embedding.... (?, 128)"
+955,Epoch: [0][479/100]	Time 0.085	Loss 4.34
+956,"shape of embedding.... (?, 128)"
+957,Epoch: [0][480/100]	Time 0.087	Loss 4.37
+958,"shape of embedding.... (?, 128)"
+959,Epoch: [0][481/100]	Time 0.088	Loss 4.42
+960,"shape of embedding.... (?, 128)"
+961,Epoch: [0][482/100]	Time 0.087	Loss 4.26
+962,"shape of embedding.... (?, 128)"
+963,Epoch: [0][483/100]	Time 0.082	Loss 4.51
+964,"shape of embedding.... (?, 128)"
+965,Epoch: [0][484/100]	Time 0.083	Loss 4.35
+966,"shape of embedding.... (?, 128)"
+967,Epoch: [0][485/100]	Time 0.089	Loss 4.31
+968,"shape of embedding.... (?, 128)"
+969,Epoch: [0][486/100]	Time 0.089	Loss 4.39
+970,"shape of embedding.... (?, 128)"
+971,Epoch: [0][487/100]	Time 0.084	Loss 4.23
+972,"shape of embedding.... (?, 128)"
+973,Epoch: [0][488/100]	Time 0.087	Loss 4.23
+974,"shape of embedding.... (?, 128)"
+975,Epoch: [0][489/100]	Time 0.086	Loss 4.24
+976,"shape of embedding.... (?, 128)"
+977,Epoch: [0][490/100]	Time 0.082	Loss 4.25
+978,"shape of embedding.... (?, 128)"
+979,Epoch: [0][491/100]	Time 0.086	Loss 4.33
+980,"shape of embedding.... (?, 128)"
+981,Epoch: [0][492/100]	Time 0.085	Loss 4.52
+982,"shape of embedding.... (?, 128)"
+983,Epoch: [0][493/100]	Time 0.094	Loss 4.28
+984,"shape of embedding.... (?, 128)"
+985,Epoch: [0][494/100]	Time 0.086	Loss 4.37
+986,"shape of embedding.... (?, 128)"
+987,Epoch: [0][495/100]	Time 0.087	Loss 4.42
+988,"shape of embedding.... (?, 128)"
+989,Epoch: [0][496/100]	Time 0.087	Loss 4.28
+990,"shape of embedding.... (?, 128)"
+991,Epoch: [0][497/100]	Time 0.084	Loss 4.23
+992,"shape of embedding.... (?, 128)"
+993,Epoch: [0][498/100]	Time 0.086	Loss 4.25
+994,"shape of embedding.... (?, 128)"
+995,Epoch: [0][499/100]	Time 0.085	Loss 4.43
+996,"shape of embedding.... (?, 128)"
+997,Epoch: [0][500/100]	Time 0.082	Loss 4.22
+998,"shape of embedding.... (?, 128)"
+999,Epoch: [0][501/100]	Time 0.082	Loss 4.32
+1000,"shape of embedding.... (?, 128)"
+1001,Epoch: [0][502/100]	Time 0.084	Loss 4.26
+1002,"shape of embedding.... (?, 128)"
+1003,Epoch: [0][503/100]	Time 0.089	Loss 4.22
+1004,"shape of embedding.... (?, 128)"
+1005,Epoch: [0][504/100]	Time 0.087	Loss 4.29
+1006,"shape of embedding.... (?, 128)"
+1007,Epoch: [0][505/100]	Time 0.085	Loss 4.22
+1008,"shape of embedding.... (?, 128)"
+1009,Epoch: [0][506/100]	Time 0.086	Loss 4.35
+1010,"shape of embedding.... (?, 128)"
+1011,Epoch: [0][507/100]	Time 0.086	Loss 4.22
+1012,"shape of embedding.... (?, 128)"
+1013,Epoch: [0][508/100]	Time 0.087	Loss 4.54
+1014,"shape of embedding.... (?, 128)"
+1015,Epoch: [0][509/100]	Time 0.086	Loss 4.22
+1016,"shape of embedding.... (?, 128)"
+1017,Epoch: [0][510/100]	Time 0.087	Loss 4.22
+1018,"shape of embedding.... (?, 128)"
+1019,Epoch: [0][511/100]	Time 0.089	Loss 4.24
+1020,"shape of embedding.... (?, 128)"
+1021,Epoch: [0][512/100]	Time 0.086	Loss 4.35
+1022,"shape of embedding.... (?, 128)"
+1023,Epoch: [0][513/100]	Time 0.087	Loss 4.63
+1024,"shape of embedding.... (?, 128)"
+1025,Epoch: [0][514/100]	Time 0.087	Loss 4.28
+1026,"shape of embedding.... (?, 128)"
+1027,Epoch: [0][515/100]	Time 0.086	Loss 4.23
+1028,"shape of embedding.... (?, 128)"
+1029,Epoch: [0][516/100]	Time 0.087	Loss 4.53
+1030,"shape of embedding.... (?, 128)"
+1031,Epoch: [0][517/100]	Time 0.084	Loss 4.22
+1032,"shape of embedding.... (?, 128)"
+1033,Epoch: [0][518/100]	Time 0.089	Loss 4.24
+1034,"shape of embedding.... (?, 128)"
+1035,Epoch: [0][519/100]	Time 0.082	Loss 4.38
+1036,"shape of embedding.... (?, 128)"
+1037,Epoch: [0][520/100]	Time 0.093	Loss 4.35
+1038,"shape of embedding.... (?, 128)"
+1039,Epoch: [0][521/100]	Time 0.084	Loss 4.22
+1040,"shape of embedding.... (?, 128)"
+1041,Epoch: [0][522/100]	Time 0.084	Loss 4.30
+1042,"shape of embedding.... (?, 128)"
+1043,Epoch: [0][523/100]	Time 0.084	Loss 4.28
+1044,"shape of embedding.... (?, 128)"
+1045,Epoch: [0][524/100]	Time 0.089	Loss 4.34
+1046,"shape of embedding.... (?, 128)"
+1047,Epoch: [0][525/100]	Time 0.088	Loss 4.43
+1048,"shape of embedding.... (?, 128)"
+1049,Epoch: [0][526/100]	Time 0.085	Loss 4.36
+1050,"shape of embedding.... (?, 128)"
+1051,Epoch: [0][527/100]	Time 0.086	Loss 4.29
+1052,"shape of embedding.... (?, 128)"
+1053,Epoch: [0][528/100]	Time 0.085	Loss 4.23
+1054,"shape of embedding.... (?, 128)"
+1055,Epoch: [0][529/100]	Time 0.087	Loss 4.35
+1056,"shape of embedding.... (?, 128)"
+1057,Epoch: [0][530/100]	Time 0.085	Loss 4.21
+1058,"shape of embedding.... (?, 128)"
+1059,Epoch: [0][531/100]	Time 0.088	Loss 4.53
+1060,"shape of embedding.... (?, 128)"
+1061,Epoch: [0][532/100]	Time 0.086	Loss 4.43
+1062,"shape of embedding.... (?, 128)"
+1063,Epoch: [0][533/100]	Time 0.083	Loss 4.30
+1064,"shape of embedding.... (?, 128)"
+1065,Epoch: [0][534/100]	Time 0.085	Loss 4.43
+1066,"shape of embedding.... (?, 128)"
+1067,Epoch: [0][535/100]	Time 0.080	Loss 4.26
+1068,"shape of embedding.... (?, 128)"
+1069,Epoch: [0][536/100]	Time 0.084	Loss 4.21
+1070,"shape of embedding.... (?, 128)"
+1071,Epoch: [0][537/100]	Time 0.090	Loss 4.43
+1072,"shape of embedding.... (?, 128)"
+1073,Epoch: [0][538/100]	Time 0.087	Loss 4.21
+1074,"shape of embedding.... (?, 128)"
+1075,Epoch: [0][539/100]	Time 0.087	Loss 4.23
+1076,"shape of embedding.... (?, 128)"
+1077,Epoch: [0][540/100]	Time 0.088	Loss 4.55
+1078,"shape of embedding.... (?, 128)"
+1079,Epoch: [0][541/100]	Time 0.086	Loss 4.21
+1080,"shape of embedding.... (?, 128)"
+1081,Epoch: [0][542/100]	Time 0.088	Loss 4.36
+1082,"shape of embedding.... (?, 128)"
+1083,Epoch: [0][543/100]	Time 0.086	Loss 4.22
+1084,"shape of embedding.... (?, 128)"
+1085,Epoch: [0][544/100]	Time 0.081	Loss 4.21
+1086,"shape of embedding.... (?, 128)"
+1087,Epoch: [0][545/100]	Time 0.087	Loss 4.21
+1088,"shape of embedding.... (?, 128)"
+1089,Epoch: [0][546/100]	Time 0.084	Loss 4.31
+1090,"shape of embedding.... (?, 128)"
+1091,Epoch: [0][547/100]	Time 0.089	Loss 4.37
+1092,"shape of embedding.... (?, 128)"
+1093,Epoch: [0][548/100]	Time 0.089	Loss 4.24
+1094,"shape of embedding.... (?, 128)"
+1095,Epoch: [0][549/100]	Time 0.082	Loss 4.45
+1096,"shape of embedding.... (?, 128)"
+1097,Epoch: [0][550/100]	Time 0.089	Loss 4.20
+1098,"shape of embedding.... (?, 128)"
+1099,Epoch: [0][551/100]	Time 0.084	Loss 4.23
+1100,"shape of embedding.... (?, 128)"
+1101,Epoch: [0][552/100]	Time 0.087	Loss 4.22
+1102,"shape of embedding.... (?, 128)"
+1103,Epoch: [0][553/100]	Time 0.089	Loss 4.20
+1104,"shape of embedding.... (?, 128)"
+1105,Epoch: [0][554/100]	Time 0.092	Loss 4.22
+1106,"shape of embedding.... (?, 128)"
+1107,Epoch: [0][555/100]	Time 0.085	Loss 4.22
+1108,"shape of embedding.... (?, 128)"
+1109,Epoch: [0][556/100]	Time 0.089	Loss 4.41
+1110,"shape of embedding.... (?, 128)"
+1111,Epoch: [0][557/100]	Time 0.086	Loss 4.27
+1112,"shape of embedding.... (?, 128)"
+1113,Epoch: [0][558/100]	Time 0.084	Loss 4.26
+1114,"shape of embedding.... (?, 128)"
+1115,Epoch: [0][559/100]	Time 0.086	Loss 4.20
+1116,"shape of embedding.... (?, 128)"
+1117,Epoch: [0][560/100]	Time 0.084	Loss 4.20
+1118,"shape of embedding.... (?, 128)"
+1119,Epoch: [0][561/100]	Time 0.087	Loss 4.20
+1120,"shape of embedding.... (?, 128)"
+1121,Epoch: [0][562/100]	Time 0.082	Loss 4.52
+1122,"shape of embedding.... (?, 128)"
+1123,Epoch: [0][563/100]	Time 0.087	Loss 4.20
+1124,"shape of embedding.... (?, 128)"
+1125,Epoch: [0][564/100]	Time 0.088	Loss 4.42
+1126,"shape of embedding.... (?, 128)"
+1127,Epoch: [0][565/100]	Time 0.086	Loss 4.53
+1128,"shape of embedding.... (?, 128)"
+1129,Epoch: [0][566/100]	Time 0.090	Loss 4.54
+1130,"shape of embedding.... (?, 128)"
+1131,Epoch: [0][567/100]	Time 0.084	Loss 4.46
+1132,"shape of embedding.... (?, 128)"
+1133,Epoch: [0][568/100]	Time 0.083	Loss 4.20
+1134,"shape of embedding.... (?, 128)"
+1135,Epoch: [0][569/100]	Time 0.090	Loss 4.24
+1136,"shape of embedding.... (?, 128)"
+1137,Epoch: [0][570/100]	Time 0.084	Loss 4.26
+1138,"shape of embedding.... (?, 128)"
+1139,Epoch: [0][571/100]	Time 0.084	Loss 4.21
+1140,"shape of embedding.... (?, 128)"
+1141,Epoch: [0][572/100]	Time 0.087	Loss 4.54
+1142,"shape of embedding.... (?, 128)"
+1143,Epoch: [0][573/100]	Time 0.089	Loss 4.32
+1144,"shape of embedding.... (?, 128)"
+1145,Epoch: [0][574/100]	Time 0.084	Loss 4.31
+1146,"shape of embedding.... (?, 128)"
+1147,Epoch: [0][575/100]	Time 0.084	Loss 4.39
+1148,"shape of embedding.... (?, 128)"
+1149,Epoch: [0][576/100]	Time 0.088	Loss 4.20
+1150,"shape of embedding.... (?, 128)"
+1151,Epoch: [0][577/100]	Time 0.083	Loss 4.33
+1152,"shape of embedding.... (?, 128)"
+1153,Epoch: [0][578/100]	Time 0.086	Loss 4.32
+1154,"shape of embedding.... (?, 128)"
+1155,Epoch: [0][579/100]	Time 0.088	Loss 4.27
+1156,"shape of embedding.... (?, 128)"
+1157,Epoch: [0][580/100]	Time 0.085	Loss 4.45
+1158,"shape of embedding.... (?, 128)"
+1159,Epoch: [0][581/100]	Time 0.087	Loss 4.19
+1160,"shape of embedding.... (?, 128)"
+1161,Epoch: [0][582/100]	Time 0.089	Loss 4.39
+1162,"shape of embedding.... (?, 128)"
+1163,Epoch: [0][583/100]	Time 0.087	Loss 4.19
+1164,"shape of embedding.... (?, 128)"
+1165,Epoch: [0][584/100]	Time 0.086	Loss 4.29
+1166,"shape of embedding.... (?, 128)"
+1167,Epoch: [0][585/100]	Time 0.083	Loss 4.19
+1168,"shape of embedding.... (?, 128)"
+1169,Epoch: [0][586/100]	Time 0.086	Loss 4.30
+1170,"shape of embedding.... (?, 128)"
+1171,Epoch: [0][587/100]	Time 0.086	Loss 4.67
+1172,"shape of embedding.... (?, 128)"
+1173,Epoch: [0][588/100]	Time 0.087	Loss 4.24
+1174,"shape of embedding.... (?, 128)"
+1175,Epoch: [0][589/100]	Time 0.086	Loss 4.49
+1176,"shape of embedding.... (?, 128)"
+1177,Epoch: [0][590/100]	Time 0.088	Loss 4.34
+1178,"shape of embedding.... (?, 128)"
+1179,Epoch: [0][591/100]	Time 0.086	Loss 4.31
+1180,"shape of embedding.... (?, 128)"
+1181,Epoch: [0][592/100]	Time 0.084	Loss 4.19
+1182,"shape of embedding.... (?, 128)"
+1183,Epoch: [0][593/100]	Time 0.084	Loss 4.69
+1184,"shape of embedding.... (?, 128)"
+1185,Epoch: [0][594/100]	Time 0.088	Loss 4.19
+1186,"shape of embedding.... (?, 128)"
+1187,Epoch: [0][595/100]	Time 0.079	Loss 4.19
+1188,"shape of embedding.... (?, 128)"
+1189,Epoch: [0][596/100]	Time 0.084	Loss 4.51
+1190,"shape of embedding.... (?, 128)"
+1191,Epoch: [0][597/100]	Time 0.087	Loss 4.55
+1192,"shape of embedding.... (?, 128)"
+1193,Epoch: [0][598/100]	Time 0.084	Loss 4.19
+1194,"shape of embedding.... (?, 128)"
+1195,Epoch: [0][599/100]	Time 0.087	Loss 4.35
+1196,"shape of embedding.... (?, 128)"
+1197,Epoch: [0][600/100]	Time 0.086	Loss 4.26
+1198,"shape of embedding.... (?, 128)"
+1199,Epoch: [0][601/100]	Time 0.081	Loss 4.27
+1200,"shape of embedding.... (?, 128)"
+1201,Epoch: [0][602/100]	Time 0.088	Loss 4.23
+1202,"shape of embedding.... (?, 128)"
+1203,Epoch: [0][603/100]	Time 0.083	Loss 4.39
+1204,"shape of embedding.... (?, 128)"
+1205,Epoch: [0][604/100]	Time 0.087	Loss 4.44
+1206,"shape of embedding.... (?, 128)"
+1207,Epoch: [0][605/100]	Time 0.085	Loss 4.24
+1208,"shape of embedding.... (?, 128)"
+1209,Epoch: [0][606/100]	Time 0.086	Loss 4.64
+1210,"shape of embedding.... (?, 128)"
+1211,Epoch: [0][607/100]	Time 0.079	Loss 4.35
+1212,"shape of embedding.... (?, 128)"
+1213,Epoch: [0][608/100]	Time 0.089	Loss 4.26
+1214,"shape of embedding.... (?, 128)"
+1215,Epoch: [0][609/100]	Time 0.086	Loss 4.18
+1216,"shape of embedding.... (?, 128)"
+1217,Epoch: [0][610/100]	Time 0.085	Loss 4.18
+1218,"shape of embedding.... (?, 128)"
+1219,Epoch: [0][611/100]	Time 0.084	Loss 4.28
+1220,"shape of embedding.... (?, 128)"
+1221,Epoch: [0][612/100]	Time 0.088	Loss 4.39
+1222,"shape of embedding.... (?, 128)"
+1223,Epoch: [0][613/100]	Time 0.086	Loss 4.29
+1224,"shape of embedding.... (?, 128)"
+1225,Epoch: [0][614/100]	Time 0.085	Loss 4.29
+1226,"shape of embedding.... (?, 128)"
+1227,Epoch: [0][615/100]	Time 0.087	Loss 4.27
+1228,"shape of embedding.... (?, 128)"
+1229,Epoch: [0][616/100]	Time 0.086	Loss 4.38
+1230,"shape of embedding.... (?, 128)"
+1231,Epoch: [0][617/100]	Time 0.085	Loss 4.23
+1232,"shape of embedding.... (?, 128)"
+1233,Epoch: [0][618/100]	Time 0.084	Loss 4.18
+1234,"shape of embedding.... (?, 128)"
+1235,Epoch: [0][619/100]	Time 0.087	Loss 4.59
+1236,"shape of embedding.... (?, 128)"
+1237,Epoch: [0][620/100]	Time 0.088	Loss 4.40
+1238,"shape of embedding.... (?, 128)"
+1239,Epoch: [0][621/100]	Time 0.081	Loss 4.34
+1240,"shape of embedding.... (?, 128)"
+1241,Epoch: [0][622/100]	Time 0.085	Loss 4.37
+1242,"shape of embedding.... (?, 128)"
+1243,Epoch: [0][623/100]	Time 0.089	Loss 4.22
+1244,"shape of embedding.... (?, 128)"
+1245,Epoch: [0][624/100]	Time 0.087	Loss 4.18
+1246,"shape of embedding.... (?, 128)"
+1247,Epoch: [0][625/100]	Time 0.084	Loss 4.30
+1248,"shape of embedding.... (?, 128)"
+1249,Epoch: [0][626/100]	Time 0.084	Loss 4.30
+1250,"shape of embedding.... (?, 128)"
+1251,Epoch: [0][627/100]	Time 0.087	Loss 4.29
+1252,"shape of embedding.... (?, 128)"
+1253,Epoch: [0][628/100]	Time 0.083	Loss 4.17
+1254,"shape of embedding.... (?, 128)"
+1255,Epoch: [0][629/100]	Time 0.092	Loss 4.20
+1256,"shape of embedding.... (?, 128)"
+1257,Epoch: [0][630/100]	Time 0.088	Loss 4.17
+1258,"shape of embedding.... (?, 128)"
+1259,Epoch: [0][631/100]	Time 0.081	Loss 4.44
+1260,"shape of embedding.... (?, 128)"
+1261,Epoch: [0][632/100]	Time 0.086	Loss 4.39
+1262,"shape of embedding.... (?, 128)"
+1263,Epoch: [0][633/100]	Time 0.085	Loss 4.17
+1264,"shape of embedding.... (?, 128)"
+1265,Epoch: [0][634/100]	Time 0.084	Loss 4.17
+1266,"shape of embedding.... (?, 128)"
+1267,Epoch: [0][635/100]	Time 0.084	Loss 4.48
+1268,"shape of embedding.... (?, 128)"
+1269,Epoch: [0][636/100]	Time 0.086	Loss 4.36
+1270,"shape of embedding.... (?, 128)"
+1271,Epoch: [0][637/100]	Time 0.086	Loss 4.27
+1272,"shape of embedding.... (?, 128)"
+1273,Epoch: [0][638/100]	Time 0.090	Loss 4.18
+1274,"shape of embedding.... (?, 128)"
+1275,Epoch: [0][639/100]	Time 0.085	Loss 4.17
+1276,"shape of embedding.... (?, 128)"
+1277,Epoch: [0][640/100]	Time 0.082	Loss 4.17
+1278,"shape of embedding.... (?, 128)"
+1279,Epoch: [0][641/100]	Time 0.088	Loss 4.33
+1280,"shape of embedding.... (?, 128)"
+1281,Epoch: [0][642/100]	Time 0.086	Loss 4.60
+1282,"shape of embedding.... (?, 128)"
+1283,Epoch: [0][643/100]	Time 0.082	Loss 4.17
+1284,"shape of embedding.... (?, 128)"
+1285,Epoch: [0][644/100]	Time 0.085	Loss 4.26
+1286,"shape of embedding.... (?, 128)"
+1287,Epoch: [0][645/100]	Time 0.086	Loss 4.17
+1288,"shape of embedding.... (?, 128)"
+1289,Epoch: [0][646/100]	Time 0.090	Loss 4.17
+1290,"shape of embedding.... (?, 128)"
+1291,Epoch: [0][647/100]	Time 0.083	Loss 4.23
+1292,"shape of embedding.... (?, 128)"
+1293,Epoch: [0][648/100]	Time 0.086	Loss 4.21
+1294,"shape of embedding.... (?, 128)"
+1295,Epoch: [0][649/100]	Time 0.089	Loss 4.19
+1296,"shape of embedding.... (?, 128)"
+1297,Epoch: [0][650/100]	Time 0.087	Loss 4.38
+1298,"shape of embedding.... (?, 128)"
+1299,Epoch: [0][651/100]	Time 0.084	Loss 4.25
+1300,"shape of embedding.... (?, 128)"
+1301,Epoch: [0][652/100]	Time 0.085	Loss 4.55
+1302,"shape of embedding.... (?, 128)"
+1303,Epoch: [0][653/100]	Time 0.088	Loss 4.16
+1304,"shape of embedding.... (?, 128)"
+1305,Epoch: [0][654/100]	Time 0.084	Loss 4.16
+1306,"shape of embedding.... (?, 128)"
+1307,Epoch: [0][655/100]	Time 0.086	Loss 4.22
+1308,"shape of embedding.... (?, 128)"
+1309,Epoch: [0][656/100]	Time 0.079	Loss 4.16
+1310,"shape of embedding.... (?, 128)"
+1311,Epoch: [0][657/100]	Time 0.087	Loss 4.33
+1312,"shape of embedding.... (?, 128)"
+1313,Epoch: [0][658/100]	Time 0.088	Loss 4.18
+1314,"shape of embedding.... (?, 128)"
+1315,Epoch: [0][659/100]	Time 0.084	Loss 4.28
+1316,"shape of embedding.... (?, 128)"
+1317,Epoch: [0][660/100]	Time 0.084	Loss 4.53
+1318,"shape of embedding.... (?, 128)"
+1319,Epoch: [0][661/100]	Time 0.085	Loss 4.52
+1320,"shape of embedding.... (?, 128)"
+1321,Epoch: [0][662/100]	Time 0.088	Loss 4.49
+1322,"shape of embedding.... (?, 128)"
+1323,Epoch: [0][663/100]	Time 0.086	Loss 4.44
+1324,"shape of embedding.... (?, 128)"
+1325,Epoch: [0][664/100]	Time 0.088	Loss 4.42
+1326,"shape of embedding.... (?, 128)"
+1327,Epoch: [0][665/100]	Time 0.084	Loss 4.16
+1328,"shape of embedding.... (?, 128)"
+1329,Epoch: [0][666/100]	Time 0.081	Loss 4.45
+1330,"shape of embedding.... (?, 128)"
+1331,Epoch: [0][667/100]	Time 0.087	Loss 4.24
+1332,"shape of embedding.... (?, 128)"
+1333,Epoch: [0][668/100]	Time 0.082	Loss 4.20
+1334,"shape of embedding.... (?, 128)"
+1335,Epoch: [0][669/100]	Time 0.081	Loss 4.21
+1336,"shape of embedding.... (?, 128)"
+1337,Epoch: [0][670/100]	Time 0.085	Loss 4.68
+1338,"shape of embedding.... (?, 128)"
+1339,Epoch: [0][671/100]	Time 0.087	Loss 4.29
+1340,"shape of embedding.... (?, 128)"
+1341,Epoch: [0][672/100]	Time 0.084	Loss 4.25
+1342,"shape of embedding.... (?, 128)"
+1343,Epoch: [0][673/100]	Time 0.087	Loss 4.16
+1344,"shape of embedding.... (?, 128)"
+1345,Epoch: [0][674/100]	Time 0.090	Loss 4.54
+1346,"shape of embedding.... (?, 128)"
+1347,Epoch: [0][675/100]	Time 0.081	Loss 4.28
+1348,"shape of embedding.... (?, 128)"
+1349,Epoch: [0][676/100]	Time 0.087	Loss 4.15
+1350,"shape of embedding.... (?, 128)"
+1351,Epoch: [0][677/100]	Time 0.090	Loss 4.28
+1352,"shape of embedding.... (?, 128)"
+1353,Epoch: [0][678/100]	Time 0.083	Loss 4.15
+1354,"shape of embedding.... (?, 128)"
+1355,Epoch: [0][679/100]	Time 0.090	Loss 4.20
+1356,"shape of embedding.... (?, 128)"
+1357,Epoch: [0][680/100]	Time 0.085	Loss 4.33
+1358,"shape of embedding.... (?, 128)"
+1359,Epoch: [0][681/100]	Time 0.081	Loss 4.43
+1360,"shape of embedding.... (?, 128)"
+1361,Epoch: [0][682/100]	Time 0.089	Loss 4.18
+1362,"shape of embedding.... (?, 128)"
+1363,Epoch: [0][683/100]	Time 0.085	Loss 4.15
+1364,"shape of embedding.... (?, 128)"
+1365,Epoch: [0][684/100]	Time 0.089	Loss 4.33
+1366,"shape of embedding.... (?, 128)"
+1367,Epoch: [0][685/100]	Time 0.085	Loss 4.28
+1368,"shape of embedding.... (?, 128)"
+1369,Epoch: [0][686/100]	Time 0.087	Loss 4.32
+1370,"shape of embedding.... (?, 128)"
+1371,Epoch: [0][687/100]	Time 0.087	Loss 4.29
+1372,"shape of embedding.... (?, 128)"
+1373,Epoch: [0][688/100]	Time 0.086	Loss 4.28
+1374,"shape of embedding.... (?, 128)"
+1375,Epoch: [0][689/100]	Time 0.088	Loss 4.15
+1376,"shape of embedding.... (?, 128)"
+1377,Epoch: [0][690/100]	Time 0.087	Loss 4.32
+1378,"shape of embedding.... (?, 128)"
+1379,Epoch: [0][691/100]	Time 0.087	Loss 4.18
+1380,"shape of embedding.... (?, 128)"
+1381,Epoch: [0][692/100]	Time 0.086	Loss 4.36
+1382,"shape of embedding.... (?, 128)"
+1383,Epoch: [0][693/100]	Time 0.087	Loss 4.31
+1384,"shape of embedding.... (?, 128)"
+1385,Epoch: [0][694/100]	Time 0.081	Loss 4.15
+1386,"shape of embedding.... (?, 128)"
+1387,Epoch: [0][695/100]	Time 0.086	Loss 4.21
+1388,"shape of embedding.... (?, 128)"
+1389,Epoch: [0][696/100]	Time 0.083	Loss 4.18
+1390,"shape of embedding.... (?, 128)"
+1391,Epoch: [0][697/100]	Time 0.086	Loss 4.23
+1392,"shape of embedding.... (?, 128)"
+1393,Epoch: [0][698/100]	Time 0.082	Loss 4.15
+1394,"shape of embedding.... (?, 128)"
+1395,Epoch: [0][699/100]	Time 0.086	Loss 4.17
+1396,"shape of embedding.... (?, 128)"
+1397,Epoch: [0][700/100]	Time 0.086	Loss 4.15
+1398,"shape of embedding.... (?, 128)"
+1399,Epoch: [0][701/100]	Time 0.086	Loss 4.36
+1400,"shape of embedding.... (?, 128)"
+1401,Epoch: [0][702/100]	Time 0.086	Loss 4.14
+1402,"shape of embedding.... (?, 128)"
+1403,Epoch: [0][703/100]	Time 0.087	Loss 4.40
+1404,"shape of embedding.... (?, 128)"
+1405,Epoch: [0][704/100]	Time 0.082	Loss 4.22
+1406,"shape of embedding.... (?, 128)"
+1407,Epoch: [0][705/100]	Time 0.087	Loss 4.14
+1408,"shape of embedding.... (?, 128)"
+1409,Epoch: [0][706/100]	Time 0.090	Loss 4.19
+1410,"shape of embedding.... (?, 128)"
+1411,Epoch: [0][707/100]	Time 0.083	Loss 4.14
+1412,"shape of embedding.... (?, 128)"
+1413,Epoch: [0][708/100]	Time 0.086	Loss 4.30
+1414,"shape of embedding.... (?, 128)"
+1415,Epoch: [0][709/100]	Time 0.085	Loss 4.24
+1416,"shape of embedding.... (?, 128)"
+1417,Epoch: [0][710/100]	Time 0.087	Loss 4.16
+1418,"shape of embedding.... (?, 128)"
+1419,Epoch: [0][711/100]	Time 0.085	Loss 4.22
+1420,"shape of embedding.... (?, 128)"
+1421,Epoch: [0][712/100]	Time 0.084	Loss 4.29
+1422,"shape of embedding.... (?, 128)"
+1423,Epoch: [0][713/100]	Time 0.087	Loss 4.16
+1424,"shape of embedding.... (?, 128)"
+1425,Epoch: [0][714/100]	Time 0.081	Loss 4.31
+1426,"shape of embedding.... (?, 128)"
+1427,Epoch: [0][715/100]	Time 0.085	Loss 4.43
+1428,"shape of embedding.... (?, 128)"
+1429,Epoch: [0][716/100]	Time 0.087	Loss 4.27
+1430,"shape of embedding.... (?, 128)"
+1431,Epoch: [0][717/100]	Time 0.086	Loss 4.14
+1432,"shape of embedding.... (?, 128)"
+1433,Epoch: [0][718/100]	Time 0.080	Loss 4.19
+1434,"shape of embedding.... (?, 128)"
+1435,Epoch: [0][719/100]	Time 0.088	Loss 4.15
+1436,"shape of embedding.... (?, 128)"
+1437,Epoch: [0][720/100]	Time 0.086	Loss 4.14
+1438,"shape of embedding.... (?, 128)"
+1439,Epoch: [0][721/100]	Time 0.082	Loss 4.14
+1440,"shape of embedding.... (?, 128)"
+1441,Epoch: [0][722/100]	Time 0.091	Loss 4.42
+1442,"shape of embedding.... (?, 128)"
+1443,Epoch: [0][723/100]	Time 0.089	Loss 4.31
+1444,"shape of embedding.... (?, 128)"
+1445,Epoch: [0][724/100]	Time 0.088	Loss 4.13
+1446,"shape of embedding.... (?, 128)"
+1447,Epoch: [0][725/100]	Time 0.087	Loss 4.66
+1448,"shape of embedding.... (?, 128)"
+1449,Epoch: [0][726/100]	Time 0.086	Loss 4.21
+1450,"shape of embedding.... (?, 128)"
+1451,Epoch: [0][727/100]	Time 0.087	Loss 4.61
+1452,"shape of embedding.... (?, 128)"
+1453,Epoch: [0][728/100]	Time 0.081	Loss 4.15
+1454,"shape of embedding.... (?, 128)"
+1455,Epoch: [0][729/100]	Time 0.088	Loss 4.13
+1456,"shape of embedding.... (?, 128)"
+1457,Epoch: [0][730/100]	Time 0.090	Loss 4.13
+1458,"shape of embedding.... (?, 128)"
+1459,Epoch: [0][731/100]	Time 0.087	Loss 4.13
+1460,"shape of embedding.... (?, 128)"
+1461,Epoch: [0][732/100]	Time 0.088	Loss 4.38
+1462,"shape of embedding.... (?, 128)"
+1463,Epoch: [0][733/100]	Time 0.086	Loss 4.21
+1464,"shape of embedding.... (?, 128)"
+1465,Epoch: [0][734/100]	Time 0.087	Loss 4.30
+1466,"shape of embedding.... (?, 128)"
+1467,Epoch: [0][735/100]	Time 0.086	Loss 4.13
+1468,"shape of embedding.... (?, 128)"
+1469,Epoch: [0][736/100]	Time 0.086	Loss 4.17
+1470,"shape of embedding.... (?, 128)"
+1471,Epoch: [0][737/100]	Time 0.080	Loss 4.42
+1472,"shape of embedding.... (?, 128)"
+1473,Epoch: [0][738/100]	Time 0.088	Loss 4.13
+1474,"shape of embedding.... (?, 128)"
+1475,Epoch: [0][739/100]	Time 0.087	Loss 4.53
+1476,"shape of embedding.... (?, 128)"
+1477,Epoch: [0][740/100]	Time 0.090	Loss 4.13
+1478,"shape of embedding.... (?, 128)"
+1479,Epoch: [0][741/100]	Time 0.087	Loss 4.49
+1480,"shape of embedding.... (?, 128)"
+1481,Epoch: [0][742/100]	Time 0.086	Loss 4.27
+1482,"shape of embedding.... (?, 128)"
+1483,Epoch: [0][743/100]	Time 0.087	Loss 4.23
+1484,"shape of embedding.... (?, 128)"
+1485,Epoch: [0][744/100]	Time 0.082	Loss 4.13
+1486,"shape of embedding.... (?, 128)"
+1487,Epoch: [0][745/100]	Time 0.086	Loss 4.13
+1488,"shape of embedding.... (?, 128)"
+1489,Epoch: [0][746/100]	Time 0.083	Loss 4.28
+1490,"shape of embedding.... (?, 128)"
+1491,Epoch: [0][747/100]	Time 0.080	Loss 4.33
+1492,"shape of embedding.... (?, 128)"
+1493,Epoch: [0][748/100]	Time 0.083	Loss 4.20
+1494,"shape of embedding.... (?, 128)"
+1495,Epoch: [0][749/100]	Time 0.089	Loss 4.16
+1496,"shape of embedding.... (?, 128)"
+1497,Epoch: [0][750/100]	Time 0.086	Loss 4.17
+1498,"shape of embedding.... (?, 128)"
+1499,Epoch: [0][751/100]	Time 0.084	Loss 4.70
+1500,"shape of embedding.... (?, 128)"
+1501,Epoch: [0][752/100]	Time 0.081	Loss 4.13
+1502,"shape of embedding.... (?, 128)"
+1503,Epoch: [0][753/100]	Time 0.083	Loss 4.33
+1504,"shape of embedding.... (?, 128)"
+1505,Epoch: [0][754/100]	Time 0.083	Loss 4.16
+1506,"shape of embedding.... (?, 128)"
+1507,Epoch: [0][755/100]	Time 0.087	Loss 4.21
+1508,"shape of embedding.... (?, 128)"
+1509,Epoch: [0][756/100]	Time 0.089	Loss 4.12
+1510,"shape of embedding.... (?, 128)"
+1511,Epoch: [0][757/100]	Time 0.085	Loss 4.12
+1512,"shape of embedding.... (?, 128)"
+1513,Epoch: [0][758/100]	Time 0.087	Loss 4.14
+1514,"shape of embedding.... (?, 128)"
+1515,Epoch: [0][759/100]	Time 0.081	Loss 4.12
+1516,"shape of embedding.... (?, 128)"
+1517,Epoch: [0][760/100]	Time 0.084	Loss 4.50
+1518,"shape of embedding.... (?, 128)"
+1519,Epoch: [0][761/100]	Time 0.082	Loss 4.12
+1520,"shape of embedding.... (?, 128)"
+1521,Epoch: [0][762/100]	Time 0.093	Loss 4.12
+1522,"shape of embedding.... (?, 128)"
+1523,Epoch: [0][763/100]	Time 0.091	Loss 4.25
+1524,"shape of embedding.... (?, 128)"
+1525,Epoch: [0][764/100]	Time 0.085	Loss 4.12
+1526,"shape of embedding.... (?, 128)"
+1527,Epoch: [0][765/100]	Time 0.086	Loss 4.44
+1528,"shape of embedding.... (?, 128)"
+1529,Epoch: [0][766/100]	Time 0.084	Loss 4.16
+1530,"shape of embedding.... (?, 128)"
+1531,Epoch: [0][767/100]	Time 0.088	Loss 4.21
+1532,"shape of embedding.... (?, 128)"
+1533,Epoch: [0][768/100]	Time 0.090	Loss 4.43
+1534,"shape of embedding.... (?, 128)"
+1535,Epoch: [0][769/100]	Time 0.087	Loss 4.12
+1536,"shape of embedding.... (?, 128)"
+1537,Epoch: [0][770/100]	Time 0.086	Loss 4.12
+1538,"shape of embedding.... (?, 128)"
+1539,Epoch: [0][771/100]	Time 0.086	Loss 4.27
+1540,"shape of embedding.... (?, 128)"
+1541,Epoch: [0][772/100]	Time 0.087	Loss 4.21
+1542,"shape of embedding.... (?, 128)"
+1543,Epoch: [0][773/100]	Time 0.083	Loss 4.19
+1544,"shape of embedding.... (?, 128)"
+1545,Epoch: [0][774/100]	Time 0.083	Loss 4.18
+1546,"shape of embedding.... (?, 128)"
+1547,Epoch: [0][775/100]	Time 0.082	Loss 4.11
+1548,"shape of embedding.... (?, 128)"
+1549,Epoch: [0][776/100]	Time 0.085	Loss 4.26
+1550,"shape of embedding.... (?, 128)"
+1551,Epoch: [0][777/100]	Time 0.083	Loss 4.21
+1552,"shape of embedding.... (?, 128)"
+1553,Epoch: [0][778/100]	Time 0.085	Loss 4.19
+1554,"shape of embedding.... (?, 128)"
+1555,Epoch: [0][779/100]	Time 0.089	Loss 4.36
+1556,"shape of embedding.... (?, 128)"
+1557,Epoch: [0][780/100]	Time 0.086	Loss 4.11
+1558,"shape of embedding.... (?, 128)"
+1559,Epoch: [0][781/100]	Time 0.089	Loss 4.11
+1560,"shape of embedding.... (?, 128)"
+1561,Epoch: [0][782/100]	Time 0.086	Loss 4.11
+1562,"shape of embedding.... (?, 128)"
+1563,Epoch: [0][783/100]	Time 0.083	Loss 4.11
+1564,"shape of embedding.... (?, 128)"
+1565,Epoch: [0][784/100]	Time 0.087	Loss 4.30
+1566,"shape of embedding.... (?, 128)"
+1567,Epoch: [0][785/100]	Time 0.085	Loss 4.11
+1568,"shape of embedding.... (?, 128)"
+1569,Epoch: [0][786/100]	Time 0.087	Loss 4.23
+1570,"shape of embedding.... (?, 128)"
+1571,Epoch: [0][787/100]	Time 0.083	Loss 4.18
+1572,"shape of embedding.... (?, 128)"
+1573,Epoch: [0][788/100]	Time 0.085	Loss 4.11
+1574,"shape of embedding.... (?, 128)"
+1575,Epoch: [0][789/100]	Time 0.083	Loss 4.19
+1576,"shape of embedding.... (?, 128)"
+1577,Epoch: [0][790/100]	Time 0.088	Loss 4.31
+1578,"shape of embedding.... (?, 128)"
+1579,Epoch: [0][791/100]	Time 0.085	Loss 4.25
+1580,"shape of embedding.... (?, 128)"
+1581,Epoch: [0][792/100]	Time 0.085	Loss 4.26
+1582,"shape of embedding.... (?, 128)"
+1583,Epoch: [0][793/100]	Time 0.088	Loss 4.26
+1584,"shape of embedding.... (?, 128)"
+1585,Epoch: [0][794/100]	Time 0.089	Loss 4.17
+1586,"shape of embedding.... (?, 128)"
+1587,Epoch: [0][795/100]	Time 0.085	Loss 4.13
+1588,"shape of embedding.... (?, 128)"
+1589,Epoch: [0][796/100]	Time 0.086	Loss 4.23
+1590,"shape of embedding.... (?, 128)"
+1591,Epoch: [0][797/100]	Time 0.084	Loss 4.11
+1592,"shape of embedding.... (?, 128)"
+1593,Epoch: [0][798/100]	Time 0.085	Loss 4.11
+1594,"shape of embedding.... (?, 128)"
+1595,Epoch: [0][799/100]	Time 0.092	Loss 4.10
+1596,"shape of embedding.... (?, 128)"
+1597,Epoch: [0][800/100]	Time 0.086	Loss 4.10
+1598,"shape of embedding.... (?, 128)"
+1599,Epoch: [0][801/100]	Time 0.084	Loss 4.28
+1600,"shape of embedding.... (?, 128)"
+1601,Epoch: [0][802/100]	Time 0.090	Loss 4.37
+1602,"shape of embedding.... (?, 128)"
+1603,Epoch: [0][803/100]	Time 0.080	Loss 4.10
+1604,"shape of embedding.... (?, 128)"
+1605,Epoch: [0][804/100]	Time 0.084	Loss 4.11
+1606,"shape of embedding.... (?, 128)"
+1607,Epoch: [0][805/100]	Time 0.086	Loss 4.10
+1608,"shape of embedding.... (?, 128)"
+1609,Epoch: [0][806/100]	Time 0.082	Loss 4.10
+1610,"shape of embedding.... (?, 128)"
+1611,Epoch: [0][807/100]	Time 0.086	Loss 4.23
+1612,"shape of embedding.... (?, 128)"
+1613,Epoch: [0][808/100]	Time 0.078	Loss 4.35
+1614,"shape of embedding.... (?, 128)"
+1615,Epoch: [0][809/100]	Time 0.087	Loss 4.14
+1616,"shape of embedding.... (?, 128)"
+1617,Epoch: [0][810/100]	Time 0.086	Loss 4.32
+1618,"shape of embedding.... (?, 128)"
+1619,Epoch: [0][811/100]	Time 0.086	Loss 4.19
+1620,"shape of embedding.... (?, 128)"
+1621,Epoch: [0][812/100]	Time 0.084	Loss 4.29
+1622,"shape of embedding.... (?, 128)"
+1623,Epoch: [0][813/100]	Time 0.088	Loss 4.10
+1624,"shape of embedding.... (?, 128)"
+1625,Epoch: [0][814/100]	Time 0.088	Loss 4.10
+1626,"shape of embedding.... (?, 128)"
+1627,Epoch: [0][815/100]	Time 0.085	Loss 4.20
+1628,"shape of embedding.... (?, 128)"
+1629,Epoch: [0][816/100]	Time 0.085	Loss 4.57
+1630,"shape of embedding.... (?, 128)"
+1631,Epoch: [0][817/100]	Time 0.086	Loss 4.21
+1632,"shape of embedding.... (?, 128)"
+1633,Epoch: [0][818/100]	Time 0.088	Loss 4.12
+1634,"shape of embedding.... (?, 128)"
+1635,Epoch: [0][819/100]	Time 0.084	Loss 4.33
+1636,"shape of embedding.... (?, 128)"
+1637,Epoch: [0][820/100]	Time 0.084	Loss 4.49
+1638,"shape of embedding.... (?, 128)"
+1639,Epoch: [0][821/100]	Time 0.083	Loss 4.20
+1640,"shape of embedding.... (?, 128)"
+1641,Epoch: [0][822/100]	Time 0.088	Loss 4.23
+1642,"shape of embedding.... (?, 128)"
+1643,Epoch: [0][823/100]	Time 0.088	Loss 4.18
+1644,"shape of embedding.... (?, 128)"
+1645,Epoch: [0][824/100]	Time 0.091	Loss 4.21
+1646,"shape of embedding.... (?, 128)"
+1647,Epoch: [0][825/100]	Time 0.087	Loss 4.52
+1648,"shape of embedding.... (?, 128)"
+1649,Epoch: [0][826/100]	Time 0.088	Loss 4.24
+1650,"shape of embedding.... (?, 128)"
+1651,Epoch: [0][827/100]	Time 0.087	Loss 4.29
+1652,"shape of embedding.... (?, 128)"
+1653,Epoch: [0][828/100]	Time 0.088	Loss 4.21
+1654,"shape of embedding.... (?, 128)"
+1655,Epoch: [0][829/100]	Time 0.088	Loss 4.33
+1656,"shape of embedding.... (?, 128)"
+1657,Epoch: [0][830/100]	Time 0.081	Loss 4.22
+1658,"shape of embedding.... (?, 128)"
+1659,Epoch: [0][831/100]	Time 0.081	Loss 4.09
+1660,"shape of embedding.... (?, 128)"
+1661,Epoch: [0][832/100]	Time 0.091	Loss 4.09
+1662,"shape of embedding.... (?, 128)"
+1663,Epoch: [0][833/100]	Time 0.083	Loss 4.12
+1664,"shape of embedding.... (?, 128)"
+1665,Epoch: [0][834/100]	Time 0.085	Loss 4.09
+1666,"shape of embedding.... (?, 128)"
+1667,Epoch: [0][835/100]	Time 0.084	Loss 4.19
+1668,"shape of embedding.... (?, 128)"
+1669,Epoch: [0][836/100]	Time 0.084	Loss 4.16
+1670,"shape of embedding.... (?, 128)"
+1671,Epoch: [0][837/100]	Time 0.088	Loss 4.09
+1672,"shape of embedding.... (?, 128)"
+1673,Epoch: [0][838/100]	Time 0.085	Loss 4.09
+1674,"shape of embedding.... (?, 128)"
+1675,Epoch: [0][839/100]	Time 0.087	Loss 4.24
+1676,"shape of embedding.... (?, 128)"
+1677,Epoch: [0][840/100]	Time 0.081	Loss 4.12
+1678,"shape of embedding.... (?, 128)"
+1679,Epoch: [0][841/100]	Time 0.085	Loss 4.48
+1680,"shape of embedding.... (?, 128)"
+1681,Epoch: [0][842/100]	Time 0.085	Loss 4.09
+1682,"shape of embedding.... (?, 128)"
+1683,Epoch: [0][843/100]	Time 0.082	Loss 4.09
+1684,"shape of embedding.... (?, 128)"
+1685,Epoch: [0][844/100]	Time 0.083	Loss 4.12
+1686,"shape of embedding.... (?, 128)"
+1687,Epoch: [0][845/100]	Time 0.087	Loss 4.09
+1688,"shape of embedding.... (?, 128)"
+1689,Epoch: [0][846/100]	Time 0.089	Loss 4.11
+1690,"shape of embedding.... (?, 128)"
+1691,Epoch: [0][847/100]	Time 0.085	Loss 4.09
+1692,"shape of embedding.... (?, 128)"
+1693,Epoch: [0][848/100]	Time 0.087	Loss 4.09
+1694,"shape of embedding.... (?, 128)"
+1695,Epoch: [0][849/100]	Time 0.084	Loss 4.27
+1696,"shape of embedding.... (?, 128)"
+1697,Epoch: [0][850/100]	Time 0.086	Loss 4.08
+1698,"shape of embedding.... (?, 128)"
+1699,Epoch: [0][851/100]	Time 0.085	Loss 4.21
+1700,"shape of embedding.... (?, 128)"
+1701,Epoch: [0][852/100]	Time 0.091	Loss 4.46
+1702,"shape of embedding.... (?, 128)"
+1703,Epoch: [0][853/100]	Time 0.084	Loss 4.09
+1704,"shape of embedding.... (?, 128)"
+1705,Epoch: [0][854/100]	Time 0.081	Loss 4.08
+1706,"shape of embedding.... (?, 128)"
+1707,Epoch: [0][855/100]	Time 0.085	Loss 4.08
+1708,"shape of embedding.... (?, 128)"
+1709,Epoch: [0][856/100]	Time 0.088	Loss 4.18
+1710,"shape of embedding.... (?, 128)"
+1711,Epoch: [0][857/100]	Time 0.082	Loss 4.08
+1712,"shape of embedding.... (?, 128)"
+1713,Epoch: [0][858/100]	Time 0.086	Loss 4.08
+1714,"shape of embedding.... (?, 128)"
+1715,Epoch: [0][859/100]	Time 0.088	Loss 4.08
+1716,"shape of embedding.... (?, 128)"
+1717,Epoch: [0][860/100]	Time 0.084	Loss 4.08
+1718,"shape of embedding.... (?, 128)"
+1719,Epoch: [0][861/100]	Time 0.089	Loss 4.09
+1720,"shape of embedding.... (?, 128)"
+1721,Epoch: [0][862/100]	Time 0.081	Loss 4.14
+1722,"shape of embedding.... (?, 128)"
+1723,Epoch: [0][863/100]	Time 0.082	Loss 4.20
+1724,"shape of embedding.... (?, 128)"
+1725,Epoch: [0][864/100]	Time 0.083	Loss 4.08
+1726,"shape of embedding.... (?, 128)"
+1727,Epoch: [0][865/100]	Time 0.088	Loss 4.08
+1728,"shape of embedding.... (?, 128)"
+1729,Epoch: [0][866/100]	Time 0.084	Loss 4.18
+1730,"shape of embedding.... (?, 128)"
+1731,Epoch: [0][867/100]	Time 0.093	Loss 4.08
+1732,"shape of embedding.... (?, 128)"
+1733,Epoch: [0][868/100]	Time 0.085	Loss 4.12
+1734,"shape of embedding.... (?, 128)"
+1735,Epoch: [0][869/100]	Time 0.082	Loss 4.42
+1736,"shape of embedding.... (?, 128)"
+1737,Epoch: [0][870/100]	Time 0.089	Loss 4.27
+1738,"shape of embedding.... (?, 128)"
+1739,Epoch: [0][871/100]	Time 0.089	Loss 4.08
+1740,"shape of embedding.... (?, 128)"
+1741,Epoch: [0][872/100]	Time 0.090	Loss 4.08
+1742,"shape of embedding.... (?, 128)"
+1743,Epoch: [0][873/100]	Time 0.089	Loss 4.21
+1744,"shape of embedding.... (?, 128)"
+1745,Epoch: [0][874/100]	Time 0.086	Loss 4.12
+1746,"shape of embedding.... (?, 128)"
+1747,Epoch: [0][875/100]	Time 0.084	Loss 4.09
+1748,"shape of embedding.... (?, 128)"
+1749,Epoch: [0][876/100]	Time 0.086	Loss 4.31
+1750,"shape of embedding.... (?, 128)"
+1751,Epoch: [0][877/100]	Time 0.093	Loss 4.07
+1752,"shape of embedding.... (?, 128)"
+1753,Epoch: [0][878/100]	Time 0.093	Loss 4.08
+1754,"shape of embedding.... (?, 128)"
+1755,Epoch: [0][879/100]	Time 0.087	Loss 4.20
+1756,"shape of embedding.... (?, 128)"
+1757,Epoch: [0][880/100]	Time 0.088	Loss 4.22
+1758,"shape of embedding.... (?, 128)"
+1759,Epoch: [0][881/100]	Time 0.092	Loss 4.07
+1760,"shape of embedding.... (?, 128)"
+1761,Epoch: [0][882/100]	Time 0.080	Loss 4.07
+1762,"shape of embedding.... (?, 128)"
+1763,Epoch: [0][883/100]	Time 0.093	Loss 4.27
+1764,"shape of embedding.... (?, 128)"
+1765,Epoch: [0][884/100]	Time 0.089	Loss 4.45
+1766,"shape of embedding.... (?, 128)"
+1767,Epoch: [0][885/100]	Time 0.089	Loss 4.07
+1768,"shape of embedding.... (?, 128)"
+1769,Epoch: [0][886/100]	Time 0.084	Loss 4.07
+1770,"shape of embedding.... (?, 128)"
+1771,Epoch: [0][887/100]	Time 0.088	Loss 4.35
+1772,"shape of embedding.... (?, 128)"
+1773,Epoch: [0][888/100]	Time 0.089	Loss 4.22
+1774,"shape of embedding.... (?, 128)"
+1775,Epoch: [0][889/100]	Time 0.091	Loss 4.18
+1776,"shape of embedding.... (?, 128)"
+1777,Epoch: [0][890/100]	Time 0.087	Loss 4.07
+1778,"shape of embedding.... (?, 128)"
+1779,Epoch: [0][891/100]	Time 0.085	Loss 4.07
+1780,"shape of embedding.... (?, 128)"
+1781,Epoch: [0][892/100]	Time 0.084	Loss 4.45
+1782,"shape of embedding.... (?, 128)"
+1783,Epoch: [0][893/100]	Time 0.090	Loss 4.07
+1784,"shape of embedding.... (?, 128)"
+1785,Epoch: [0][894/100]	Time 0.087	Loss 4.15
+1786,"shape of embedding.... (?, 128)"
+1787,Epoch: [0][895/100]	Time 0.085	Loss 4.13
+1788,"shape of embedding.... (?, 128)"
+1789,Epoch: [0][896/100]	Time 0.088	Loss 4.15
+1790,"shape of embedding.... (?, 128)"
+1791,Epoch: [0][897/100]	Time 0.086	Loss 4.20
+1792,"shape of embedding.... (?, 128)"
+1793,Epoch: [0][898/100]	Time 0.087	Loss 4.16
+1794,"shape of embedding.... (?, 128)"
+1795,Epoch: [0][899/100]	Time 0.084	Loss 4.06
+1796,"shape of embedding.... (?, 128)"
+1797,Epoch: [0][900/100]	Time 0.084	Loss 4.30
+1798,"shape of embedding.... (?, 128)"
+1799,Epoch: [0][901/100]	Time 0.088	Loss 4.26
+1800,"shape of embedding.... (?, 128)"
+1801,Epoch: [0][902/100]	Time 0.084	Loss 4.28
+1802,"shape of embedding.... (?, 128)"
+1803,Epoch: [0][903/100]	Time 0.084	Loss 4.29
+1804,"shape of embedding.... (?, 128)"
+1805,Epoch: [0][904/100]	Time 0.088	Loss 4.15
+1806,"shape of embedding.... (?, 128)"
+1807,Epoch: [0][905/100]	Time 0.090	Loss 4.57
+1808,"shape of embedding.... (?, 128)"
+1809,Epoch: [0][906/100]	Time 0.087	Loss 4.06
+1810,"shape of embedding.... (?, 128)"
+1811,Epoch: [0][907/100]	Time 0.087	Loss 4.06
+1812,"shape of embedding.... (?, 128)"
+1813,Epoch: [0][908/100]	Time 0.085	Loss 4.16
+1814,"shape of embedding.... (?, 128)"
+1815,Epoch: [0][909/100]	Time 0.084	Loss 4.12
+1816,"shape of embedding.... (?, 128)"
+1817,Epoch: [0][910/100]	Time 0.085	Loss 4.18
+1818,"shape of embedding.... (?, 128)"
+1819,Epoch: [0][911/100]	Time 0.083	Loss 4.06
+1820,"shape of embedding.... (?, 128)"
+1821,Epoch: [0][912/100]	Time 0.087	Loss 4.06
+1822,"shape of embedding.... (?, 128)"
+1823,Epoch: [0][913/100]	Time 0.085	Loss 4.29
+1824,"shape of embedding.... (?, 128)"
+1825,Epoch: [0][914/100]	Time 0.088	Loss 4.07
+1826,"shape of embedding.... (?, 128)"
+1827,Epoch: [0][915/100]	Time 0.085	Loss 4.19
+1828,"shape of embedding.... (?, 128)"
+1829,Epoch: [0][916/100]	Time 0.085	Loss 4.09
+1830,"shape of embedding.... (?, 128)"
+1831,Epoch: [0][917/100]	Time 0.085	Loss 4.06
+1832,"shape of embedding.... (?, 128)"
+1833,Epoch: [0][918/100]	Time 0.080	Loss 4.13
+1834,"shape of embedding.... (?, 128)"
+1835,Epoch: [0][919/100]	Time 0.090	Loss 4.06
+1836,"shape of embedding.... (?, 128)"
+1837,Epoch: [0][920/100]	Time 0.086	Loss 4.06
+1838,"shape of embedding.... (?, 128)"
+1839,Epoch: [0][921/100]	Time 0.084	Loss 4.06
+1840,"shape of embedding.... (?, 128)"
+1841,Epoch: [0][922/100]	Time 0.084	Loss 4.21
+1842,"shape of embedding.... (?, 128)"
+1843,Epoch: [0][923/100]	Time 0.088	Loss 4.07
+1844,"shape of embedding.... (?, 128)"
+1845,Epoch: [0][924/100]	Time 0.083	Loss 4.17
+1846,"shape of embedding.... (?, 128)"
+1847,Epoch: [0][925/100]	Time 0.087	Loss 4.08
+1848,"shape of embedding.... (?, 128)"
+1849,Epoch: [0][926/100]	Time 0.089	Loss 4.13
+1850,"shape of embedding.... (?, 128)"
+1851,Epoch: [0][927/100]	Time 0.090	Loss 4.12
+1852,"shape of embedding.... (?, 128)"
+1853,Epoch: [0][928/100]	Time 0.091	Loss 4.05
+1854,"shape of embedding.... (?, 128)"
+1855,Epoch: [0][929/100]	Time 0.083	Loss 4.25
+1856,"shape of embedding.... (?, 128)"
+1857,Epoch: [0][930/100]	Time 0.088	Loss 4.18
+1858,"shape of embedding.... (?, 128)"
+1859,Epoch: [0][931/100]	Time 0.086	Loss 4.38
+1860,"shape of embedding.... (?, 128)"
+1861,Epoch: [0][932/100]	Time 0.087	Loss 4.09
+1862,"shape of embedding.... (?, 128)"
+1863,Epoch: [0][933/100]	Time 0.088	Loss 4.35
+1864,"shape of embedding.... (?, 128)"
+1865,Epoch: [0][934/100]	Time 0.086	Loss 4.18
+1866,"shape of embedding.... (?, 128)"
+1867,Epoch: [0][935/100]	Time 0.088	Loss 4.19
+1868,"shape of embedding.... (?, 128)"
+1869,Epoch: [0][936/100]	Time 0.083	Loss 4.27
+1870,"shape of embedding.... (?, 128)"
+1871,Epoch: [0][937/100]	Time 0.080	Loss 4.40
+1872,"shape of embedding.... (?, 128)"
+1873,Epoch: [0][938/100]	Time 0.087	Loss 4.05
+1874,"shape of embedding.... (?, 128)"
+1875,Epoch: [0][939/100]	Time 0.086	Loss 4.13
+1876,"shape of embedding.... (?, 128)"
+1877,Epoch: [0][940/100]	Time 0.088	Loss 4.12
+1878,"shape of embedding.... (?, 128)"
+1879,Epoch: [0][941/100]	Time 0.096	Loss 4.08
+1880,"shape of embedding.... (?, 128)"
+1881,Epoch: [0][942/100]	Time 0.090	Loss 4.05
+1882,"shape of embedding.... (?, 128)"
+1883,Epoch: [0][943/100]	Time 0.084	Loss 4.11
+1884,"shape of embedding.... (?, 128)"
+1885,Epoch: [0][944/100]	Time 0.085	Loss 4.32
+1886,"shape of embedding.... (?, 128)"
+1887,Epoch: [0][945/100]	Time 0.081	Loss 4.05
+1888,"shape of embedding.... (?, 128)"
+1889,Epoch: [0][946/100]	Time 0.083	Loss 4.05
+1890,"shape of embedding.... (?, 128)"
+1891,Epoch: [0][947/100]	Time 0.091	Loss 4.08
+1892,"shape of embedding.... (?, 128)"
+1893,Epoch: [0][948/100]	Time 0.089	Loss 4.12
+1894,"shape of embedding.... (?, 128)"
+1895,Epoch: [0][949/100]	Time 0.085	Loss 4.05
+1896,"shape of embedding.... (?, 128)"
+1897,Epoch: [0][950/100]	Time 0.088	Loss 4.25
+1898,"shape of embedding.... (?, 128)"
+1899,Epoch: [0][951/100]	Time 0.087	Loss 4.30
+1900,"shape of embedding.... (?, 128)"
+1901,Epoch: [0][952/100]	Time 0.089	Loss 4.04
+1902,"shape of embedding.... (?, 128)"
+1903,Epoch: [0][953/100]	Time 0.090	Loss 4.63
+1904,"shape of embedding.... (?, 128)"
+1905,Epoch: [0][954/100]	Time 0.084	Loss 4.05
+1906,"shape of embedding.... (?, 128)"
+1907,Epoch: [0][955/100]	Time 0.084	Loss 4.06
+1908,"shape of embedding.... (?, 128)"
+1909,Epoch: [0][956/100]	Time 0.088	Loss 4.06
+1910,"shape of embedding.... (?, 128)"
+1911,Epoch: [0][957/100]	Time 0.083	Loss 4.09
+1912,"shape of embedding.... (?, 128)"
+1913,Epoch: [0][958/100]	Time 0.085	Loss 4.17
+1914,"shape of embedding.... (?, 128)"
+1915,Epoch: [0][959/100]	Time 0.087	Loss 4.24
+1916,"shape of embedding.... (?, 128)"
+1917,Epoch: [0][960/100]	Time 0.085	Loss 4.04
+1918,"shape of embedding.... (?, 128)"
+1919,Epoch: [0][961/100]	Time 0.086	Loss 4.13
+1920,"shape of embedding.... (?, 128)"
+1921,Epoch: [0][962/100]	Time 0.087	Loss 4.04
+1922,"shape of embedding.... (?, 128)"
+1923,Epoch: [0][963/100]	Time 0.087	Loss 4.15
+1924,"shape of embedding.... (?, 128)"
+1925,Epoch: [0][964/100]	Time 0.084	Loss 4.14
+1926,"shape of embedding.... (?, 128)"
+1927,Epoch: [0][965/100]	Time 0.085	Loss 4.19
+1928,"shape of embedding.... (?, 128)"
+1929,Epoch: [0][966/100]	Time 0.087	Loss 4.05
+1930,"shape of embedding.... (?, 128)"
+1931,Epoch: [0][967/100]	Time 0.082	Loss 4.16
+1932,"shape of embedding.... (?, 128)"
+1933,Epoch: [0][968/100]	Time 0.085	Loss 4.08
+1934,"shape of embedding.... (?, 128)"
+1935,Epoch: [0][969/100]	Time 0.091	Loss 4.20
+1936,"shape of embedding.... (?, 128)"
+1937,Epoch: [0][970/100]	Time 0.087	Loss 4.04
+1938,"shape of embedding.... (?, 128)"
+1939,Epoch: [0][971/100]	Time 0.088	Loss 4.04
+1940,"shape of embedding.... (?, 128)"
+1941,Epoch: [0][972/100]	Time 0.082	Loss 4.09
+1942,"shape of embedding.... (?, 128)"
+1943,Epoch: [0][973/100]	Time 0.083	Loss 4.04
+1944,"shape of embedding.... (?, 128)"
+1945,Epoch: [0][974/100]	Time 0.086	Loss 4.19
+1946,"shape of embedding.... (?, 128)"
+1947,Epoch: [0][975/100]	Time 0.085	Loss 4.04
+1948,"shape of embedding.... (?, 128)"
+1949,Epoch: [0][976/100]	Time 0.086	Loss 4.03
+1950,"shape of embedding.... (?, 128)"
+1951,Epoch: [0][977/100]	Time 0.088	Loss 4.17
+1952,"shape of embedding.... (?, 128)"
+1953,Epoch: [0][978/100]	Time 0.082	Loss 4.13
+1954,"shape of embedding.... (?, 128)"
+1955,Epoch: [0][979/100]	Time 0.088	Loss 4.03
+1956,"shape of embedding.... (?, 128)"
+1957,Epoch: [0][980/100]	Time 0.094	Loss 4.06
+1958,"shape of embedding.... (?, 128)"
+1959,Epoch: [0][981/100]	Time 0.084	Loss 4.05
+1960,"shape of embedding.... (?, 128)"
+1961,Epoch: [0][982/100]	Time 0.088	Loss 4.03
+1962,"shape of embedding.... (?, 128)"
+1963,Epoch: [0][983/100]	Time 0.087	Loss 4.09
+1964,"shape of embedding.... (?, 128)"
+1965,Epoch: [0][984/100]	Time 0.085	Loss 4.03
+1966,"shape of embedding.... (?, 128)"
+1967,Epoch: [0][985/100]	Time 0.084	Loss 4.14
+1968,"shape of embedding.... (?, 128)"
+1969,Epoch: [0][986/100]	Time 0.087	Loss 4.41
+1970,"shape of embedding.... (?, 128)"
+1971,Epoch: [0][987/100]	Time 0.083	Loss 4.03
+1972,"shape of embedding.... (?, 128)"
+1973,Epoch: [0][988/100]	Time 0.083	Loss 4.19
+1974,"shape of embedding.... (?, 128)"
+1975,Epoch: [0][989/100]	Time 0.084	Loss 4.07
+1976,"shape of embedding.... (?, 128)"
+1977,Epoch: [0][990/100]	Time 0.084	Loss 4.34
+1978,"shape of embedding.... (?, 128)"
+1979,Epoch: [0][991/100]	Time 0.089	Loss 4.26
+1980,"shape of embedding.... (?, 128)"
+1981,Epoch: [0][992/100]	Time 0.083	Loss 4.27
+1982,"shape of embedding.... (?, 128)"
+1983,Epoch: [0][993/100]	Time 0.089	Loss 4.03
+1984,"shape of embedding.... (?, 128)"
+1985,Epoch: [0][994/100]	Time 0.090	Loss 4.05
+1986,"shape of embedding.... (?, 128)"
+1987,Epoch: [0][995/100]	Time 0.084	Loss 4.03
+1988,"shape of embedding.... (?, 128)"
+1989,Epoch: [0][996/100]	Time 0.085	Loss 4.03
+1990,"shape of embedding.... (?, 128)"
+1991,Epoch: [0][997/100]	Time 0.087	Loss 4.08
+1992,"shape of embedding.... (?, 128)"
+1993,Epoch: [0][998/100]	Time 0.087	Loss 4.08
+1994,"shape of embedding.... (?, 128)"
+1995,Epoch: [0][999/100]	Time 0.085	Loss 4.03
+1996,"shape of embedding.... (?, 128)"
+1997,Epoch: [0][1000/100]	Time 0.087	Loss 4.0
+1998,"shape of embedding.... (?, 128)"
+1999,Epoch: [0][1001/100]	Time 0.087	Loss 4.0
+2000,"shape of embedding.... (?, 128)"
+2001,Epoch: [0][1002/100]	Time 0.088	Loss 4.1
+2002,"shape of embedding.... (?, 128)"
+2003,Epoch: [0][1003/100]	Time 0.093	Loss 4.2
+2004,"shape of embedding.... (?, 128)"
+2005,Epoch: [0][1004/100]	Time 0.078	Loss 4.3
+2006,"shape of embedding.... (?, 128)"
+2007,Epoch: [0][1005/100]	Time 0.086	Loss 4.0
+2008,"shape of embedding.... (?, 128)"
+2009,Epoch: [0][1006/100]	Time 0.087	Loss 4.0
+2010,"shape of embedding.... (?, 128)"
+2011,Epoch: [0][1007/100]	Time 0.084	Loss 4.0
+2012,"shape of embedding.... (?, 128)"
+2013,Epoch: [0][1008/100]	Time 0.087	Loss 4.3
+2014,"shape of embedding.... (?, 128)"
+2015,Epoch: [0][1009/100]	Time 0.089	Loss 4.1
+2016,"shape of embedding.... (?, 128)"
+2017,Epoch: [0][1010/100]	Time 0.088	Loss 4.2
+2018,"shape of embedding.... (?, 128)"
+2019,Epoch: [0][1011/100]	Time 0.092	Loss 4.2
+2020,"shape of embedding.... (?, 128)"
+2021,Epoch: [0][1012/100]	Time 0.087	Loss 4.1
+2022,"shape of embedding.... (?, 128)"
+2023,Epoch: [0][1013/100]	Time 0.090	Loss 4.2
+2024,"shape of embedding.... (?, 128)"
+2025,Epoch: [0][1014/100]	Time 0.084	Loss 4.0
+2026,"shape of embedding.... (?, 128)"
+2027,Epoch: [0][1015/100]	Time 0.081	Loss 4.0
+2028,"shape of embedding.... (?, 128)"
+2029,Epoch: [0][1016/100]	Time 0.081	Loss 4.0
+2030,"shape of embedding.... (?, 128)"
+2031,Epoch: [0][1017/100]	Time 0.086	Loss 4.0
+2032,"shape of embedding.... (?, 128)"
+2033,Epoch: [0][1018/100]	Time 0.087	Loss 4.1
+2034,"shape of embedding.... (?, 128)"
+2035,Epoch: [0][1019/100]	Time 0.087	Loss 4.1
+2036,"shape of embedding.... (?, 128)"
+2037,Epoch: [0][1020/100]	Time 0.085	Loss 4.2
+2038,"shape of embedding.... (?, 128)"
+2039,Epoch: [0][1021/100]	Time 0.084	Loss 4.0
+2040,"shape of embedding.... (?, 128)"
+2041,Epoch: [0][1022/100]	Time 0.087	Loss 4.0
+2042,"shape of embedding.... (?, 128)"
+2043,Epoch: [0][1023/100]	Time 0.088	Loss 4.0
+2044,"shape of embedding.... (?, 128)"
+2045,Epoch: [0][1024/100]	Time 0.089	Loss 4.1
+2046,"shape of embedding.... (?, 128)"
+2047,Epoch: [0][1025/100]	Time 0.083	Loss 4.0
+2048,"shape of embedding.... (?, 128)"
+2049,Epoch: [0][1026/100]	Time 0.083	Loss 4.1
+2050,"shape of embedding.... (?, 128)"
+2051,Epoch: [0][1027/100]	Time 0.086	Loss 4.0
+2052,"shape of embedding.... (?, 128)"
+2053,Epoch: [0][1028/100]	Time 0.086	Loss 4.0
+2054,"shape of embedding.... (?, 128)"
+2055,Epoch: [0][1029/100]	Time 0.083	Loss 4.0
+2056,"shape of embedding.... (?, 128)"
+2057,Epoch: [0][1030/100]	Time 0.084	Loss 4.0
+2058,"shape of embedding.... (?, 128)"
+2059,Epoch: [0][1031/100]	Time 0.094	Loss 4.0
+2060,"shape of embedding.... (?, 128)"
+2061,Epoch: [0][1032/100]	Time 0.087	Loss 4.4
+2062,"shape of embedding.... (?, 128)"
+2063,Epoch: [0][1033/100]	Time 0.085	Loss 4.1
+2064,"shape of embedding.... (?, 128)"
+2065,Epoch: [0][1034/100]	Time 0.090	Loss 4.2
+2066,"shape of embedding.... (?, 128)"
+2067,Epoch: [0][1035/100]	Time 0.087	Loss 4.0
+2068,"shape of embedding.... (?, 128)"
+2069,Epoch: [0][1036/100]	Time 0.086	Loss 4.4
+2070,"shape of embedding.... (?, 128)"
+2071,Epoch: [0][1037/100]	Time 0.081	Loss 4.1
+2072,"shape of embedding.... (?, 128)"
+2073,Epoch: [0][1038/100]	Time 0.083	Loss 4.0
+2074,"shape of embedding.... (?, 128)"
+2075,Epoch: [0][1039/100]	Time 0.082	Loss 4.1
+2076,"shape of embedding.... (?, 128)"
+2077,Epoch: [0][1040/100]	Time 0.083	Loss 4.1
+2078,"shape of embedding.... (?, 128)"
+2079,Epoch: [0][1041/100]	Time 0.089	Loss 4.0
+2080,"shape of embedding.... (?, 128)"
+2081,Epoch: [0][1042/100]	Time 0.084	Loss 4.0
+2082,"shape of embedding.... (?, 128)"
+2083,Epoch: [0][1043/100]	Time 0.090	Loss 4.0
+2084,"shape of embedding.... (?, 128)"
+2085,Epoch: [0][1044/100]	Time 0.084	Loss 4.2
+2086,"shape of embedding.... (?, 128)"
+2087,Epoch: [0][1045/100]	Time 0.085	Loss 4.0
+2088,"shape of embedding.... (?, 128)"
+2089,Epoch: [0][1046/100]	Time 0.084	Loss 4.1
+2090,"shape of embedding.... (?, 128)"
+2091,Epoch: [0][1047/100]	Time 0.088	Loss 4.2
+2092,"shape of embedding.... (?, 128)"
+2093,Epoch: [0][1048/100]	Time 0.082	Loss 4.0
+2094,"shape of embedding.... (?, 128)"
+2095,Epoch: [0][1049/100]	Time 0.085	Loss 4.0
+2096,"shape of embedding.... (?, 128)"
+2097,Epoch: [0][1050/100]	Time 0.086	Loss 4.0
+2098,"shape of embedding.... (?, 128)"
+2099,Epoch: [0][1051/100]	Time 0.088	Loss 4.1
+2100,"shape of embedding.... (?, 128)"
+2101,Epoch: [0][1052/100]	Time 0.085	Loss 4.4
+2102,"shape of embedding.... (?, 128)"
+2103,Epoch: [0][1053/100]	Time 0.089	Loss 4.0
+2104,"shape of embedding.... (?, 128)"
+2105,Epoch: [0][1054/100]	Time 0.086	Loss 4.0
+2106,"shape of embedding.... (?, 128)"
+2107,Epoch: [0][1055/100]	Time 0.085	Loss 4.0
+2108,"shape of embedding.... (?, 128)"
+2109,Epoch: [0][1056/100]	Time 0.083	Loss 4.0
+2110,"shape of embedding.... (?, 128)"
+2111,Epoch: [0][1057/100]	Time 0.085	Loss 4.1
+2112,"shape of embedding.... (?, 128)"
+2113,Epoch: [0][1058/100]	Time 0.087	Loss 4.0
+2114,"shape of embedding.... (?, 128)"
+2115,Epoch: [0][1059/100]	Time 0.086	Loss 4.0
+2116,"shape of embedding.... (?, 128)"
+2117,Epoch: [0][1060/100]	Time 0.087	Loss 4.1
+2118,"shape of embedding.... (?, 128)"
+2119,Epoch: [0][1061/100]	Time 0.086	Loss 4.0
+2120,"shape of embedding.... (?, 128)"
+2121,Epoch: [0][1062/100]	Time 0.083	Loss 4.2
+2122,"shape of embedding.... (?, 128)"
+2123,Epoch: [0][1063/100]	Time 0.089	Loss 4.0
+2124,"shape of embedding.... (?, 128)"
+2125,Epoch: [0][1064/100]	Time 0.082	Loss 4.0
+2126,"shape of embedding.... (?, 128)"
+2127,Epoch: [0][1065/100]	Time 0.093	Loss 4.3
+2128,"shape of embedding.... (?, 128)"
+2129,Epoch: [0][1066/100]	Time 0.088	Loss 4.0
+2130,"shape of embedding.... (?, 128)"
+2131,Epoch: [0][1067/100]	Time 0.091	Loss 4.3
+2132,"shape of embedding.... (?, 128)"
+2133,Epoch: [0][1068/100]	Time 0.083	Loss 4.1
+2134,"shape of embedding.... (?, 128)"
+2135,Epoch: [0][1069/100]	Time 0.080	Loss 4.0
+2136,"shape of embedding.... (?, 128)"
+2137,Epoch: [0][1070/100]	Time 0.089	Loss 4.0
+2138,"shape of embedding.... (?, 128)"
+2139,Epoch: [0][1071/100]	Time 0.084	Loss 4.0
+2140,"shape of embedding.... (?, 128)"
+2141,Epoch: [0][1072/100]	Time 0.084	Loss 4.0
+2142,"shape of embedding.... (?, 128)"
+2143,Epoch: [0][1073/100]	Time 0.081	Loss 4.0
+2144,"shape of embedding.... (?, 128)"
+2145,Epoch: [0][1074/100]	Time 0.087	Loss 4.0
+2146,"shape of embedding.... (?, 128)"
+2147,Epoch: [0][1075/100]	Time 0.086	Loss 4.0
+2148,"shape of embedding.... (?, 128)"
+2149,Epoch: [0][1076/100]	Time 0.087	Loss 4.0
+2150,"shape of embedding.... (?, 128)"
+2151,Epoch: [0][1077/100]	Time 0.094	Loss 4.1
+2152,"shape of embedding.... (?, 128)"
+2153,Epoch: [0][1078/100]	Time 0.085	Loss 4.0
+2154,"shape of embedding.... (?, 128)"
+2155,Epoch: [0][1079/100]	Time 0.083	Loss 4.0
+2156,"shape of embedding.... (?, 128)"
+2157,Epoch: [0][1080/100]	Time 0.086	Loss 4.3
+2158,"shape of embedding.... (?, 128)"
+2159,Epoch: [0][1081/100]	Time 0.086	Loss 3.9
+2160,"shape of embedding.... (?, 128)"
+2161,Epoch: [0][1082/100]	Time 0.087	Loss 4.1
+2162,"shape of embedding.... (?, 128)"
+2163,Epoch: [0][1083/100]	Time 0.089	Loss 3.9
+2164,"shape of embedding.... (?, 128)"
+2165,Epoch: [0][1084/100]	Time 0.088	Loss 4.0
+2166,"shape of embedding.... (?, 128)"
+2167,Epoch: [0][1085/100]	Time 0.087	Loss 4.0
+2168,"shape of embedding.... (?, 128)"
+2169,Epoch: [0][1086/100]	Time 0.084	Loss 3.9
+2170,"shape of embedding.... (?, 128)"
+2171,Epoch: [0][1087/100]	Time 0.085	Loss 4.0
+2172,"shape of embedding.... (?, 128)"
+2173,Epoch: [0][1088/100]	Time 0.082	Loss 3.9
+2174,"shape of embedding.... (?, 128)"
+2175,Epoch: [0][1089/100]	Time 0.087	Loss 4.0
+2176,"shape of embedding.... (?, 128)"
+2177,Epoch: [0][1090/100]	Time 0.082	Loss 3.9
+2178,"shape of embedding.... (?, 128)"
+2179,Epoch: [0][1091/100]	Time 0.086	Loss 3.9
+2180,"shape of embedding.... (?, 128)"
+2181,Epoch: [0][1092/100]	Time 0.084	Loss 4.0
+2182,"shape of embedding.... (?, 128)"
+2183,Epoch: [0][1093/100]	Time 0.085	Loss 4.0
+2184,"shape of embedding.... (?, 128)"
+2185,Epoch: [0][1094/100]	Time 0.087	Loss 4.0
+2186,"shape of embedding.... (?, 128)"
+2187,Epoch: [0][1095/100]	Time 0.084	Loss 4.0
+2188,"shape of embedding.... (?, 128)"
+2189,Epoch: [0][1096/100]	Time 0.087	Loss 4.0
+2190,"shape of embedding.... (?, 128)"
+2191,Epoch: [0][1097/100]	Time 0.088	Loss 4.0
+2192,"shape of embedding.... (?, 128)"
+2193,Epoch: [0][1098/100]	Time 0.082	Loss 3.9
+2194,"shape of embedding.... (?, 128)"
+2195,Epoch: [0][1099/100]	Time 0.089	Loss 4.0
+2196,"shape of embedding.... (?, 128)"
+2197,Epoch: [0][1100/100]	Time 0.088	Loss 4.1
+2198,"shape of embedding.... (?, 128)"
+2199,Epoch: [0][1101/100]	Time 0.091	Loss 3.9
+2200,"shape of embedding.... (?, 128)"
+2201,Epoch: [0][1102/100]	Time 0.082	Loss 3.9
+2202,"shape of embedding.... (?, 128)"
+2203,Epoch: [0][1103/100]	Time 0.085	Loss 3.9
+2204,"shape of embedding.... (?, 128)"
+2205,Epoch: [0][1104/100]	Time 0.080	Loss 4.0
+2206,"shape of embedding.... (?, 128)"
+2207,Epoch: [0][1105/100]	Time 0.080	Loss 3.9
+2208,"shape of embedding.... (?, 128)"
+2209,Epoch: [0][1106/100]	Time 0.080	Loss 3.9
+2210,"shape of embedding.... (?, 128)"
+2211,Epoch: [0][1107/100]	Time 0.089	Loss 3.9
+2212,"shape of embedding.... (?, 128)"
+2213,Epoch: [0][1108/100]	Time 0.085	Loss 4.0
+2214,"shape of embedding.... (?, 128)"
+2215,Epoch: [0][1109/100]	Time 0.095	Loss 3.9
+2216,"shape of embedding.... (?, 128)"
+2217,Epoch: [0][1110/100]	Time 0.081	Loss 3.9
+2218,"shape of embedding.... (?, 128)"
+2219,Epoch: [0][1111/100]	Time 0.086	Loss 4.0
+2220,"shape of embedding.... (?, 128)"
+2221,Epoch: [0][1112/100]	Time 0.086	Loss 4.0
+2222,"shape of embedding.... (?, 128)"
+2223,Epoch: [0][1113/100]	Time 0.088	Loss 4.0
+2224,"shape of embedding.... (?, 128)"
+2225,Epoch: [0][1114/100]	Time 0.090	Loss 4.0
+2226,"shape of embedding.... (?, 128)"
+2227,Epoch: [0][1115/100]	Time 0.088	Loss 4.3
+2228,"shape of embedding.... (?, 128)"
+2229,Epoch: [0][1116/100]	Time 0.089	Loss 4.0
+2230,"shape of embedding.... (?, 128)"
+2231,Epoch: [0][1117/100]	Time 0.088	Loss 4.0
+2232,"shape of embedding.... (?, 128)"
+2233,Epoch: [0][1118/100]	Time 0.089	Loss 4.0
+2234,"shape of embedding.... (?, 128)"
+2235,Epoch: [0][1119/100]	Time 0.087	Loss 4.2
+2236,"shape of embedding.... (?, 128)"
+2237,Epoch: [0][1120/100]	Time 0.084	Loss 4.0
+2238,"shape of embedding.... (?, 128)"
+2239,Epoch: [0][1121/100]	Time 0.087	Loss 4.1
+2240,"shape of embedding.... (?, 128)"
+2241,Epoch: [0][1122/100]	Time 0.085	Loss 3.9
+2242,"shape of embedding.... (?, 128)"
+2243,Epoch: [0][1123/100]	Time 0.084	Loss 4.0
+2244,"shape of embedding.... (?, 128)"
+2245,Epoch: [0][1124/100]	Time 0.093	Loss 4.0
+2246,"shape of embedding.... (?, 128)"
+2247,Epoch: [0][1125/100]	Time 0.089	Loss 4.0
+2248,"shape of embedding.... (?, 128)"
+2249,Epoch: [0][1126/100]	Time 0.087	Loss 4.0
+2250,"shape of embedding.... (?, 128)"
+2251,Epoch: [0][1127/100]	Time 0.083	Loss 3.9
+2252,"shape of embedding.... (?, 128)"
+2253,Epoch: [0][1128/100]	Time 0.086	Loss 3.9
+2254,"shape of embedding.... (?, 128)"
+2255,Epoch: [0][1129/100]	Time 0.085	Loss 4.2
+2256,"shape of embedding.... (?, 128)"
+2257,Epoch: [0][1130/100]	Time 0.090	Loss 4.0
+2258,"shape of embedding.... (?, 128)"
+2259,Epoch: [0][1131/100]	Time 0.083	Loss 4.4
+2260,"shape of embedding.... (?, 128)"
+2261,Epoch: [0][1132/100]	Time 0.092	Loss 3.9
+2262,"shape of embedding.... (?, 128)"
+2263,Epoch: [0][1133/100]	Time 0.088	Loss 4.0
+2264,"shape of embedding.... (?, 128)"
+2265,Epoch: [0][1134/100]	Time 0.086	Loss 4.0
+2266,"shape of embedding.... (?, 128)"
+2267,Epoch: [0][1135/100]	Time 0.087	Loss 4.0
+2268,"shape of embedding.... (?, 128)"
+2269,Epoch: [0][1136/100]	Time 0.086	Loss 4.0
+2270,"shape of embedding.... (?, 128)"
+2271,Epoch: [0][1137/100]	Time 0.093	Loss 4.0
+2272,"shape of embedding.... (?, 128)"
+2273,Epoch: [0][1138/100]	Time 0.090	Loss 4.0
+2274,"shape of embedding.... (?, 128)"
+2275,Epoch: [0][1139/100]	Time 0.084	Loss 4.0
+2276,"shape of embedding.... (?, 128)"
+2277,Epoch: [0][1140/100]	Time 0.085	Loss 3.9
+2278,"shape of embedding.... (?, 128)"
+2279,Epoch: [0][1141/100]	Time 0.087	Loss 4.0
+2280,"shape of embedding.... (?, 128)"
+2281,Epoch: [0][1142/100]	Time 0.087	Loss 4.1
+2282,"shape of embedding.... (?, 128)"
+2283,Epoch: [0][1143/100]	Time 0.087	Loss 4.1
+2284,"shape of embedding.... (?, 128)"
+2285,Epoch: [0][1144/100]	Time 0.091	Loss 4.0
+2286,"shape of embedding.... (?, 128)"
+2287,Epoch: [0][1145/100]	Time 0.088	Loss 4.0
+2288,"shape of embedding.... (?, 128)"
+2289,Epoch: [0][1146/100]	Time 0.090	Loss 3.9
+2290,"shape of embedding.... (?, 128)"
+2291,Epoch: [0][1147/100]	Time 0.088	Loss 4.0
+2292,"shape of embedding.... (?, 128)"
+2293,Epoch: [0][1148/100]	Time 0.088	Loss 4.0
+2294,"shape of embedding.... (?, 128)"
+2295,Epoch: [0][1149/100]	Time 0.085	Loss 4.3
+2296,"shape of embedding.... (?, 128)"
+2297,Epoch: [0][1150/100]	Time 0.083	Loss 4.2
+2298,"shape of embedding.... (?, 128)"
+2299,Epoch: [0][1151/100]	Time 0.087	Loss 3.9
+2300,"shape of embedding.... (?, 128)"
+2301,Epoch: [0][1152/100]	Time 0.086	Loss 4.0
+2302,"shape of embedding.... (?, 128)"
+2303,Epoch: [0][1153/100]	Time 0.088	Loss 3.9
+2304,"shape of embedding.... (?, 128)"
+2305,Epoch: [0][1154/100]	Time 0.089	Loss 4.5
+2306,"shape of embedding.... (?, 128)"
+2307,Epoch: [0][1155/100]	Time 0.090	Loss 4.1
+2308,"shape of embedding.... (?, 128)"
+2309,Epoch: [0][1156/100]	Time 0.082	Loss 3.9
+2310,"shape of embedding.... (?, 128)"
+2311,Epoch: [0][1157/100]	Time 0.087	Loss 3.9
+2312,"shape of embedding.... (?, 128)"
+2313,Epoch: [0][1158/100]	Time 0.082	Loss 4.2
+2314,"shape of embedding.... (?, 128)"
+2315,Epoch: [0][1159/100]	Time 0.091	Loss 3.9
+2316,"shape of embedding.... (?, 128)"
+2317,Epoch: [0][1160/100]	Time 0.086	Loss 3.9
+2318,"shape of embedding.... (?, 128)"
+2319,Epoch: [0][1161/100]	Time 0.088	Loss 4.0
+2320,"shape of embedding.... (?, 128)"
+2321,Epoch: [0][1162/100]	Time 0.086	Loss 4.2
+2322,"shape of embedding.... (?, 128)"
+2323,Epoch: [0][1163/100]	Time 0.089	Loss 4.0
+2324,"shape of embedding.... (?, 128)"
+2325,Epoch: [0][1164/100]	Time 0.089	Loss 3.9
+2326,"shape of embedding.... (?, 128)"
+2327,Epoch: [0][1165/100]	Time 0.089	Loss 4.0
+2328,"shape of embedding.... (?, 128)"
+2329,Epoch: [0][1166/100]	Time 0.081	Loss 4.0
+2330,"shape of embedding.... (?, 128)"
+2331,Epoch: [0][1167/100]	Time 0.084	Loss 4.0
+2332,"shape of embedding.... (?, 128)"
+2333,Epoch: [0][1168/100]	Time 0.093	Loss 3.9
+2334,"shape of embedding.... (?, 128)"
+2335,Epoch: [0][1169/100]	Time 0.087	Loss 3.9
+2336,"shape of embedding.... (?, 128)"
+2337,Epoch: [0][1170/100]	Time 0.083	Loss 4.0
+2338,"shape of embedding.... (?, 128)"
+2339,Epoch: [0][1171/100]	Time 0.084	Loss 4.1
+2340,"shape of embedding.... (?, 128)"
+2341,Epoch: [0][1172/100]	Time 0.089	Loss 4.2
+2342,"shape of embedding.... (?, 128)"
+2343,Epoch: [0][1173/100]	Time 0.088	Loss 3.9
+2344,"shape of embedding.... (?, 128)"
+2345,Epoch: [0][1174/100]	Time 0.086	Loss 4.0
+2346,"shape of embedding.... (?, 128)"
+2347,Epoch: [0][1175/100]	Time 0.087	Loss 4.0
+2348,"shape of embedding.... (?, 128)"
+2349,Epoch: [0][1176/100]	Time 0.088	Loss 3.9
+2350,"shape of embedding.... (?, 128)"
+2351,Epoch: [0][1177/100]	Time 0.086	Loss 3.9
+2352,"shape of embedding.... (?, 128)"
+2353,Epoch: [0][1178/100]	Time 0.092	Loss 3.9
+2354,"shape of embedding.... (?, 128)"
+2355,Epoch: [0][1179/100]	Time 0.088	Loss 4.0
+2356,"shape of embedding.... (?, 128)"
+2357,Epoch: [0][1180/100]	Time 0.090	Loss 3.9
+2358,"shape of embedding.... (?, 128)"
+2359,Epoch: [0][1181/100]	Time 0.089	Loss 4.0
+2360,"shape of embedding.... (?, 128)"
+2361,Epoch: [0][1182/100]	Time 0.089	Loss 3.9
+2362,"shape of embedding.... (?, 128)"
+2363,Epoch: [0][1183/100]	Time 0.086	Loss 3.9
+2364,"shape of embedding.... (?, 128)"
+2365,Epoch: [0][1184/100]	Time 0.087	Loss 4.4
+2366,"shape of embedding.... (?, 128)"
+2367,Epoch: [0][1185/100]	Time 0.087	Loss 4.1
+2368,"shape of embedding.... (?, 128)"
+2369,Epoch: [0][1186/100]	Time 0.086	Loss 3.9
+2370,"shape of embedding.... (?, 128)"
+2371,Epoch: [0][1187/100]	Time 0.085	Loss 3.9
+2372,"shape of embedding.... (?, 128)"
+2373,Epoch: [0][1188/100]	Time 0.085	Loss 3.9
+2374,"shape of embedding.... (?, 128)"
+2375,Epoch: [0][1189/100]	Time 0.084	Loss 3.9
+2376,"shape of embedding.... (?, 128)"
+2377,Epoch: [0][1190/100]	Time 0.088	Loss 3.9
+2378,"shape of embedding.... (?, 128)"
+2379,Epoch: [0][1191/100]	Time 0.086	Loss 3.9
+2380,"shape of embedding.... (?, 128)"
+2381,Epoch: [0][1192/100]	Time 0.091	Loss 4.0
+2382,"shape of embedding.... (?, 128)"
+2383,Epoch: [0][1193/100]	Time 0.085	Loss 4.0
+2384,"shape of embedding.... (?, 128)"
+2385,Epoch: [0][1194/100]	Time 0.087	Loss 4.0
+2386,"shape of embedding.... (?, 128)"
+2387,Epoch: [0][1195/100]	Time 0.094	Loss 3.9
+2388,"shape of embedding.... (?, 128)"
+2389,Epoch: [0][1196/100]	Time 0.087	Loss 4.0
+2390,"shape of embedding.... (?, 128)"
+2391,Epoch: [0][1197/100]	Time 0.081	Loss 3.9
+2392,"shape of embedding.... (?, 128)"
+2393,Epoch: [0][1198/100]	Time 0.087	Loss 4.1
+2394,"shape of embedding.... (?, 128)"
+2395,Epoch: [0][1199/100]	Time 0.088	Loss 3.9
+2396,"shape of embedding.... (?, 128)"
+2397,Epoch: [0][1200/100]	Time 0.087	Loss 3.9
+2398,"shape of embedding.... (?, 128)"
+2399,Epoch: [0][1201/100]	Time 0.090	Loss 3.9
+2400,"shape of embedding.... (?, 128)"
+2401,Epoch: [0][1202/100]	Time 0.086	Loss 3.9
+2402,"shape of embedding.... (?, 128)"
+2403,Epoch: [0][1203/100]	Time 0.084	Loss 4.0
+2404,"shape of embedding.... (?, 128)"
+2405,Epoch: [0][1204/100]	Time 0.087	Loss 4.1
+2406,"shape of embedding.... (?, 128)"
+2407,Epoch: [0][1205/100]	Time 0.088	Loss 3.9
+2408,"shape of embedding.... (?, 128)"
+2409,Epoch: [0][1206/100]	Time 0.088	Loss 3.9
+2410,"shape of embedding.... (?, 128)"
+2411,Epoch: [0][1207/100]	Time 0.088	Loss 4.0
+2412,"shape of embedding.... (?, 128)"
+2413,Epoch: [0][1208/100]	Time 0.091	Loss 3.9
+2414,"shape of embedding.... (?, 128)"
+2415,Epoch: [0][1209/100]	Time 0.087	Loss 3.9
+2416,"shape of embedding.... (?, 128)"
+2417,Epoch: [0][1210/100]	Time 0.094	Loss 4.0
+2418,"shape of embedding.... (?, 128)"
+2419,Epoch: [0][1211/100]	Time 0.085	Loss 3.9
+2420,"shape of embedding.... (?, 128)"
+2421,Epoch: [0][1212/100]	Time 0.085	Loss 4.1
+2422,"shape of embedding.... (?, 128)"
+2423,Epoch: [0][1213/100]	Time 0.084	Loss 3.9
+2424,"shape of embedding.... (?, 128)"
+2425,Epoch: [0][1214/100]	Time 0.086	Loss 3.9
+2426,"shape of embedding.... (?, 128)"
+2427,Epoch: [0][1215/100]	Time 0.085	Loss 3.9
+2428,"shape of embedding.... (?, 128)"
+2429,Epoch: [0][1216/100]	Time 0.085	Loss 4.1
+2430,"shape of embedding.... (?, 128)"
+2431,Epoch: [0][1217/100]	Time 0.087	Loss 3.9
+2432,"shape of embedding.... (?, 128)"
+2433,Epoch: [0][1218/100]	Time 0.087	Loss 4.4
+2434,"shape of embedding.... (?, 128)"
+2435,Epoch: [0][1219/100]	Time 0.087	Loss 3.9
+2436,"shape of embedding.... (?, 128)"
+2437,Epoch: [0][1220/100]	Time 0.087	Loss 3.9
+2438,"shape of embedding.... (?, 128)"
+2439,Epoch: [0][1221/100]	Time 0.082	Loss 3.9
+2440,"shape of embedding.... (?, 128)"
+2441,Epoch: [0][1222/100]	Time 0.086	Loss 4.0
+2442,"shape of embedding.... (?, 128)"
+2443,Epoch: [0][1223/100]	Time 0.080	Loss 3.9
+2444,"shape of embedding.... (?, 128)"
+2445,Epoch: [0][1224/100]	Time 0.084	Loss 3.9
+2446,"shape of embedding.... (?, 128)"
+2447,Epoch: [0][1225/100]	Time 0.086	Loss 3.9
+2448,"shape of embedding.... (?, 128)"
+2449,Epoch: [0][1226/100]	Time 0.086	Loss 3.9
+2450,"shape of embedding.... (?, 128)"
+2451,Epoch: [0][1227/100]	Time 0.084	Loss 4.4
+2452,"shape of embedding.... (?, 128)"
+2453,Epoch: [0][1228/100]	Time 0.090	Loss 4.1
+2454,"shape of embedding.... (?, 128)"
+2455,Epoch: [0][1229/100]	Time 0.090	Loss 4.0
+2456,"shape of embedding.... (?, 128)"
+2457,Epoch: [0][1230/100]	Time 0.081	Loss 3.9
+2458,"shape of embedding.... (?, 128)"
+2459,Epoch: [0][1231/100]	Time 0.088	Loss 4.1
+2460,"shape of embedding.... (?, 128)"
+2461,Epoch: [0][1232/100]	Time 0.087	Loss 3.9
+2462,"shape of embedding.... (?, 128)"
+2463,Epoch: [0][1233/100]	Time 0.087	Loss 3.9
+2464,"shape of embedding.... (?, 128)"
+2465,Epoch: [0][1234/100]	Time 0.081	Loss 3.9
+2466,"shape of embedding.... (?, 128)"
+2467,Epoch: [0][1235/100]	Time 0.086	Loss 3.9
+2468,"shape of embedding.... (?, 128)"
+2469,Epoch: [0][1236/100]	Time 0.081	Loss 3.9
+2470,"shape of embedding.... (?, 128)"
+2471,Epoch: [0][1237/100]	Time 0.090	Loss 3.9
+2472,"shape of embedding.... (?, 128)"
+2473,Epoch: [0][1238/100]	Time 0.086	Loss 3.9
+2474,"shape of embedding.... (?, 128)"
+2475,Epoch: [0][1239/100]	Time 0.087	Loss 3.9
+2476,"shape of embedding.... (?, 128)"
+2477,Epoch: [0][1240/100]	Time 0.089	Loss 4.0
+2478,"shape of embedding.... (?, 128)"
+2479,Epoch: [0][1241/100]	Time 0.083	Loss 4.0
+2480,"shape of embedding.... (?, 128)"
+2481,Epoch: [0][1242/100]	Time 0.083	Loss 3.9
+2482,"shape of embedding.... (?, 128)"
+2483,Epoch: [0][1243/100]	Time 0.089	Loss 4.0
+2484,"shape of embedding.... (?, 128)"
+2485,Epoch: [0][1244/100]	Time 0.088	Loss 3.9
+2486,"shape of embedding.... (?, 128)"
+2487,Epoch: [0][1245/100]	Time 0.089	Loss 3.9
+2488,"shape of embedding.... (?, 128)"
+2489,Epoch: [0][1246/100]	Time 0.085	Loss 3.9
+2490,"shape of embedding.... (?, 128)"
+2491,Epoch: [0][1247/100]	Time 0.084	Loss 3.9
+2492,"shape of embedding.... (?, 128)"
+2493,Epoch: [0][1248/100]	Time 0.085	Loss 4.0
+2494,"shape of embedding.... (?, 128)"
+2495,Epoch: [0][1249/100]	Time 0.086	Loss 3.9
+2496,"shape of embedding.... (?, 128)"
+2497,Epoch: [0][1250/100]	Time 0.087	Loss 3.9
+2498,"shape of embedding.... (?, 128)"
+2499,Epoch: [0][1251/100]	Time 0.081	Loss 3.9
+2500,"shape of embedding.... (?, 128)"
+2501,Epoch: [0][1252/100]	Time 0.087	Loss 3.9
+2502,"shape of embedding.... (?, 128)"
+2503,Epoch: [0][1253/100]	Time 0.087	Loss 3.9
+2504,"shape of embedding.... (?, 128)"
+2505,Epoch: [0][1254/100]	Time 0.091	Loss 4.0
+2506,"shape of embedding.... (?, 128)"
+2507,Epoch: [0][1255/100]	Time 0.091	Loss 3.9
+2508,"shape of embedding.... (?, 128)"
+2509,Epoch: [0][1256/100]	Time 0.086	Loss 3.9
+2510,"shape of embedding.... (?, 128)"
+2511,Epoch: [0][1257/100]	Time 0.085	Loss 4.0
+2512,"shape of embedding.... (?, 128)"
+2513,Epoch: [0][1258/100]	Time 0.087	Loss 4.0
+2514,"shape of embedding.... (?, 128)"
+2515,Epoch: [0][1259/100]	Time 0.092	Loss 4.0
+2516,"shape of embedding.... (?, 128)"
+2517,Epoch: [0][1260/100]	Time 0.088	Loss 4.0
+2518,"shape of embedding.... (?, 128)"
+2519,Epoch: [0][1261/100]	Time 0.086	Loss 4.0
+2520,"shape of embedding.... (?, 128)"
+2521,Epoch: [0][1262/100]	Time 0.085	Loss 3.9
+2522,"shape of embedding.... (?, 128)"
+2523,Epoch: [0][1263/100]	Time 0.088	Loss 3.9
+2524,"shape of embedding.... (?, 128)"
+2525,Epoch: [0][1264/100]	Time 0.088	Loss 3.9
+2526,"shape of embedding.... (?, 128)"
+2527,Epoch: [0][1265/100]	Time 0.085	Loss 3.9
+2528,"shape of embedding.... (?, 128)"
+2529,Epoch: [0][1266/100]	Time 0.090	Loss 3.9
+2530,"shape of embedding.... (?, 128)"
+2531,Epoch: [0][1267/100]	Time 0.086	Loss 3.9
+2532,"shape of embedding.... (?, 128)"
+2533,Epoch: [0][1268/100]	Time 0.085	Loss 3.9
+2534,"shape of embedding.... (?, 128)"
+2535,Epoch: [0][1269/100]	Time 0.087	Loss 3.9
+2536,"shape of embedding.... (?, 128)"
+2537,Epoch: [0][1270/100]	Time 0.085	Loss 4.0
+2538,"shape of embedding.... (?, 128)"
+2539,Epoch: [0][1271/100]	Time 0.087	Loss 4.0
+2540,"shape of embedding.... (?, 128)"
+2541,Epoch: [0][1272/100]	Time 0.085	Loss 4.0
+2542,"shape of embedding.... (?, 128)"
+2543,Epoch: [0][1273/100]	Time 0.081	Loss 3.9
+2544,"shape of embedding.... (?, 128)"
+2545,Epoch: [0][1274/100]	Time 0.085	Loss 4.0
+2546,"shape of embedding.... (?, 128)"
+2547,Epoch: [0][1275/100]	Time 0.085	Loss 4.0
+2548,"shape of embedding.... (?, 128)"
+2549,Epoch: [0][1276/100]	Time 0.086	Loss 4.0
+2550,"shape of embedding.... (?, 128)"
+2551,Epoch: [0][1277/100]	Time 0.084	Loss 3.9
+2552,"shape of embedding.... (?, 128)"
+2553,Epoch: [0][1278/100]	Time 0.085	Loss 3.9
+2554,"shape of embedding.... (?, 128)"
+2555,Epoch: [0][1279/100]	Time 0.089	Loss 3.9
+2556,"shape of embedding.... (?, 128)"
+2557,Epoch: [0][1280/100]	Time 0.084	Loss 3.9
+2558,"shape of embedding.... (?, 128)"
+2559,Epoch: [0][1281/100]	Time 0.084	Loss 3.9
+2560,"shape of embedding.... (?, 128)"
+2561,Epoch: [0][1282/100]	Time 0.090	Loss 3.9
+2562,"shape of embedding.... (?, 128)"
+2563,Epoch: [0][1283/100]	Time 0.087	Loss 3.9
+2564,"shape of embedding.... (?, 128)"
+2565,Epoch: [0][1284/100]	Time 0.086	Loss 4.0
+2566,"shape of embedding.... (?, 128)"
+2567,Epoch: [0][1285/100]	Time 0.086	Loss 4.1
+2568,"shape of embedding.... (?, 128)"
+2569,Epoch: [0][1286/100]	Time 0.088	Loss 3.9
+2570,"shape of embedding.... (?, 128)"
+2571,Epoch: [0][1287/100]	Time 0.086	Loss 3.9
+2572,"shape of embedding.... (?, 128)"
+2573,Epoch: [0][1288/100]	Time 0.086	Loss 4.0
+2574,"shape of embedding.... (?, 128)"
+2575,Epoch: [0][1289/100]	Time 0.088	Loss 3.9
+2576,"shape of embedding.... (?, 128)"
+2577,Epoch: [0][1290/100]	Time 0.085	Loss 3.9
+2578,"shape of embedding.... (?, 128)"
+2579,Epoch: [0][1291/100]	Time 0.086	Loss 3.9
+2580,"shape of embedding.... (?, 128)"
+2581,Epoch: [0][1292/100]	Time 0.084	Loss 3.9
+2582,"shape of embedding.... (?, 128)"
+2583,Epoch: [0][1293/100]	Time 0.082	Loss 3.9
+2584,"shape of embedding.... (?, 128)"
+2585,Epoch: [0][1294/100]	Time 0.088	Loss 3.9
+2586,"shape of embedding.... (?, 128)"
+2587,Epoch: [0][1295/100]	Time 0.086	Loss 4.0
+2588,"shape of embedding.... (?, 128)"
+2589,Epoch: [0][1296/100]	Time 0.091	Loss 3.9
+2590,"shape of embedding.... (?, 128)"
+2591,Epoch: [0][1297/100]	Time 0.085	Loss 3.9
+2592,"shape of embedding.... (?, 128)"
+2593,Epoch: [0][1298/100]	Time 0.085	Loss 3.9
+2594,"shape of embedding.... (?, 128)"
+2595,Epoch: [0][1299/100]	Time 0.091	Loss 4.0
+2596,"shape of embedding.... (?, 128)"
+2597,Epoch: [0][1300/100]	Time 0.089	Loss 3.9
+2598,"shape of embedding.... (?, 128)"
+2599,Epoch: [0][1301/100]	Time 0.091	Loss 4.0
+2600,"shape of embedding.... (?, 128)"
+2601,Epoch: [0][1302/100]	Time 0.086	Loss 3.9
+2602,"shape of embedding.... (?, 128)"
+2603,Epoch: [0][1303/100]	Time 0.086	Loss 3.9
+2604,"shape of embedding.... (?, 128)"
+2605,Epoch: [0][1304/100]	Time 0.086	Loss 4.1
+2606,"shape of embedding.... (?, 128)"
+2607,Epoch: [0][1305/100]	Time 0.085	Loss 3.9
+2608,"shape of embedding.... (?, 128)"
+2609,Epoch: [0][1306/100]	Time 0.085	Loss 3.9
+2610,"shape of embedding.... (?, 128)"
+2611,Epoch: [0][1307/100]	Time 0.088	Loss 4.0
+2612,"shape of embedding.... (?, 128)"
+2613,Epoch: [0][1308/100]	Time 0.089	Loss 3.9
+2614,"shape of embedding.... (?, 128)"
+2615,Epoch: [0][1309/100]	Time 0.087	Loss 3.9
+2616,"shape of embedding.... (?, 128)"
+2617,Epoch: [0][1310/100]	Time 0.089	Loss 3.9
+2618,"shape of embedding.... (?, 128)"
+2619,Epoch: [0][1311/100]	Time 0.083	Loss 3.9
+2620,"shape of embedding.... (?, 128)"
+2621,Epoch: [0][1312/100]	Time 0.086	Loss 3.9
+2622,"shape of embedding.... (?, 128)"
+2623,Epoch: [0][1313/100]	Time 0.088	Loss 3.9
+2624,"shape of embedding.... (?, 128)"
+2625,Epoch: [0][1314/100]	Time 0.085	Loss 3.9
+2626,"shape of embedding.... (?, 128)"
+2627,Epoch: [0][1315/100]	Time 0.084	Loss 3.9
+2628,"shape of embedding.... (?, 128)"
+2629,Epoch: [0][1316/100]	Time 0.089	Loss 3.9
+2630,"shape of embedding.... (?, 128)"
+2631,Epoch: [0][1317/100]	Time 0.085	Loss 4.0
+2632,"shape of embedding.... (?, 128)"
+2633,Epoch: [0][1318/100]	Time 0.085	Loss 4.0
+2634,"shape of embedding.... (?, 128)"
+2635,Epoch: [0][1319/100]	Time 0.092	Loss 4.0
+2636,"shape of embedding.... (?, 128)"
+2637,Epoch: [0][1320/100]	Time 0.086	Loss 3.9
+2638,"shape of embedding.... (?, 128)"
+2639,Epoch: [0][1321/100]	Time 0.080	Loss 4.0
+2640,"shape of embedding.... (?, 128)"
+2641,Epoch: [0][1322/100]	Time 0.085	Loss 3.9
+2642,"shape of embedding.... (?, 128)"
+2643,Epoch: [0][1323/100]	Time 0.087	Loss 3.9
+2644,"shape of embedding.... (?, 128)"
+2645,Epoch: [0][1324/100]	Time 0.083	Loss 3.9
+2646,"shape of embedding.... (?, 128)"
+2647,Epoch: [0][1325/100]	Time 0.084	Loss 3.9
+2648,"shape of embedding.... (?, 128)"
+2649,Epoch: [0][1326/100]	Time 0.086	Loss 3.9
+2650,"shape of embedding.... (?, 128)"
+2651,Epoch: [0][1327/100]	Time 0.086	Loss 4.2
+2652,"shape of embedding.... (?, 128)"
+2653,Epoch: [0][1328/100]	Time 0.083	Loss 3.9
+2654,"shape of embedding.... (?, 128)"
+2655,Epoch: [0][1329/100]	Time 0.086	Loss 3.9
+2656,"shape of embedding.... (?, 128)"
+2657,Epoch: [0][1330/100]	Time 0.086	Loss 3.9
+2658,"shape of embedding.... (?, 128)"
+2659,Epoch: [0][1331/100]	Time 0.086	Loss 3.9
+2660,"shape of embedding.... (?, 128)"
+2661,Epoch: [0][1332/100]	Time 0.088	Loss 4.0
+2662,"shape of embedding.... (?, 128)"
+2663,Epoch: [0][1333/100]	Time 0.087	Loss 4.0
+2664,"shape of embedding.... (?, 128)"
+2665,Epoch: [0][1334/100]	Time 0.089	Loss 3.9
+2666,"shape of embedding.... (?, 128)"
+2667,Epoch: [0][1335/100]	Time 0.092	Loss 3.9
+2668,"shape of embedding.... (?, 128)"
+2669,Epoch: [0][1336/100]	Time 0.087	Loss 3.8
+2670,"shape of embedding.... (?, 128)"
+2671,Epoch: [0][1337/100]	Time 0.084	Loss 3.9
+2672,"shape of embedding.... (?, 128)"
+2673,Epoch: [0][1338/100]	Time 0.087	Loss 4.0
+2674,"shape of embedding.... (?, 128)"
+2675,Epoch: [0][1339/100]	Time 0.087	Loss 3.8
+2676,"shape of embedding.... (?, 128)"
+2677,Epoch: [0][1340/100]	Time 0.088	Loss 3.9
+2678,"shape of embedding.... (?, 128)"
+2679,Epoch: [0][1341/100]	Time 0.088	Loss 4.0
+2680,"shape of embedding.... (?, 128)"
+2681,Epoch: [0][1342/100]	Time 0.087	Loss 4.2
+2682,"shape of embedding.... (?, 128)"
+2683,Epoch: [0][1343/100]	Time 0.086	Loss 3.9
+2684,"shape of embedding.... (?, 128)"
+2685,Epoch: [0][1344/100]	Time 0.087	Loss 4.0
+2686,"shape of embedding.... (?, 128)"
+2687,Epoch: [0][1345/100]	Time 0.083	Loss 4.0
+2688,"shape of embedding.... (?, 128)"
+2689,Epoch: [0][1346/100]	Time 0.086	Loss 3.8
+2690,"shape of embedding.... (?, 128)"
+2691,Epoch: [0][1347/100]	Time 0.084	Loss 4.2
+2692,"shape of embedding.... (?, 128)"
+2693,Epoch: [0][1348/100]	Time 0.087	Loss 3.9
+2694,"shape of embedding.... (?, 128)"
+2695,Epoch: [0][1349/100]	Time 0.088	Loss 3.9
+2696,"shape of embedding.... (?, 128)"
+2697,Epoch: [0][1350/100]	Time 0.084	Loss 3.9
+2698,"shape of embedding.... (?, 128)"
+2699,Epoch: [0][1351/100]	Time 0.084	Loss 3.8
+2700,"shape of embedding.... (?, 128)"
+2701,Epoch: [0][1352/100]	Time 0.087	Loss 4.0
+2702,"shape of embedding.... (?, 128)"
+2703,Epoch: [0][1353/100]	Time 0.084	Loss 3.9
+2704,"shape of embedding.... (?, 128)"
+2705,Epoch: [0][1354/100]	Time 0.082	Loss 3.9
+2706,"shape of embedding.... (?, 128)"
+2707,Epoch: [0][1355/100]	Time 0.084	Loss 4.1
+2708,"shape of embedding.... (?, 128)"
+2709,Epoch: [0][1356/100]	Time 0.085	Loss 3.8
+2710,"shape of embedding.... (?, 128)"
+2711,Epoch: [0][1357/100]	Time 0.088	Loss 3.9
+2712,"shape of embedding.... (?, 128)"
+2713,Epoch: [0][1358/100]	Time 0.089	Loss 3.8
+2714,"shape of embedding.... (?, 128)"
+2715,Epoch: [0][1359/100]	Time 0.085	Loss 3.9
+2716,"shape of embedding.... (?, 128)"
+2717,Epoch: [0][1360/100]	Time 0.090	Loss 4.0
+2718,"shape of embedding.... (?, 128)"
+2719,Epoch: [0][1361/100]	Time 0.086	Loss 3.9
+2720,"shape of embedding.... (?, 128)"
+2721,Epoch: [0][1362/100]	Time 0.084	Loss 3.8
+2722,"shape of embedding.... (?, 128)"
+2723,Epoch: [0][1363/100]	Time 0.087	Loss 3.9
+2724,"shape of embedding.... (?, 128)"
+2725,Epoch: [0][1364/100]	Time 0.086	Loss 3.9
+2726,"shape of embedding.... (?, 128)"
+2727,Epoch: [0][1365/100]	Time 0.088	Loss 4.0
+2728,"shape of embedding.... (?, 128)"
+2729,Epoch: [0][1366/100]	Time 0.086	Loss 3.9
+2730,"shape of embedding.... (?, 128)"
+2731,Epoch: [0][1367/100]	Time 0.085	Loss 3.8
+2732,"shape of embedding.... (?, 128)"
+2733,Epoch: [0][1368/100]	Time 0.091	Loss 3.8
+2734,"shape of embedding.... (?, 128)"
+2735,Epoch: [0][1369/100]	Time 0.086	Loss 3.9
+2736,"shape of embedding.... (?, 128)"
+2737,Epoch: [0][1370/100]	Time 0.089	Loss 3.9
+2738,"shape of embedding.... (?, 128)"
+2739,Epoch: [0][1371/100]	Time 0.084	Loss 3.8
+2740,"shape of embedding.... (?, 128)"
+2741,Epoch: [0][1372/100]	Time 0.093	Loss 3.9
+2742,"shape of embedding.... (?, 128)"
+2743,Epoch: [0][1373/100]	Time 0.093	Loss 3.9
+2744,"shape of embedding.... (?, 128)"
+2745,Epoch: [0][1374/100]	Time 0.086	Loss 3.9
+2746,"shape of embedding.... (?, 128)"
+2747,Epoch: [0][1375/100]	Time 0.081	Loss 4.0
+2748,"shape of embedding.... (?, 128)"
+2749,Epoch: [0][1376/100]	Time 0.087	Loss 3.8
+2750,"shape of embedding.... (?, 128)"
+2751,Epoch: [0][1377/100]	Time 0.085	Loss 4.0
+2752,"shape of embedding.... (?, 128)"
+2753,Epoch: [0][1378/100]	Time 0.088	Loss 3.9
+2754,"shape of embedding.... (?, 128)"
+2755,Epoch: [0][1379/100]	Time 0.080	Loss 3.9
+2756,"shape of embedding.... (?, 128)"
+2757,Epoch: [0][1380/100]	Time 0.085	Loss 3.9
+2758,"shape of embedding.... (?, 128)"
+2759,Epoch: [0][1381/100]	Time 0.086	Loss 4.1
+2760,"shape of embedding.... (?, 128)"
+2761,Epoch: [0][1382/100]	Time 0.089	Loss 4.0
+2762,"shape of embedding.... (?, 128)"
+2763,Epoch: [0][1383/100]	Time 0.083	Loss 3.9
+2764,"shape of embedding.... (?, 128)"
+2765,Epoch: [0][1384/100]	Time 0.082	Loss 3.8
+2766,"shape of embedding.... (?, 128)"
+2767,Epoch: [0][1385/100]	Time 0.085	Loss 3.8
+2768,"shape of embedding.... (?, 128)"
+2769,Epoch: [0][1386/100]	Time 0.089	Loss 3.9
+2770,"shape of embedding.... (?, 128)"
+2771,Epoch: [0][1387/100]	Time 0.086	Loss 3.8
+2772,"shape of embedding.... (?, 128)"
+2773,Epoch: [0][1388/100]	Time 0.087	Loss 3.9
+2774,"shape of embedding.... (?, 128)"
+2775,Epoch: [0][1389/100]	Time 0.084	Loss 3.9
+2776,"shape of embedding.... (?, 128)"
+2777,Epoch: [0][1390/100]	Time 0.080	Loss 3.9
+2778,"shape of embedding.... (?, 128)"
+2779,Epoch: [0][1391/100]	Time 0.090	Loss 3.8
+2780,"shape of embedding.... (?, 128)"
+2781,Epoch: [0][1392/100]	Time 0.088	Loss 3.9
+2782,"shape of embedding.... (?, 128)"
+2783,Epoch: [0][1393/100]	Time 0.092	Loss 3.8
+2784,"shape of embedding.... (?, 128)"
+2785,Epoch: [0][1394/100]	Time 0.084	Loss 3.8
+2786,"shape of embedding.... (?, 128)"
+2787,Epoch: [0][1395/100]	Time 0.091	Loss 3.8
+2788,"shape of embedding.... (?, 128)"
+2789,Epoch: [0][1396/100]	Time 0.090	Loss 3.9
+2790,"shape of embedding.... (?, 128)"
+2791,Epoch: [0][1397/100]	Time 0.088	Loss 4.0
+2792,"shape of embedding.... (?, 128)"
+2793,Epoch: [0][1398/100]	Time 0.086	Loss 3.8
+2794,"shape of embedding.... (?, 128)"
+2795,Epoch: [0][1399/100]	Time 0.084	Loss 3.8
+2796,"shape of embedding.... (?, 128)"
+2797,Epoch: [0][1400/100]	Time 0.085	Loss 4.0
+2798,"shape of embedding.... (?, 128)"
+2799,Epoch: [0][1401/100]	Time 0.086	Loss 3.8
+2800,"shape of embedding.... (?, 128)"
+2801,Epoch: [0][1402/100]	Time 0.093	Loss 4.0
+2802,"shape of embedding.... (?, 128)"
+2803,Epoch: [0][1403/100]	Time 0.087	Loss 3.8
+2804,"shape of embedding.... (?, 128)"
+2805,Epoch: [0][1404/100]	Time 0.093	Loss 3.8
+2806,"shape of embedding.... (?, 128)"
+2807,Epoch: [0][1405/100]	Time 0.087	Loss 4.1
+2808,"shape of embedding.... (?, 128)"
+2809,Epoch: [0][1406/100]	Time 0.090	Loss 3.9
+2810,"shape of embedding.... (?, 128)"
+2811,Epoch: [0][1407/100]	Time 0.084	Loss 3.9
+2812,"shape of embedding.... (?, 128)"
+2813,Epoch: [0][1408/100]	Time 0.081	Loss 3.8
+2814,"shape of embedding.... (?, 128)"
+2815,Epoch: [0][1409/100]	Time 0.089	Loss 3.8
+2816,"shape of embedding.... (?, 128)"
+2817,Epoch: [0][1410/100]	Time 0.085	Loss 3.8
+2818,"shape of embedding.... (?, 128)"
+2819,Epoch: [0][1411/100]	Time 0.093	Loss 4.1
+2820,"shape of embedding.... (?, 128)"
+2821,Epoch: [0][1412/100]	Time 0.087	Loss 4.0
+2822,"shape of embedding.... (?, 128)"
+2823,Epoch: [0][1413/100]	Time 0.082	Loss 4.1
+2824,"shape of embedding.... (?, 128)"
+2825,Epoch: [0][1414/100]	Time 0.085	Loss 3.8
+2826,"shape of embedding.... (?, 128)"
+2827,Epoch: [0][1415/100]	Time 0.084	Loss 3.9
+2828,"shape of embedding.... (?, 128)"
+2829,Epoch: [0][1416/100]	Time 0.081	Loss 3.8
+2830,"shape of embedding.... (?, 128)"
+2831,Epoch: [0][1417/100]	Time 0.082	Loss 3.8
+2832,"shape of embedding.... (?, 128)"
+2833,Epoch: [0][1418/100]	Time 0.086	Loss 3.8
+2834,"shape of embedding.... (?, 128)"
+2835,Epoch: [0][1419/100]	Time 0.085	Loss 4.1
+2836,"shape of embedding.... (?, 128)"
+2837,Epoch: [0][1420/100]	Time 0.089	Loss 3.9
+2838,"shape of embedding.... (?, 128)"
+2839,Epoch: [0][1421/100]	Time 0.084	Loss 3.8
+2840,"shape of embedding.... (?, 128)"
+2841,Epoch: [0][1422/100]	Time 0.094	Loss 3.8
+2842,"shape of embedding.... (?, 128)"
+2843,Epoch: [0][1423/100]	Time 0.091	Loss 4.0
+2844,"shape of embedding.... (?, 128)"
+2845,Epoch: [0][1424/100]	Time 0.091	Loss 3.9
+2846,"shape of embedding.... (?, 128)"
+2847,Epoch: [0][1425/100]	Time 0.087	Loss 3.9
+2848,"shape of embedding.... (?, 128)"
+2849,Epoch: [0][1426/100]	Time 0.083	Loss 3.8
+2850,"shape of embedding.... (?, 128)"
+2851,Epoch: [0][1427/100]	Time 0.089	Loss 3.8
+2852,"shape of embedding.... (?, 128)"
+2853,Epoch: [0][1428/100]	Time 0.082	Loss 3.9
+2854,"shape of embedding.... (?, 128)"
+2855,Epoch: [0][1429/100]	Time 0.086	Loss 4.0
+2856,"shape of embedding.... (?, 128)"
+2857,Epoch: [0][1430/100]	Time 0.088	Loss 3.8
+2858,"shape of embedding.... (?, 128)"
+2859,Epoch: [0][1431/100]	Time 0.082	Loss 3.8
+2860,"shape of embedding.... (?, 128)"
+2861,Epoch: [0][1432/100]	Time 0.092	Loss 3.8
+2862,"shape of embedding.... (?, 128)"
+2863,Epoch: [0][1433/100]	Time 0.085	Loss 3.8
+2864,"shape of embedding.... (?, 128)"
+2865,Epoch: [0][1434/100]	Time 0.087	Loss 3.8
+2866,"shape of embedding.... (?, 128)"
+2867,Epoch: [0][1435/100]	Time 0.085	Loss 3.9
+2868,"shape of embedding.... (?, 128)"
+2869,Epoch: [0][1436/100]	Time 0.086	Loss 4.1
+2870,"shape of embedding.... (?, 128)"
+2871,Epoch: [0][1437/100]	Time 0.087	Loss 3.8
+2872,"shape of embedding.... (?, 128)"
+2873,Epoch: [0][1438/100]	Time 0.084	Loss 3.9
+2874,"shape of embedding.... (?, 128)"
+2875,Epoch: [0][1439/100]	Time 0.087	Loss 3.9
+2876,"shape of embedding.... (?, 128)"
+2877,Epoch: [0][1440/100]	Time 0.085	Loss 3.9
+2878,"shape of embedding.... (?, 128)"
+2879,Epoch: [0][1441/100]	Time 0.089	Loss 3.9
+2880,"shape of embedding.... (?, 128)"
+2881,Epoch: [0][1442/100]	Time 0.084	Loss 3.9
+2882,"shape of embedding.... (?, 128)"
+2883,Epoch: [0][1443/100]	Time 0.086	Loss 3.9
+2884,"shape of embedding.... (?, 128)"
+2885,Epoch: [0][1444/100]	Time 0.088	Loss 4.0
+2886,"shape of embedding.... (?, 128)"
+2887,Epoch: [0][1445/100]	Time 0.085	Loss 3.8
+2888,"shape of embedding.... (?, 128)"
+2889,Epoch: [0][1446/100]	Time 0.084	Loss 3.9
+2890,"shape of embedding.... (?, 128)"
+2891,Epoch: [0][1447/100]	Time 0.089	Loss 3.8
+2892,"shape of embedding.... (?, 128)"
+2893,Epoch: [0][1448/100]	Time 0.087	Loss 4.0
+2894,"shape of embedding.... (?, 128)"
+2895,Epoch: [0][1449/100]	Time 0.084	Loss 3.9
+2896,"shape of embedding.... (?, 128)"
+2897,Epoch: [0][1450/100]	Time 0.083	Loss 3.9
+2898,"shape of embedding.... (?, 128)"
+2899,Epoch: [0][1451/100]	Time 0.086	Loss 3.8
+2900,"shape of embedding.... (?, 128)"
+2901,Epoch: [0][1452/100]	Time 0.084	Loss 3.8
+2902,"shape of embedding.... (?, 128)"
+2903,Epoch: [0][1453/100]	Time 0.091	Loss 3.9
+2904,"shape of embedding.... (?, 128)"
+2905,Epoch: [0][1454/100]	Time 0.087	Loss 3.8
+2906,"shape of embedding.... (?, 128)"
+2907,Epoch: [0][1455/100]	Time 0.090	Loss 3.8
+2908,"shape of embedding.... (?, 128)"
+2909,Epoch: [0][1456/100]	Time 0.084	Loss 4.0
+2910,"shape of embedding.... (?, 128)"
+2911,Epoch: [0][1457/100]	Time 0.091	Loss 4.1
+2912,"shape of embedding.... (?, 128)"
+2913,Epoch: [0][1458/100]	Time 0.085	Loss 4.1
+2914,"shape of embedding.... (?, 128)"
+2915,Epoch: [0][1459/100]	Time 0.084	Loss 3.8
+2916,"shape of embedding.... (?, 128)"
+2917,Epoch: [0][1460/100]	Time 0.083	Loss 3.9
+2918,"shape of embedding.... (?, 128)"
+2919,Epoch: [0][1461/100]	Time 0.089	Loss 3.9
+2920,"shape of embedding.... (?, 128)"
+2921,Epoch: [0][1462/100]	Time 0.090	Loss 3.8
+2922,"shape of embedding.... (?, 128)"
+2923,Epoch: [0][1463/100]	Time 0.082	Loss 4.0
+2924,"shape of embedding.... (?, 128)"
+2925,Epoch: [0][1464/100]	Time 0.086	Loss 3.8
+2926,"shape of embedding.... (?, 128)"
+2927,Epoch: [0][1465/100]	Time 0.088	Loss 3.8
+2928,"shape of embedding.... (?, 128)"
+2929,Epoch: [0][1466/100]	Time 0.088	Loss 3.9
+2930,"shape of embedding.... (?, 128)"
+2931,Epoch: [0][1467/100]	Time 0.087	Loss 3.8
+2932,"shape of embedding.... (?, 128)"
+2933,Epoch: [0][1468/100]	Time 0.082	Loss 3.8
+2934,"shape of embedding.... (?, 128)"
+2935,Epoch: [0][1469/100]	Time 0.080	Loss 3.8
+2936,"shape of embedding.... (?, 128)"
+2937,Epoch: [0][1470/100]	Time 0.087	Loss 3.8
+2938,"shape of embedding.... (?, 128)"
+2939,Epoch: [0][1471/100]	Time 0.090	Loss 4.0
+2940,"shape of embedding.... (?, 128)"
+2941,Epoch: [0][1472/100]	Time 0.086	Loss 4.0
+2942,"shape of embedding.... (?, 128)"
+2943,Epoch: [0][1473/100]	Time 0.089	Loss 3.9
+2944,"shape of embedding.... (?, 128)"
+2945,Epoch: [0][1474/100]	Time 0.086	Loss 3.8
+2946,"shape of embedding.... (?, 128)"
+2947,Epoch: [0][1475/100]	Time 0.088	Loss 4.0
+2948,"shape of embedding.... (?, 128)"
+2949,Epoch: [0][1476/100]	Time 0.085	Loss 3.8
+2950,"shape of embedding.... (?, 128)"
+2951,Epoch: [0][1477/100]	Time 0.085	Loss 3.9
+2952,"shape of embedding.... (?, 128)"
+2953,Epoch: [0][1478/100]	Time 0.086	Loss 3.8
+2954,"shape of embedding.... (?, 128)"
+2955,Epoch: [0][1479/100]	Time 0.087	Loss 3.9
+2956,"shape of embedding.... (?, 128)"
+2957,Epoch: [0][1480/100]	Time 0.081	Loss 3.8
+2958,"shape of embedding.... (?, 128)"
+2959,Epoch: [0][1481/100]	Time 0.084	Loss 3.9
+2960,"shape of embedding.... (?, 128)"
+2961,Epoch: [0][1482/100]	Time 0.089	Loss 4.1
+2962,"shape of embedding.... (?, 128)"
+2963,Epoch: [0][1483/100]	Time 0.085	Loss 3.9
+2964,"shape of embedding.... (?, 128)"
+2965,Epoch: [0][1484/100]	Time 0.088	Loss 4.0
+2966,"shape of embedding.... (?, 128)"
+2967,Epoch: [0][1485/100]	Time 0.082	Loss 3.9
+2968,"shape of embedding.... (?, 128)"
+2969,Epoch: [0][1486/100]	Time 0.083	Loss 3.8
+2970,"shape of embedding.... (?, 128)"
+2971,Epoch: [0][1487/100]	Time 0.086	Loss 3.9
+2972,"shape of embedding.... (?, 128)"
+2973,Epoch: [0][1488/100]	Time 0.086	Loss 3.8
+2974,"shape of embedding.... (?, 128)"
+2975,Epoch: [0][1489/100]	Time 0.090	Loss 3.8
+2976,"shape of embedding.... (?, 128)"
+2977,Epoch: [0][1490/100]	Time 0.086	Loss 3.8
+2978,"shape of embedding.... (?, 128)"
+2979,Epoch: [0][1491/100]	Time 0.087	Loss 3.9
+2980,"shape of embedding.... (?, 128)"
+2981,Epoch: [0][1492/100]	Time 0.090	Loss 4.1
+2982,"shape of embedding.... (?, 128)"
+2983,Epoch: [0][1493/100]	Time 0.084	Loss 3.8
+2984,"shape of embedding.... (?, 128)"
+2985,Epoch: [0][1494/100]	Time 0.088	Loss 3.8
+2986,"shape of embedding.... (?, 128)"
+2987,Epoch: [0][1495/100]	Time 0.082	Loss 3.9
+2988,"shape of embedding.... (?, 128)"
+2989,Epoch: [0][1496/100]	Time 0.085	Loss 3.8
+2990,"shape of embedding.... (?, 128)"
+2991,Epoch: [0][1497/100]	Time 0.087	Loss 4.1
+2992,"shape of embedding.... (?, 128)"
+2993,Epoch: [0][1498/100]	Time 0.090	Loss 3.8
+2994,"shape of embedding.... (?, 128)"
+2995,Epoch: [0][1499/100]	Time 0.084	Loss 3.8
+2996,"shape of embedding.... (?, 128)"
+2997,Epoch: [0][1500/100]	Time 0.087	Loss 3.8
+2998,"shape of embedding.... (?, 128)"
+2999,Epoch: [0][1501/100]	Time 0.085	Loss 3.8
+3000,"shape of embedding.... (?, 128)"
+3001,Epoch: [0][1502/100]	Time 0.086	Loss 3.9
+3002,"shape of embedding.... (?, 128)"
+3003,Epoch: [0][1503/100]	Time 0.085	Loss 3.9
+3004,"shape of embedding.... (?, 128)"
+3005,Epoch: [0][1504/100]	Time 0.089	Loss 3.9
+3006,"shape of embedding.... (?, 128)"
+3007,Epoch: [0][1505/100]	Time 0.087	Loss 3.8
+3008,"shape of embedding.... (?, 128)"
+3009,Epoch: [0][1506/100]	Time 0.086	Loss 3.8
+3010,"shape of embedding.... (?, 128)"
+3011,Epoch: [0][1507/100]	Time 0.086	Loss 3.8
+3012,"shape of embedding.... (?, 128)"
+3013,Epoch: [0][1508/100]	Time 0.089	Loss 3.8
+3014,"shape of embedding.... (?, 128)"
+3015,Epoch: [0][1509/100]	Time 0.083	Loss 3.9
+3016,"shape of embedding.... (?, 128)"
+3017,Epoch: [0][1510/100]	Time 0.086	Loss 3.9
+3018,"shape of embedding.... (?, 128)"
+3019,Epoch: [0][1511/100]	Time 0.086	Loss 3.8
+3020,"shape of embedding.... (?, 128)"
+3021,Epoch: [0][1512/100]	Time 0.083	Loss 3.8
+3022,"shape of embedding.... (?, 128)"
+3023,Epoch: [0][1513/100]	Time 0.088	Loss 3.8
+3024,"shape of embedding.... (?, 128)"
+3025,Epoch: [0][1514/100]	Time 0.089	Loss 4.1
+3026,"shape of embedding.... (?, 128)"
+3027,Epoch: [0][1515/100]	Time 0.086	Loss 3.9
+3028,"shape of embedding.... (?, 128)"
+3029,Epoch: [0][1516/100]	Time 0.086	Loss 3.9
+3030,"shape of embedding.... (?, 128)"
+3031,Epoch: [0][1517/100]	Time 0.085	Loss 3.8
+3032,"shape of embedding.... (?, 128)"
+3033,Epoch: [0][1518/100]	Time 0.085	Loss 3.8
+3034,"shape of embedding.... (?, 128)"
+3035,Epoch: [0][1519/100]	Time 0.095	Loss 3.9
+3036,"shape of embedding.... (?, 128)"
+3037,Epoch: [0][1520/100]	Time 0.083	Loss 4.0
+3038,"shape of embedding.... (?, 128)"
+3039,Epoch: [0][1521/100]	Time 0.086	Loss 3.8
+3040,"shape of embedding.... (?, 128)"
+3041,Epoch: [0][1522/100]	Time 0.082	Loss 4.0
+3042,"shape of embedding.... (?, 128)"
+3043,Epoch: [0][1523/100]	Time 0.090	Loss 3.8
+3044,"shape of embedding.... (?, 128)"
+3045,Epoch: [0][1524/100]	Time 0.085	Loss 3.8
+3046,"shape of embedding.... (?, 128)"
+3047,Epoch: [0][1525/100]	Time 0.090	Loss 3.8
+3048,"shape of embedding.... (?, 128)"
+3049,Epoch: [0][1526/100]	Time 0.089	Loss 3.8
+3050,"shape of embedding.... (?, 128)"
+3051,Epoch: [0][1527/100]	Time 0.089	Loss 3.8
+3052,"shape of embedding.... (?, 128)"
+3053,Epoch: [0][1528/100]	Time 0.084	Loss 3.8
+3054,"shape of embedding.... (?, 128)"
+3055,Epoch: [0][1529/100]	Time 0.084	Loss 3.8
+3056,"shape of embedding.... (?, 128)"
+3057,Epoch: [0][1530/100]	Time 0.083	Loss 3.8
+3058,"shape of embedding.... (?, 128)"
+3059,Epoch: [0][1531/100]	Time 0.087	Loss 4.0
+3060,"shape of embedding.... (?, 128)"
+3061,Epoch: [0][1532/100]	Time 0.087	Loss 3.8
+3062,"shape of embedding.... (?, 128)"
+3063,Epoch: [0][1533/100]	Time 0.087	Loss 3.8
+3064,"shape of embedding.... (?, 128)"
+3065,Epoch: [0][1534/100]	Time 0.088	Loss 4.1
+3066,"shape of embedding.... (?, 128)"
+3067,Epoch: [0][1535/100]	Time 0.085	Loss 3.8
+3068,"shape of embedding.... (?, 128)"
+3069,Epoch: [0][1536/100]	Time 0.085	Loss 3.9
+3070,"shape of embedding.... (?, 128)"
+3071,Epoch: [0][1537/100]	Time 0.080	Loss 3.8
+3072,"shape of embedding.... (?, 128)"
+3073,Epoch: [0][1538/100]	Time 0.085	Loss 3.8
+3074,"shape of embedding.... (?, 128)"
+3075,Epoch: [0][1539/100]	Time 0.088	Loss 3.8
+3076,"shape of embedding.... (?, 128)"
+3077,Epoch: [0][1540/100]	Time 0.087	Loss 3.9
+3078,"shape of embedding.... (?, 128)"
+3079,Epoch: [0][1541/100]	Time 0.088	Loss 3.8
+3080,"shape of embedding.... (?, 128)"
+3081,Epoch: [0][1542/100]	Time 0.087	Loss 3.8
+3082,"shape of embedding.... (?, 128)"
+3083,Epoch: [0][1543/100]	Time 0.085	Loss 3.8
+3084,"shape of embedding.... (?, 128)"
+3085,Epoch: [0][1544/100]	Time 0.085	Loss 3.8
+3086,"shape of embedding.... (?, 128)"
+3087,Epoch: [0][1545/100]	Time 0.083	Loss 3.8
+3088,"shape of embedding.... (?, 128)"
+3089,Epoch: [0][1546/100]	Time 0.083	Loss 3.9
+3090,"shape of embedding.... (?, 128)"
+3091,Epoch: [0][1547/100]	Time 0.092	Loss 3.9
+3092,"shape of embedding.... (?, 128)"
+3093,Epoch: [0][1548/100]	Time 0.086	Loss 3.8
+3094,"shape of embedding.... (?, 128)"
+3095,Epoch: [0][1549/100]	Time 0.087	Loss 4.0
+3096,"shape of embedding.... (?, 128)"
+3097,Epoch: [0][1550/100]	Time 0.089	Loss 3.8
+3098,"shape of embedding.... (?, 128)"
+3099,Epoch: [0][1551/100]	Time 0.088	Loss 3.9
+3100,"shape of embedding.... (?, 128)"
+3101,Epoch: [0][1552/100]	Time 0.088	Loss 3.8
+3102,"shape of embedding.... (?, 128)"
+3103,Epoch: [0][1553/100]	Time 0.087	Loss 3.9
+3104,"shape of embedding.... (?, 128)"
+3105,Epoch: [0][1554/100]	Time 0.087	Loss 3.8
+3106,"shape of embedding.... (?, 128)"
+3107,Epoch: [0][1555/100]	Time 0.087	Loss 3.8
+3108,"shape of embedding.... (?, 128)"
+3109,Epoch: [0][1556/100]	Time 0.085	Loss 3.8
+3110,"shape of embedding.... (?, 128)"
+3111,Epoch: [0][1557/100]	Time 0.085	Loss 3.9
+3112,"shape of embedding.... (?, 128)"
+3113,Epoch: [0][1558/100]	Time 0.090	Loss 3.9
+3114,"shape of embedding.... (?, 128)"
+3115,Epoch: [0][1559/100]	Time 0.097	Loss 3.9
+3116,"shape of embedding.... (?, 128)"
+3117,Epoch: [0][1560/100]	Time 0.084	Loss 3.8
+3118,"shape of embedding.... (?, 128)"
+3119,Epoch: [0][1561/100]	Time 0.086	Loss 3.9
+3120,"shape of embedding.... (?, 128)"
+3121,Epoch: [0][1562/100]	Time 0.085	Loss 3.8
+3122,"shape of embedding.... (?, 128)"
+3123,Epoch: [0][1563/100]	Time 0.089	Loss 3.8
+3124,"shape of embedding.... (?, 128)"
+3125,Epoch: [0][1564/100]	Time 0.091	Loss 4.0
+3126,"shape of embedding.... (?, 128)"
+3127,Epoch: [0][1565/100]	Time 0.092	Loss 4.0
+3128,"shape of embedding.... (?, 128)"
+3129,Epoch: [0][1566/100]	Time 0.089	Loss 3.8
+3130,"shape of embedding.... (?, 128)"
+3131,Epoch: [0][1567/100]	Time 0.088	Loss 3.8
+3132,"shape of embedding.... (?, 128)"
+3133,Epoch: [0][1568/100]	Time 0.087	Loss 3.9
+3134,"shape of embedding.... (?, 128)"
+3135,Epoch: [0][1569/100]	Time 0.081	Loss 3.9
+3136,"shape of embedding.... (?, 128)"
+3137,Epoch: [0][1570/100]	Time 0.087	Loss 3.9
+3138,"shape of embedding.... (?, 128)"
+3139,Epoch: [0][1571/100]	Time 0.081	Loss 3.8
+3140,"shape of embedding.... (?, 128)"
+3141,Epoch: [0][1572/100]	Time 0.081	Loss 3.9
+3142,"shape of embedding.... (?, 128)"
+3143,Epoch: [0][1573/100]	Time 0.087	Loss 3.8
+3144,"shape of embedding.... (?, 128)"
+3145,Epoch: [0][1574/100]	Time 0.083	Loss 3.8
+3146,"shape of embedding.... (?, 128)"
+3147,Epoch: [0][1575/100]	Time 0.085	Loss 3.9
+3148,"shape of embedding.... (?, 128)"
+3149,Epoch: [0][1576/100]	Time 0.086	Loss 3.9
+3150,"shape of embedding.... (?, 128)"
+3151,Epoch: [0][1577/100]	Time 0.085	Loss 3.8
+3152,"shape of embedding.... (?, 128)"
+3153,Epoch: [0][1578/100]	Time 0.090	Loss 3.8
+3154,"shape of embedding.... (?, 128)"
+3155,Epoch: [0][1579/100]	Time 0.088	Loss 3.9
+3156,"shape of embedding.... (?, 128)"
+3157,Epoch: [0][1580/100]	Time 0.084	Loss 3.9
+3158,"shape of embedding.... (?, 128)"
+3159,Epoch: [0][1581/100]	Time 0.087	Loss 3.9
+3160,"shape of embedding.... (?, 128)"
+3161,Epoch: [0][1582/100]	Time 0.088	Loss 3.9
+3162,"shape of embedding.... (?, 128)"
+3163,Epoch: [0][1583/100]	Time 0.087	Loss 4.0
+3164,"shape of embedding.... (?, 128)"
+3165,Epoch: [0][1584/100]	Time 0.087	Loss 3.8
+3166,"shape of embedding.... (?, 128)"
+3167,Epoch: [0][1585/100]	Time 0.088	Loss 3.8
+3168,"shape of embedding.... (?, 128)"
+3169,Epoch: [0][1586/100]	Time 0.088	Loss 3.8
+3170,"shape of embedding.... (?, 128)"
+3171,Epoch: [0][1587/100]	Time 0.085	Loss 3.9
+3172,"shape of embedding.... (?, 128)"
+3173,Epoch: [0][1588/100]	Time 0.085	Loss 3.8
+3174,"shape of embedding.... (?, 128)"
+3175,Epoch: [0][1589/100]	Time 0.089	Loss 3.8
+3176,"shape of embedding.... (?, 128)"
+3177,Epoch: [0][1590/100]	Time 0.088	Loss 4.3
+3178,"shape of embedding.... (?, 128)"
+3179,Epoch: [0][1591/100]	Time 0.085	Loss 3.8
+3180,"shape of embedding.... (?, 128)"
+3181,Epoch: [0][1592/100]	Time 0.084	Loss 3.8
+3182,"shape of embedding.... (?, 128)"
+3183,Epoch: [0][1593/100]	Time 0.085	Loss 3.8
+3184,"shape of embedding.... (?, 128)"
+3185,Epoch: [0][1594/100]	Time 0.084	Loss 4.1
+3186,"shape of embedding.... (?, 128)"
+3187,Epoch: [0][1595/100]	Time 0.086	Loss 3.8
+3188,"shape of embedding.... (?, 128)"
+3189,Epoch: [0][1596/100]	Time 0.087	Loss 3.8
+3190,"shape of embedding.... (?, 128)"
+3191,Epoch: [0][1597/100]	Time 0.083	Loss 3.8
+3192,"shape of embedding.... (?, 128)"
+3193,Epoch: [0][1598/100]	Time 0.084	Loss 3.8
+3194,"shape of embedding.... (?, 128)"
+3195,Epoch: [0][1599/100]	Time 0.083	Loss 4.0
+3196,"shape of embedding.... (?, 128)"
+3197,Epoch: [0][1600/100]	Time 0.085	Loss 3.9
+3198,"shape of embedding.... (?, 128)"
+3199,Epoch: [0][1601/100]	Time 0.089	Loss 3.7
+3200,"shape of embedding.... (?, 128)"
+3201,Epoch: [0][1602/100]	Time 0.088	Loss 3.8
+3202,"shape of embedding.... (?, 128)"
+3203,Epoch: [0][1603/100]	Time 0.089	Loss 3.8
+3204,"shape of embedding.... (?, 128)"
+3205,Epoch: [0][1604/100]	Time 0.092	Loss 3.8
+3206,"shape of embedding.... (?, 128)"
+3207,Epoch: [0][1605/100]	Time 0.085	Loss 3.7
+3208,"shape of embedding.... (?, 128)"
+3209,Epoch: [0][1606/100]	Time 0.087	Loss 4.0
+3210,"shape of embedding.... (?, 128)"
+3211,Epoch: [0][1607/100]	Time 0.085	Loss 3.7
+3212,"shape of embedding.... (?, 128)"
+3213,Epoch: [0][1608/100]	Time 0.086	Loss 3.9
+3214,"shape of embedding.... (?, 128)"
+3215,Epoch: [0][1609/100]	Time 0.088	Loss 3.7
+3216,"shape of embedding.... (?, 128)"
+3217,Epoch: [0][1610/100]	Time 0.086	Loss 3.7
+3218,"shape of embedding.... (?, 128)"
+3219,Epoch: [0][1611/100]	Time 0.091	Loss 3.7
+3220,"shape of embedding.... (?, 128)"
+3221,Epoch: [0][1612/100]	Time 0.089	Loss 3.7
+3222,"shape of embedding.... (?, 128)"
+3223,Epoch: [0][1613/100]	Time 0.089	Loss 3.9
+3224,"shape of embedding.... (?, 128)"
+3225,Epoch: [0][1614/100]	Time 0.085	Loss 3.8
+3226,"shape of embedding.... (?, 128)"
+3227,Epoch: [0][1615/100]	Time 0.083	Loss 3.7
+3228,"shape of embedding.... (?, 128)"
+3229,Epoch: [0][1616/100]	Time 0.087	Loss 3.7
+3230,"shape of embedding.... (?, 128)"
+3231,Epoch: [0][1617/100]	Time 0.087	Loss 3.7
+3232,"shape of embedding.... (?, 128)"
+3233,Epoch: [0][1618/100]	Time 0.086	Loss 3.9
+3234,"shape of embedding.... (?, 128)"
+3235,Epoch: [0][1619/100]	Time 0.086	Loss 3.7
+3236,"shape of embedding.... (?, 128)"
+3237,Epoch: [0][1620/100]	Time 0.083	Loss 3.7
+3238,"shape of embedding.... (?, 128)"
+3239,Epoch: [0][1621/100]	Time 0.086	Loss 3.7
+3240,"shape of embedding.... (?, 128)"
+3241,Epoch: [0][1622/100]	Time 0.084	Loss 3.8
+3242,"shape of embedding.... (?, 128)"
+3243,Epoch: [0][1623/100]	Time 0.088	Loss 3.8
+3244,"shape of embedding.... (?, 128)"
+3245,Epoch: [0][1624/100]	Time 0.082	Loss 3.7
+3246,"shape of embedding.... (?, 128)"
+3247,Epoch: [0][1625/100]	Time 0.085	Loss 3.9
+3248,"shape of embedding.... (?, 128)"
+3249,Epoch: [0][1626/100]	Time 0.087	Loss 3.8
+3250,"shape of embedding.... (?, 128)"
+3251,Epoch: [0][1627/100]	Time 0.088	Loss 3.9
+3252,"shape of embedding.... (?, 128)"
+3253,Epoch: [0][1628/100]	Time 0.085	Loss 3.8
+3254,"shape of embedding.... (?, 128)"
+3255,Epoch: [0][1629/100]	Time 0.086	Loss 4.2
+3256,"shape of embedding.... (?, 128)"
+3257,Epoch: [0][1630/100]	Time 0.086	Loss 3.8
+3258,"shape of embedding.... (?, 128)"
+3259,Epoch: [0][1631/100]	Time 0.091	Loss 3.7
+3260,"shape of embedding.... (?, 128)"
+3261,Epoch: [0][1632/100]	Time 0.087	Loss 3.8
+3262,"shape of embedding.... (?, 128)"
+3263,Epoch: [0][1633/100]	Time 0.087	Loss 3.7
+3264,"shape of embedding.... (?, 128)"
+3265,Epoch: [0][1634/100]	Time 0.086	Loss 3.8
+3266,"shape of embedding.... (?, 128)"
+3267,Epoch: [0][1635/100]	Time 0.083	Loss 4.0
+3268,"shape of embedding.... (?, 128)"
+3269,Epoch: [0][1636/100]	Time 0.089	Loss 3.9
+3270,"shape of embedding.... (?, 128)"
+3271,Epoch: [0][1637/100]	Time 0.085	Loss 3.8
+3272,"shape of embedding.... (?, 128)"
+3273,Epoch: [0][1638/100]	Time 0.088	Loss 3.9
+3274,"shape of embedding.... (?, 128)"
+3275,Epoch: [0][1639/100]	Time 0.086	Loss 3.9
+3276,"shape of embedding.... (?, 128)"
+3277,Epoch: [0][1640/100]	Time 0.087	Loss 3.8
+3278,"shape of embedding.... (?, 128)"
+3279,Epoch: [0][1641/100]	Time 0.086	Loss 3.7
+3280,"shape of embedding.... (?, 128)"
+3281,Epoch: [0][1642/100]	Time 0.085	Loss 3.8
+3282,"shape of embedding.... (?, 128)"
+3283,Epoch: [0][1643/100]	Time 0.088	Loss 3.7
+3284,"shape of embedding.... (?, 128)"
+3285,Epoch: [0][1644/100]	Time 0.087	Loss 3.8
+3286,"shape of embedding.... (?, 128)"
+3287,Epoch: [0][1645/100]	Time 0.084	Loss 3.7
+3288,"shape of embedding.... (?, 128)"
+3289,Epoch: [0][1646/100]	Time 0.086	Loss 3.8
+3290,"shape of embedding.... (?, 128)"
+3291,Epoch: [0][1647/100]	Time 0.085	Loss 3.8
+3292,"shape of embedding.... (?, 128)"
+3293,Epoch: [0][1648/100]	Time 0.083	Loss 3.9
+3294,"shape of embedding.... (?, 128)"
+3295,Epoch: [0][1649/100]	Time 0.083	Loss 3.8
+3296,"shape of embedding.... (?, 128)"
+3297,Epoch: [0][1650/100]	Time 0.088	Loss 3.8
+3298,"shape of embedding.... (?, 128)"
+3299,Epoch: [0][1651/100]	Time 0.087	Loss 3.7
+3300,"shape of embedding.... (?, 128)"
+3301,Epoch: [0][1652/100]	Time 0.090	Loss 3.8
+3302,"shape of embedding.... (?, 128)"
+3303,Epoch: [0][1653/100]	Time 0.085	Loss 3.7
+3304,"shape of embedding.... (?, 128)"
+3305,Epoch: [0][1654/100]	Time 0.087	Loss 3.9
+3306,"shape of embedding.... (?, 128)"
+3307,Epoch: [0][1655/100]	Time 0.081	Loss 3.7
+3308,"shape of embedding.... (?, 128)"
+3309,Epoch: [0][1656/100]	Time 0.088	Loss 3.7
+3310,"shape of embedding.... (?, 128)"
+3311,Epoch: [0][1657/100]	Time 0.087	Loss 3.9
+3312,"shape of embedding.... (?, 128)"
+3313,Epoch: [0][1658/100]	Time 0.089	Loss 3.9
+3314,"shape of embedding.... (?, 128)"
+3315,Epoch: [0][1659/100]	Time 0.086	Loss 3.8
+3316,"shape of embedding.... (?, 128)"
+3317,Epoch: [0][1660/100]	Time 0.087	Loss 3.8
+3318,"shape of embedding.... (?, 128)"
+3319,Epoch: [0][1661/100]	Time 0.081	Loss 3.8
+3320,"shape of embedding.... (?, 128)"
+3321,Epoch: [0][1662/100]	Time 0.086	Loss 3.9
+3322,"shape of embedding.... (?, 128)"
+3323,Epoch: [0][1663/100]	Time 0.089	Loss 3.7
+3324,"shape of embedding.... (?, 128)"
+3325,Epoch: [0][1664/100]	Time 0.089	Loss 3.8
+3326,"shape of embedding.... (?, 128)"
+3327,Epoch: [0][1665/100]	Time 0.085	Loss 3.7
+3328,"shape of embedding.... (?, 128)"
+3329,Epoch: [0][1666/100]	Time 0.089	Loss 3.7
+3330,"shape of embedding.... (?, 128)"
+3331,Epoch: [0][1667/100]	Time 0.089	Loss 4.0
+3332,"shape of embedding.... (?, 128)"
+3333,Epoch: [0][1668/100]	Time 0.089	Loss 3.8
+3334,"shape of embedding.... (?, 128)"
+3335,Epoch: [0][1669/100]	Time 0.085	Loss 3.9
+3336,"shape of embedding.... (?, 128)"
+3337,Epoch: [0][1670/100]	Time 0.094	Loss 3.8
+3338,"shape of embedding.... (?, 128)"
+3339,Epoch: [0][1671/100]	Time 0.089	Loss 3.7
+3340,"shape of embedding.... (?, 128)"
+3341,Epoch: [0][1672/100]	Time 0.088	Loss 3.8
+3342,"shape of embedding.... (?, 128)"
+3343,Epoch: [0][1673/100]	Time 0.083	Loss 3.9
+3344,"shape of embedding.... (?, 128)"
+3345,Epoch: [0][1674/100]	Time 0.093	Loss 3.7
+3346,"shape of embedding.... (?, 128)"
+3347,Epoch: [0][1675/100]	Time 0.085	Loss 3.8
+3348,"shape of embedding.... (?, 128)"
+3349,Epoch: [0][1676/100]	Time 0.086	Loss 3.8
+3350,"shape of embedding.... (?, 128)"
+3351,Epoch: [0][1677/100]	Time 0.082	Loss 3.8
+3352,"shape of embedding.... (?, 128)"
+3353,Epoch: [0][1678/100]	Time 0.084	Loss 3.7
+3354,"shape of embedding.... (?, 128)"
+3355,Epoch: [0][1679/100]	Time 0.087	Loss 3.7
+3356,"shape of embedding.... (?, 128)"
+3357,Epoch: [0][1680/100]	Time 0.089	Loss 3.7
+3358,"shape of embedding.... (?, 128)"
+3359,Epoch: [0][1681/100]	Time 0.089	Loss 3.7
+3360,"shape of embedding.... (?, 128)"
+3361,Epoch: [0][1682/100]	Time 0.088	Loss 3.9
+3362,"shape of embedding.... (?, 128)"
+3363,Epoch: [0][1683/100]	Time 0.088	Loss 3.8
+3364,"shape of embedding.... (?, 128)"
+3365,Epoch: [0][1684/100]	Time 0.085	Loss 3.9
+3366,"shape of embedding.... (?, 128)"
+3367,Epoch: [0][1685/100]	Time 0.085	Loss 3.8
+3368,"shape of embedding.... (?, 128)"
+3369,Epoch: [0][1686/100]	Time 0.085	Loss 3.8
+3370,"shape of embedding.... (?, 128)"
+3371,Epoch: [0][1687/100]	Time 0.084	Loss 3.9
+3372,"shape of embedding.... (?, 128)"
+3373,Epoch: [0][1688/100]	Time 0.084	Loss 3.8
+3374,"shape of embedding.... (?, 128)"
+3375,Epoch: [0][1689/100]	Time 0.088	Loss 3.8
+3376,"shape of embedding.... (?, 128)"
+3377,Epoch: [0][1690/100]	Time 0.085	Loss 3.8
+3378,"shape of embedding.... (?, 128)"
+3379,Epoch: [0][1691/100]	Time 0.085	Loss 3.7
+3380,"shape of embedding.... (?, 128)"
+3381,Epoch: [0][1692/100]	Time 0.086	Loss 3.7
+3382,"shape of embedding.... (?, 128)"
+3383,Epoch: [0][1693/100]	Time 0.084	Loss 3.7
+3384,"shape of embedding.... (?, 128)"
+3385,Epoch: [0][1694/100]	Time 0.090	Loss 3.8
+3386,"shape of embedding.... (?, 128)"
+3387,Epoch: [0][1695/100]	Time 0.087	Loss 3.7
+3388,"shape of embedding.... (?, 128)"
+3389,Epoch: [0][1696/100]	Time 0.088	Loss 3.7
+3390,"shape of embedding.... (?, 128)"
+3391,Epoch: [0][1697/100]	Time 0.086	Loss 3.8
+3392,"shape of embedding.... (?, 128)"
+3393,Epoch: [0][1698/100]	Time 0.087	Loss 3.8
+3394,"shape of embedding.... (?, 128)"
+3395,Epoch: [0][1699/100]	Time 0.090	Loss 3.7
+3396,"shape of embedding.... (?, 128)"
+3397,Epoch: [0][1700/100]	Time 0.087	Loss 3.8
+3398,"shape of embedding.... (?, 128)"
+3399,Epoch: [0][1701/100]	Time 0.087	Loss 3.7
+3400,"shape of embedding.... (?, 128)"
+3401,Epoch: [0][1702/100]	Time 0.088	Loss 3.9
+3402,"shape of embedding.... (?, 128)"
+3403,Epoch: [0][1703/100]	Time 0.089	Loss 3.8
+3404,"shape of embedding.... (?, 128)"
+3405,Epoch: [0][1704/100]	Time 0.088	Loss 3.7
+3406,"shape of embedding.... (?, 128)"
+3407,Epoch: [0][1705/100]	Time 0.088	Loss 4.0
+3408,"shape of embedding.... (?, 128)"
+3409,Epoch: [0][1706/100]	Time 0.091	Loss 3.7
+3410,"shape of embedding.... (?, 128)"
+3411,Epoch: [0][1707/100]	Time 0.085	Loss 3.8
+3412,"shape of embedding.... (?, 128)"
+3413,Epoch: [0][1708/100]	Time 0.087	Loss 3.9
+3414,"shape of embedding.... (?, 128)"
+3415,Epoch: [0][1709/100]	Time 0.086	Loss 3.9
+3416,"shape of embedding.... (?, 128)"
+3417,Epoch: [0][1710/100]	Time 0.089	Loss 3.9
+3418,"shape of embedding.... (?, 128)"
+3419,Epoch: [0][1711/100]	Time 0.084	Loss 3.8
+3420,"shape of embedding.... (?, 128)"
+3421,Epoch: [0][1712/100]	Time 0.088	Loss 3.7
+3422,"shape of embedding.... (?, 128)"
+3423,Epoch: [0][1713/100]	Time 0.086	Loss 3.7
+3424,"shape of embedding.... (?, 128)"
+3425,Epoch: [0][1714/100]	Time 0.088	Loss 3.7
+3426,"shape of embedding.... (?, 128)"
+3427,Epoch: [0][1715/100]	Time 0.086	Loss 3.7
+3428,"shape of embedding.... (?, 128)"
+3429,Epoch: [0][1716/100]	Time 0.084	Loss 3.9
+3430,"shape of embedding.... (?, 128)"
+3431,Epoch: [0][1717/100]	Time 0.085	Loss 3.8
+3432,"shape of embedding.... (?, 128)"
+3433,Epoch: [0][1718/100]	Time 0.086	Loss 3.8
+3434,"shape of embedding.... (?, 128)"
+3435,Epoch: [0][1719/100]	Time 0.087	Loss 3.8
+3436,"shape of embedding.... (?, 128)"
+3437,Epoch: [0][1720/100]	Time 0.087	Loss 4.0
+3438,"shape of embedding.... (?, 128)"
+3439,Epoch: [0][1721/100]	Time 0.090	Loss 3.7
+3440,"shape of embedding.... (?, 128)"
+3441,Epoch: [0][1722/100]	Time 0.083	Loss 3.7
+3442,"shape of embedding.... (?, 128)"
+3443,Epoch: [0][1723/100]	Time 0.083	Loss 4.0
+3444,"shape of embedding.... (?, 128)"
+3445,Epoch: [0][1724/100]	Time 0.085	Loss 3.7
+3446,"shape of embedding.... (?, 128)"
+3447,Epoch: [0][1725/100]	Time 0.083	Loss 3.7
+3448,"shape of embedding.... (?, 128)"
+3449,Epoch: [0][1726/100]	Time 0.085	Loss 3.9
+3450,"shape of embedding.... (?, 128)"
+3451,Epoch: [0][1727/100]	Time 0.088	Loss 4.0
+3452,"shape of embedding.... (?, 128)"
+3453,Epoch: [0][1728/100]	Time 0.087	Loss 3.7
+3454,"shape of embedding.... (?, 128)"
+3455,Epoch: [0][1729/100]	Time 0.090	Loss 3.7
+3456,"shape of embedding.... (?, 128)"
+3457,Epoch: [0][1730/100]	Time 0.087	Loss 3.7
+3458,"shape of embedding.... (?, 128)"
+3459,Epoch: [0][1731/100]	Time 0.088	Loss 3.7
+3460,"shape of embedding.... (?, 128)"
+3461,Epoch: [0][1732/100]	Time 0.089	Loss 3.9
+3462,"shape of embedding.... (?, 128)"
+3463,Epoch: [0][1733/100]	Time 0.089	Loss 3.7
+3464,"shape of embedding.... (?, 128)"
+3465,Epoch: [0][1734/100]	Time 0.085	Loss 3.8
+3466,"shape of embedding.... (?, 128)"
+3467,Epoch: [0][1735/100]	Time 0.084	Loss 3.8
+3468,"shape of embedding.... (?, 128)"
+3469,Epoch: [0][1736/100]	Time 0.088	Loss 3.7
+3470,"shape of embedding.... (?, 128)"
+3471,Epoch: [0][1737/100]	Time 0.087	Loss 3.7
+3472,"shape of embedding.... (?, 128)"
+3473,Epoch: [0][1738/100]	Time 0.088	Loss 3.7
+3474,"shape of embedding.... (?, 128)"
+3475,Epoch: [0][1739/100]	Time 0.090	Loss 3.7
+3476,"shape of embedding.... (?, 128)"
+3477,Epoch: [0][1740/100]	Time 0.082	Loss 3.7
+3478,"shape of embedding.... (?, 128)"
+3479,Epoch: [0][1741/100]	Time 0.088	Loss 3.8
+3480,"shape of embedding.... (?, 128)"
+3481,Epoch: [0][1742/100]	Time 0.089	Loss 3.7
+3482,"shape of embedding.... (?, 128)"
+3483,Epoch: [0][1743/100]	Time 0.089	Loss 3.7
+3484,"shape of embedding.... (?, 128)"
+3485,Epoch: [0][1744/100]	Time 0.092	Loss 3.7
+3486,"shape of embedding.... (?, 128)"
+3487,Epoch: [0][1745/100]	Time 0.082	Loss 3.8
+3488,"shape of embedding.... (?, 128)"
+3489,Epoch: [0][1746/100]	Time 0.086	Loss 3.8
+3490,"shape of embedding.... (?, 128)"
+3491,Epoch: [0][1747/100]	Time 0.085	Loss 3.7
+3492,"shape of embedding.... (?, 128)"
+3493,Epoch: [0][1748/100]	Time 0.086	Loss 3.7
+3494,"shape of embedding.... (?, 128)"
+3495,Epoch: [0][1749/100]	Time 0.086	Loss 3.7
+3496,"shape of embedding.... (?, 128)"
+3497,Epoch: [0][1750/100]	Time 0.082	Loss 3.7
+3498,"shape of embedding.... (?, 128)"
+3499,Epoch: [0][1751/100]	Time 0.087	Loss 3.8
+3500,"shape of embedding.... (?, 128)"
+3501,Epoch: [0][1752/100]	Time 0.087	Loss 3.7
+3502,"shape of embedding.... (?, 128)"
+3503,Epoch: [0][1753/100]	Time 0.089	Loss 3.7
+3504,"shape of embedding.... (?, 128)"
+3505,Epoch: [0][1754/100]	Time 0.091	Loss 3.8
+3506,"shape of embedding.... (?, 128)"
+3507,Epoch: [0][1755/100]	Time 0.087	Loss 3.8
+3508,"shape of embedding.... (?, 128)"
+3509,Epoch: [0][1756/100]	Time 0.089	Loss 3.7
+3510,"shape of embedding.... (?, 128)"
+3511,Epoch: [0][1757/100]	Time 0.085	Loss 3.7
+3512,"shape of embedding.... (?, 128)"
+3513,Epoch: [0][1758/100]	Time 0.094	Loss 3.7
+3514,"shape of embedding.... (?, 128)"
+3515,Epoch: [0][1759/100]	Time 0.085	Loss 3.8
+3516,"shape of embedding.... (?, 128)"
+3517,Epoch: [0][1760/100]	Time 0.085	Loss 3.7
+3518,"shape of embedding.... (?, 128)"
+3519,Epoch: [0][1761/100]	Time 0.089	Loss 4.0
+3520,"shape of embedding.... (?, 128)"
+3521,Epoch: [0][1762/100]	Time 0.085	Loss 3.7
+3522,"shape of embedding.... (?, 128)"
+3523,Epoch: [0][1763/100]	Time 0.089	Loss 3.7
+3524,"shape of embedding.... (?, 128)"
+3525,Epoch: [0][1764/100]	Time 0.085	Loss 3.9
+3526,"shape of embedding.... (?, 128)"
+3527,Epoch: [0][1765/100]	Time 0.091	Loss 3.7
+3528,"shape of embedding.... (?, 128)"
+3529,Epoch: [0][1766/100]	Time 0.090	Loss 3.7
+3530,"shape of embedding.... (?, 128)"
+3531,Epoch: [0][1767/100]	Time 0.083	Loss 3.9
+3532,"shape of embedding.... (?, 128)"
+3533,Epoch: [0][1768/100]	Time 0.085	Loss 3.8
+3534,"shape of embedding.... (?, 128)"
+3535,Epoch: [0][1769/100]	Time 0.084	Loss 3.7
+3536,"shape of embedding.... (?, 128)"
+3537,Epoch: [0][1770/100]	Time 0.088	Loss 3.7
+3538,"shape of embedding.... (?, 128)"
+3539,Epoch: [0][1771/100]	Time 0.088	Loss 3.7
+3540,"shape of embedding.... (?, 128)"
+3541,Epoch: [0][1772/100]	Time 0.093	Loss 3.7
+3542,"shape of embedding.... (?, 128)"
+3543,Epoch: [0][1773/100]	Time 0.091	Loss 3.7
+3544,"shape of embedding.... (?, 128)"
+3545,Epoch: [0][1774/100]	Time 0.090	Loss 3.7
+3546,"shape of embedding.... (?, 128)"
+3547,Epoch: [0][1775/100]	Time 0.096	Loss 3.9
+3548,"shape of embedding.... (?, 128)"
+3549,Epoch: [0][1776/100]	Time 0.090	Loss 3.8
+3550,"shape of embedding.... (?, 128)"
+3551,Epoch: [0][1777/100]	Time 0.083	Loss 3.7
+3552,"shape of embedding.... (?, 128)"
+3553,Epoch: [0][1778/100]	Time 0.087	Loss 3.7
+3554,"shape of embedding.... (?, 128)"
+3555,Epoch: [0][1779/100]	Time 0.086	Loss 3.7
+3556,"shape of embedding.... (?, 128)"
+3557,Epoch: [0][1780/100]	Time 0.089	Loss 3.7
+3558,"shape of embedding.... (?, 128)"
+3559,Epoch: [0][1781/100]	Time 0.087	Loss 3.7
+3560,"shape of embedding.... (?, 128)"
+3561,Epoch: [0][1782/100]	Time 0.089	Loss 3.8
+3562,"shape of embedding.... (?, 128)"
+3563,Epoch: [0][1783/100]	Time 0.092	Loss 4.0
+3564,"shape of embedding.... (?, 128)"
+3565,Epoch: [0][1784/100]	Time 0.096	Loss 3.7
+3566,"shape of embedding.... (?, 128)"
+3567,Epoch: [0][1785/100]	Time 0.099	Loss 3.7
+3568,"shape of embedding.... (?, 128)"
+3569,Epoch: [0][1786/100]	Time 0.094	Loss 3.7
+3570,"shape of embedding.... (?, 128)"
+3571,Epoch: [0][1787/100]	Time 0.089	Loss 3.7
+3572,"shape of embedding.... (?, 128)"
+3573,Epoch: [0][1788/100]	Time 0.089	Loss 3.7
+3574,"shape of embedding.... (?, 128)"
+3575,Epoch: [0][1789/100]	Time 0.084	Loss 3.9
+3576,"shape of embedding.... (?, 128)"
+3577,Epoch: [0][1790/100]	Time 0.095	Loss 3.7
+3578,"shape of embedding.... (?, 128)"
+3579,Epoch: [0][1791/100]	Time 0.094	Loss 3.8
+3580,"shape of embedding.... (?, 128)"
+3581,Epoch: [0][1792/100]	Time 0.092	Loss 3.7
+3582,"shape of embedding.... (?, 128)"
+3583,Epoch: [0][1793/100]	Time 0.097	Loss 3.8
+3584,"shape of embedding.... (?, 128)"
+3585,Epoch: [0][1794/100]	Time 0.091	Loss 3.7
+3586,"shape of embedding.... (?, 128)"
+3587,Epoch: [0][1795/100]	Time 0.088	Loss 3.7
+3588,"shape of embedding.... (?, 128)"
+3589,Epoch: [0][1796/100]	Time 0.091	Loss 3.7
+3590,"shape of embedding.... (?, 128)"
+3591,Epoch: [0][1797/100]	Time 0.088	Loss 3.8
+3592,"shape of embedding.... (?, 128)"
+3593,Epoch: [0][1798/100]	Time 0.089	Loss 3.7
+3594,"shape of embedding.... (?, 128)"
+3595,Epoch: [0][1799/100]	Time 0.086	Loss 3.8
+3596,"shape of embedding.... (?, 128)"
+3597,Epoch: [0][1800/100]	Time 0.087	Loss 3.8
+3598,"shape of embedding.... (?, 128)"
+3599,Epoch: [0][1801/100]	Time 0.091	Loss 3.8
+3600,"shape of embedding.... (?, 128)"
+3601,Epoch: [0][1802/100]	Time 0.084	Loss 3.7
+3602,"shape of embedding.... (?, 128)"
+3603,Epoch: [0][1803/100]	Time 0.088	Loss 3.7
+3604,"shape of embedding.... (?, 128)"
+3605,Epoch: [0][1804/100]	Time 0.095	Loss 3.7
+3606,"shape of embedding.... (?, 128)"
+3607,Epoch: [0][1805/100]	Time 0.087	Loss 3.7
+3608,"shape of embedding.... (?, 128)"
+3609,Epoch: [0][1806/100]	Time 0.088	Loss 3.7
+3610,"shape of embedding.... (?, 128)"
+3611,Epoch: [0][1807/100]	Time 0.089	Loss 3.9
+3612,"shape of embedding.... (?, 128)"
+3613,Epoch: [0][1808/100]	Time 0.088	Loss 3.8
+3614,"shape of embedding.... (?, 128)"
+3615,Epoch: [0][1809/100]	Time 0.086	Loss 3.7
+3616,"shape of embedding.... (?, 128)"
+3617,Epoch: [0][1810/100]	Time 0.089	Loss 3.7
+3618,"shape of embedding.... (?, 128)"
+3619,Epoch: [0][1811/100]	Time 0.086	Loss 3.8
+3620,"shape of embedding.... (?, 128)"
+3621,Epoch: [0][1812/100]	Time 0.088	Loss 3.8
+3622,"shape of embedding.... (?, 128)"
+3623,Epoch: [0][1813/100]	Time 0.091	Loss 3.7
+3624,"shape of embedding.... (?, 128)"
+3625,Epoch: [0][1814/100]	Time 0.085	Loss 4.2
+3626,"shape of embedding.... (?, 128)"
+3627,Epoch: [0][1815/100]	Time 0.086	Loss 3.7
+3628,"shape of embedding.... (?, 128)"
+3629,Epoch: [0][1816/100]	Time 0.083	Loss 3.8
+3630,"shape of embedding.... (?, 128)"
+3631,Epoch: [0][1817/100]	Time 0.087	Loss 3.7
+3632,"shape of embedding.... (?, 128)"
+3633,Epoch: [0][1818/100]	Time 0.088	Loss 3.9
+3634,"shape of embedding.... (?, 128)"
+3635,Epoch: [0][1819/100]	Time 0.086	Loss 3.8
+3636,"shape of embedding.... (?, 128)"
+3637,Epoch: [0][1820/100]	Time 0.087	Loss 3.7
+3638,"shape of embedding.... (?, 128)"
+3639,Epoch: [0][1821/100]	Time 0.089	Loss 3.8
+3640,"shape of embedding.... (?, 128)"
+3641,Epoch: [0][1822/100]	Time 0.087	Loss 3.9
+3642,"shape of embedding.... (?, 128)"
+3643,Epoch: [0][1823/100]	Time 0.090	Loss 3.7
+3644,"shape of embedding.... (?, 128)"
+3645,Epoch: [0][1824/100]	Time 0.086	Loss 3.7
+3646,"shape of embedding.... (?, 128)"
+3647,Epoch: [0][1825/100]	Time 0.087	Loss 3.7
+3648,"shape of embedding.... (?, 128)"
+3649,Epoch: [0][1826/100]	Time 0.094	Loss 3.7
+3650,"shape of embedding.... (?, 128)"
+3651,Epoch: [0][1827/100]	Time 0.089	Loss 3.7
+3652,"shape of embedding.... (?, 128)"
+3653,Epoch: [0][1828/100]	Time 0.094	Loss 3.7
+3654,"shape of embedding.... (?, 128)"
+3655,Epoch: [0][1829/100]	Time 0.091	Loss 3.7
+3656,"shape of embedding.... (?, 128)"
+3657,Epoch: [0][1830/100]	Time 0.092	Loss 4.0
+3658,"shape of embedding.... (?, 128)"
+3659,Epoch: [0][1831/100]	Time 0.088	Loss 3.7
+3660,"shape of embedding.... (?, 128)"
+3661,Epoch: [0][1832/100]	Time 0.090	Loss 3.8
+3662,"shape of embedding.... (?, 128)"
+3663,Epoch: [0][1833/100]	Time 0.093	Loss 3.7
+3664,"shape of embedding.... (?, 128)"
+3665,Epoch: [0][1834/100]	Time 0.086	Loss 3.7
+3666,"shape of embedding.... (?, 128)"
+3667,Epoch: [0][1835/100]	Time 0.091	Loss 3.7
+3668,"shape of embedding.... (?, 128)"
+3669,Epoch: [0][1836/100]	Time 0.088	Loss 3.7
+3670,"shape of embedding.... (?, 128)"
+3671,Epoch: [0][1837/100]	Time 0.094	Loss 3.7
+3672,"shape of embedding.... (?, 128)"
+3673,Epoch: [0][1838/100]	Time 0.087	Loss 3.7
+3674,"shape of embedding.... (?, 128)"
+3675,Epoch: [0][1839/100]	Time 0.087	Loss 3.8
+3676,"shape of embedding.... (?, 128)"
+3677,Epoch: [0][1840/100]	Time 0.085	Loss 3.8
+3678,"shape of embedding.... (?, 128)"
+3679,Epoch: [0][1841/100]	Time 0.088	Loss 3.7
+3680,"shape of embedding.... (?, 128)"
+3681,Epoch: [0][1842/100]	Time 0.091	Loss 3.7
+3682,"shape of embedding.... (?, 128)"
+3683,Epoch: [0][1843/100]	Time 0.091	Loss 3.7
+3684,"shape of embedding.... (?, 128)"
+3685,Epoch: [0][1844/100]	Time 0.083	Loss 3.7
+3686,"shape of embedding.... (?, 128)"
+3687,Epoch: [0][1845/100]	Time 0.092	Loss 3.7
+3688,"shape of embedding.... (?, 128)"
+3689,Epoch: [0][1846/100]	Time 0.089	Loss 3.7
+3690,"shape of embedding.... (?, 128)"
+3691,Epoch: [0][1847/100]	Time 0.086	Loss 3.7
+3692,"shape of embedding.... (?, 128)"
+3693,Epoch: [0][1848/100]	Time 0.089	Loss 3.8
+3694,"shape of embedding.... (?, 128)"
+3695,Epoch: [0][1849/100]	Time 0.086	Loss 3.7
+3696,"shape of embedding.... (?, 128)"
+3697,Epoch: [0][1850/100]	Time 0.089	Loss 3.7
+3698,"shape of embedding.... (?, 128)"
+3699,Epoch: [0][1851/100]	Time 0.083	Loss 3.7
+3700,"shape of embedding.... (?, 128)"
+3701,Epoch: [0][1852/100]	Time 0.087	Loss 3.7
+3702,"shape of embedding.... (?, 128)"
+3703,Epoch: [0][1853/100]	Time 0.082	Loss 3.7
+3704,"shape of embedding.... (?, 128)"
+3705,Epoch: [0][1854/100]	Time 0.085	Loss 3.7
+3706,"shape of embedding.... (?, 128)"
+3707,Epoch: [0][1855/100]	Time 0.084	Loss 3.7
+3708,"shape of embedding.... (?, 128)"
+3709,Epoch: [0][1856/100]	Time 0.088	Loss 3.8
+3710,"shape of embedding.... (?, 128)"
+3711,Epoch: [0][1857/100]	Time 0.084	Loss 3.7
+3712,"shape of embedding.... (?, 128)"
+3713,Epoch: [0][1858/100]	Time 0.085	Loss 3.7
+3714,"shape of embedding.... (?, 128)"
+3715,Epoch: [0][1859/100]	Time 0.086	Loss 3.7
+3716,"shape of embedding.... (?, 128)"
+3717,Epoch: [0][1860/100]	Time 0.090	Loss 3.7
+3718,"shape of embedding.... (?, 128)"
+3719,Epoch: [0][1861/100]	Time 0.089	Loss 3.8
+3720,"shape of embedding.... (?, 128)"
+3721,Epoch: [0][1862/100]	Time 0.086	Loss 3.8
+3722,"shape of embedding.... (?, 128)"
+3723,Epoch: [0][1863/100]	Time 0.089	Loss 3.7
+3724,"shape of embedding.... (?, 128)"
+3725,Epoch: [0][1864/100]	Time 0.083	Loss 3.7
+3726,"shape of embedding.... (?, 128)"
+3727,Epoch: [0][1865/100]	Time 0.089	Loss 3.7
+3728,"shape of embedding.... (?, 128)"
+3729,Epoch: [0][1866/100]	Time 0.099	Loss 3.7
+3730,"shape of embedding.... (?, 128)"
+3731,Epoch: [0][1867/100]	Time 0.088	Loss 3.9
+3732,"shape of embedding.... (?, 128)"
+3733,Epoch: [0][1868/100]	Time 0.090	Loss 3.7
+3734,"shape of embedding.... (?, 128)"
+3735,Epoch: [0][1869/100]	Time 0.087	Loss 3.7
+3736,"shape of embedding.... (?, 128)"
+3737,Epoch: [0][1870/100]	Time 0.088	Loss 3.6
+3738,"shape of embedding.... (?, 128)"
+3739,Epoch: [0][1871/100]	Time 0.090	Loss 3.7
+3740,"shape of embedding.... (?, 128)"
+3741,Epoch: [0][1872/100]	Time 0.097	Loss 3.8
+3742,"shape of embedding.... (?, 128)"
+3743,Epoch: [0][1873/100]	Time 0.097	Loss 3.8
+3744,"shape of embedding.... (?, 128)"
+3745,Epoch: [0][1874/100]	Time 0.087	Loss 3.6
+3746,"shape of embedding.... (?, 128)"
+3747,Epoch: [0][1875/100]	Time 0.093	Loss 3.7
+3748,"shape of embedding.... (?, 128)"
+3749,Epoch: [0][1876/100]	Time 0.087	Loss 3.7
+3750,"shape of embedding.... (?, 128)"
+3751,Epoch: [0][1877/100]	Time 0.090	Loss 3.7
+3752,"shape of embedding.... (?, 128)"
+3753,Epoch: [0][1878/100]	Time 0.089	Loss 3.7
+3754,"shape of embedding.... (?, 128)"
+3755,Epoch: [0][1879/100]	Time 0.084	Loss 3.7
+3756,"shape of embedding.... (?, 128)"
+3757,Epoch: [0][1880/100]	Time 0.089	Loss 3.7
+3758,"shape of embedding.... (?, 128)"
+3759,Epoch: [0][1881/100]	Time 0.085	Loss 4.1
+3760,"shape of embedding.... (?, 128)"
+3761,Epoch: [0][1882/100]	Time 0.085	Loss 3.8
+3762,"shape of embedding.... (?, 128)"
+3763,Epoch: [0][1883/100]	Time 0.089	Loss 3.8
+3764,"shape of embedding.... (?, 128)"
+3765,Epoch: [0][1884/100]	Time 0.083	Loss 3.7
+3766,"shape of embedding.... (?, 128)"
+3767,Epoch: [0][1885/100]	Time 0.088	Loss 3.8
+3768,"shape of embedding.... (?, 128)"
+3769,Epoch: [0][1886/100]	Time 0.089	Loss 3.8
+3770,"shape of embedding.... (?, 128)"
+3771,Epoch: [0][1887/100]	Time 0.084	Loss 3.7
+3772,"shape of embedding.... (?, 128)"
+3773,Epoch: [0][1888/100]	Time 0.085	Loss 3.6
+3774,"shape of embedding.... (?, 128)"
+3775,Epoch: [0][1889/100]	Time 0.087	Loss 3.8
+3776,"shape of embedding.... (?, 128)"
+3777,Epoch: [0][1890/100]	Time 0.082	Loss 3.6
+3778,"shape of embedding.... (?, 128)"
+3779,Epoch: [0][1891/100]	Time 0.089	Loss 3.8
+3780,"shape of embedding.... (?, 128)"
+3781,Epoch: [0][1892/100]	Time 0.090	Loss 3.7
+3782,"shape of embedding.... (?, 128)"
+3783,Epoch: [0][1893/100]	Time 0.096	Loss 3.8
+3784,"shape of embedding.... (?, 128)"
+3785,Epoch: [0][1894/100]	Time 0.088	Loss 3.6
+3786,"shape of embedding.... (?, 128)"
+3787,Epoch: [0][1895/100]	Time 0.086	Loss 3.6
+3788,"shape of embedding.... (?, 128)"
+3789,Epoch: [0][1896/100]	Time 0.106	Loss 3.8
+3790,"shape of embedding.... (?, 128)"
+3791,Epoch: [0][1897/100]	Time 0.088	Loss 3.7
+3792,"shape of embedding.... (?, 128)"
+3793,Epoch: [0][1898/100]	Time 0.085	Loss 3.7
+3794,"shape of embedding.... (?, 128)"
+3795,Epoch: [0][1899/100]	Time 0.082	Loss 3.6
+3796,"shape of embedding.... (?, 128)"
+3797,Epoch: [0][1900/100]	Time 0.090	Loss 3.6
+3798,"shape of embedding.... (?, 128)"
+3799,Epoch: [0][1901/100]	Time 0.096	Loss 3.6
+3800,"shape of embedding.... (?, 128)"
+3801,Epoch: [0][1902/100]	Time 0.087	Loss 3.7
+3802,"shape of embedding.... (?, 128)"
+3803,Epoch: [0][1903/100]	Time 0.081	Loss 3.7
+3804,"shape of embedding.... (?, 128)"
+3805,Epoch: [0][1904/100]	Time 0.082	Loss 3.8
+3806,"shape of embedding.... (?, 128)"
+3807,Epoch: [0][1905/100]	Time 0.088	Loss 3.7
+3808,"shape of embedding.... (?, 128)"
+3809,Epoch: [0][1906/100]	Time 0.086	Loss 3.6
+3810,"shape of embedding.... (?, 128)"
+3811,Epoch: [0][1907/100]	Time 0.089	Loss 3.7
+3812,"shape of embedding.... (?, 128)"
+3813,Epoch: [0][1908/100]	Time 0.089	Loss 3.6
+3814,"shape of embedding.... (?, 128)"
+3815,Epoch: [0][1909/100]	Time 0.086	Loss 3.7
+3816,"shape of embedding.... (?, 128)"
+3817,Epoch: [0][1910/100]	Time 0.089	Loss 3.8
+3818,"shape of embedding.... (?, 128)"
+3819,Epoch: [0][1911/100]	Time 0.083	Loss 3.8
+3820,"shape of embedding.... (?, 128)"
+3821,Epoch: [0][1912/100]	Time 0.090	Loss 3.6
+3822,"shape of embedding.... (?, 128)"
+3823,Epoch: [0][1913/100]	Time 0.087	Loss 3.7
+3824,"shape of embedding.... (?, 128)"
+3825,Epoch: [0][1914/100]	Time 0.088	Loss 3.6
+3826,"shape of embedding.... (?, 128)"
+3827,Epoch: [0][1915/100]	Time 0.086	Loss 3.7
+3828,"shape of embedding.... (?, 128)"
+3829,Epoch: [0][1916/100]	Time 0.091	Loss 3.6
+3830,"shape of embedding.... (?, 128)"
+3831,Epoch: [0][1917/100]	Time 0.089	Loss 3.7
+3832,"shape of embedding.... (?, 128)"
+3833,Epoch: [0][1918/100]	Time 0.085	Loss 3.7
+3834,"shape of embedding.... (?, 128)"
+3835,Epoch: [0][1919/100]	Time 0.083	Loss 3.7
+3836,"shape of embedding.... (?, 128)"
+3837,Epoch: [0][1920/100]	Time 0.089	Loss 3.9
+3838,"shape of embedding.... (?, 128)"
+3839,Epoch: [0][1921/100]	Time 0.090	Loss 3.7
+3840,"shape of embedding.... (?, 128)"
+3841,Epoch: [0][1922/100]	Time 0.088	Loss 3.6
+3842,"shape of embedding.... (?, 128)"
+3843,Epoch: [0][1923/100]	Time 0.089	Loss 3.6
+3844,"shape of embedding.... (?, 128)"
+3845,Epoch: [0][1924/100]	Time 0.088	Loss 3.7
+3846,"shape of embedding.... (?, 128)"
+3847,Epoch: [0][1925/100]	Time 0.089	Loss 3.8
+3848,"shape of embedding.... (?, 128)"
+3849,Epoch: [0][1926/100]	Time 0.086	Loss 3.8
+3850,"shape of embedding.... (?, 128)"
+3851,Epoch: [0][1927/100]	Time 0.082	Loss 3.7
+3852,"shape of embedding.... (?, 128)"
+3853,Epoch: [0][1928/100]	Time 0.087	Loss 3.6
+3854,"shape of embedding.... (?, 128)"
+3855,Epoch: [0][1929/100]	Time 0.089	Loss 3.8
+3856,"shape of embedding.... (?, 128)"
+3857,Epoch: [0][1930/100]	Time 0.090	Loss 3.7
+3858,"shape of embedding.... (?, 128)"
+3859,Epoch: [0][1931/100]	Time 0.085	Loss 3.7
+3860,"shape of embedding.... (?, 128)"
+3861,Epoch: [0][1932/100]	Time 0.086	Loss 3.8
+3862,"shape of embedding.... (?, 128)"
+3863,Epoch: [0][1933/100]	Time 0.085	Loss 3.6
+3864,"shape of embedding.... (?, 128)"
+3865,Epoch: [0][1934/100]	Time 0.085	Loss 3.7
+3866,"shape of embedding.... (?, 128)"
+3867,Epoch: [0][1935/100]	Time 0.089	Loss 3.6
+3868,"shape of embedding.... (?, 128)"
+3869,Epoch: [0][1936/100]	Time 0.084	Loss 3.6
+3870,"shape of embedding.... (?, 128)"
+3871,Epoch: [0][1937/100]	Time 0.088	Loss 3.7
+3872,"shape of embedding.... (?, 128)"
+3873,Epoch: [0][1938/100]	Time 0.088	Loss 3.7
+3874,"shape of embedding.... (?, 128)"
+3875,Epoch: [0][1939/100]	Time 0.088	Loss 4.0
+3876,"shape of embedding.... (?, 128)"
+3877,Epoch: [0][1940/100]	Time 0.089	Loss 3.7
+3878,"shape of embedding.... (?, 128)"
+3879,Epoch: [0][1941/100]	Time 0.083	Loss 3.6
+3880,"shape of embedding.... (?, 128)"
+3881,Epoch: [0][1942/100]	Time 0.087	Loss 3.9
+3882,"shape of embedding.... (?, 128)"
+3883,Epoch: [0][1943/100]	Time 0.083	Loss 3.6
+3884,"shape of embedding.... (?, 128)"
+3885,Epoch: [0][1944/100]	Time 0.090	Loss 3.7
+3886,"shape of embedding.... (?, 128)"
+3887,Epoch: [0][1945/100]	Time 0.084	Loss 3.7
+3888,"shape of embedding.... (?, 128)"
+3889,Epoch: [0][1946/100]	Time 0.086	Loss 3.8
+3890,"shape of embedding.... (?, 128)"
+3891,Epoch: [0][1947/100]	Time 0.083	Loss 3.7
+3892,"shape of embedding.... (?, 128)"
+3893,Epoch: [0][1948/100]	Time 0.080	Loss 3.8
+3894,"shape of embedding.... (?, 128)"
+3895,Epoch: [0][1949/100]	Time 0.084	Loss 3.6
+3896,"shape of embedding.... (?, 128)"
+3897,Epoch: [0][1950/100]	Time 0.083	Loss 3.6
+3898,"shape of embedding.... (?, 128)"
+3899,Epoch: [0][1951/100]	Time 0.089	Loss 3.7
+3900,"shape of embedding.... (?, 128)"
+3901,Epoch: [0][1952/100]	Time 0.089	Loss 3.6
+3902,"shape of embedding.... (?, 128)"
+3903,Epoch: [0][1953/100]	Time 0.089	Loss 3.6
+3904,"shape of embedding.... (?, 128)"
+3905,Epoch: [0][1954/100]	Time 0.090	Loss 3.7
+3906,"shape of embedding.... (?, 128)"
+3907,Epoch: [0][1955/100]	Time 0.086	Loss 3.6
+3908,"shape of embedding.... (?, 128)"
+3909,Epoch: [0][1956/100]	Time 0.083	Loss 3.8
+3910,"shape of embedding.... (?, 128)"
+3911,Epoch: [0][1957/100]	Time 0.083	Loss 3.7
+3912,"shape of embedding.... (?, 128)"
+3913,Epoch: [0][1958/100]	Time 0.088	Loss 3.6
+3914,"shape of embedding.... (?, 128)"
+3915,Epoch: [0][1959/100]	Time 0.089	Loss 3.8
+3916,"shape of embedding.... (?, 128)"
+3917,Epoch: [0][1960/100]	Time 0.087	Loss 3.8
+3918,"shape of embedding.... (?, 128)"
+3919,Epoch: [0][1961/100]	Time 0.085	Loss 3.8
+3920,"shape of embedding.... (?, 128)"
+3921,Epoch: [0][1962/100]	Time 0.090	Loss 3.6
+3922,"shape of embedding.... (?, 128)"
+3923,Epoch: [0][1963/100]	Time 0.086	Loss 3.6
+3924,"shape of embedding.... (?, 128)"
+3925,Epoch: [0][1964/100]	Time 0.087	Loss 3.7
+3926,"shape of embedding.... (?, 128)"
+3927,Epoch: [0][1965/100]	Time 0.088	Loss 3.6
+3928,"shape of embedding.... (?, 128)"
+3929,Epoch: [0][1966/100]	Time 0.089	Loss 3.6
+3930,"shape of embedding.... (?, 128)"
+3931,Epoch: [0][1967/100]	Time 0.096	Loss 3.6
+3932,"shape of embedding.... (?, 128)"
+3933,Epoch: [0][1968/100]	Time 0.086	Loss 3.8
+3934,"shape of embedding.... (?, 128)"
+3935,Epoch: [0][1969/100]	Time 0.083	Loss 3.6
+3936,"shape of embedding.... (?, 128)"
+3937,Epoch: [0][1970/100]	Time 0.092	Loss 3.6
+3938,"shape of embedding.... (?, 128)"
+3939,Epoch: [0][1971/100]	Time 0.087	Loss 3.7
+3940,"shape of embedding.... (?, 128)"
+3941,Epoch: [0][1972/100]	Time 0.085	Loss 3.7
+3942,"shape of embedding.... (?, 128)"
+3943,Epoch: [0][1973/100]	Time 0.086	Loss 3.6
+3944,"shape of embedding.... (?, 128)"
+3945,Epoch: [0][1974/100]	Time 0.090	Loss 3.6
+3946,"shape of embedding.... (?, 128)"
+3947,Epoch: [0][1975/100]	Time 0.085	Loss 3.6
+3948,"shape of embedding.... (?, 128)"
+3949,Epoch: [0][1976/100]	Time 0.088	Loss 3.8
+3950,"shape of embedding.... (?, 128)"
+3951,Epoch: [0][1977/100]	Time 0.087	Loss 3.7
+3952,"shape of embedding.... (?, 128)"
+3953,Epoch: [0][1978/100]	Time 0.085	Loss 3.8
+3954,"shape of embedding.... (?, 128)"
+3955,Epoch: [0][1979/100]	Time 0.088	Loss 3.7
+3956,"shape of embedding.... (?, 128)"
+3957,Epoch: [0][1980/100]	Time 0.093	Loss 3.7
+3958,"shape of embedding.... (?, 128)"
+3959,Epoch: [0][1981/100]	Time 0.094	Loss 3.7
+3960,"shape of embedding.... (?, 128)"
+3961,Epoch: [0][1982/100]	Time 0.097	Loss 3.7
+3962,"shape of embedding.... (?, 128)"
+3963,Epoch: [0][1983/100]	Time 0.084	Loss 3.6
+3964,"shape of embedding.... (?, 128)"
+3965,Epoch: [0][1984/100]	Time 0.081	Loss 3.8
+3966,"shape of embedding.... (?, 128)"
+3967,Epoch: [0][1985/100]	Time 0.090	Loss 3.7
+3968,"shape of embedding.... (?, 128)"
+3969,Epoch: [0][1986/100]	Time 0.090	Loss 3.6
+3970,"shape of embedding.... (?, 128)"
+3971,Epoch: [0][1987/100]	Time 0.089	Loss 3.6
+3972,"shape of embedding.... (?, 128)"
+3973,Epoch: [0][1988/100]	Time 0.086	Loss 3.6
+3974,"shape of embedding.... (?, 128)"
+3975,Epoch: [0][1989/100]	Time 0.093	Loss 3.6
+3976,"shape of embedding.... (?, 128)"
+3977,Epoch: [0][1990/100]	Time 0.089	Loss 3.6
+3978,"shape of embedding.... (?, 128)"
+3979,Epoch: [0][1991/100]	Time 0.090	Loss 3.6
+3980,"shape of embedding.... (?, 128)"
+3981,Epoch: [0][1992/100]	Time 0.087	Loss 3.6
+3982,"shape of embedding.... (?, 128)"
+3983,Epoch: [0][1993/100]	Time 0.086	Loss 3.6
+3984,"shape of embedding.... (?, 128)"
+3985,Epoch: [0][1994/100]	Time 0.085	Loss 3.7
+3986,"shape of embedding.... (?, 128)"
+3987,Epoch: [0][1995/100]	Time 0.086	Loss 3.6
+3988,"shape of embedding.... (?, 128)"
+3989,Epoch: [0][1996/100]	Time 0.088	Loss 3.6
+3990,"shape of embedding.... (?, 128)"
+3991,Epoch: [0][1997/100]	Time 0.084	Loss 3.7
+3992,"shape of embedding.... (?, 128)"
+3993,Epoch: [0][1998/100]	Time 0.089	Loss 3.6
+3994,"shape of embedding.... (?, 128)"
+3995,Epoch: [0][1999/100]	Time 0.091	Loss 3.8
+3996,"shape of embedding.... (?, 128)"
+3997,Epoch: [0][2000/100]	Time 0.091	Loss 3.6
+3998,"shape of embedding.... (?, 128)"
+3999,Epoch: [0][2001/100]	Time 0.082	Loss 3.6
+4000,"shape of embedding.... (?, 128)"
+4001,Epoch: [0][2002/100]	Time 0.090	Loss 3.7
+4002,"shape of embedding.... (?, 128)"
+4003,Epoch: [0][2003/100]	Time 0.086	Loss 3.7
+4004,"shape of embedding.... (?, 128)"
+4005,Epoch: [0][2004/100]	Time 0.083	Loss 3.7
+4006,"shape of embedding.... (?, 128)"
+4007,Epoch: [0][2005/100]	Time 0.095	Loss 3.6
+4008,"shape of embedding.... (?, 128)"
+4009,Epoch: [0][2006/100]	Time 0.095	Loss 3.6
+4010,"shape of embedding.... (?, 128)"
+4011,Epoch: [0][2007/100]	Time 0.087	Loss 3.8
+4012,"shape of embedding.... (?, 128)"
+4013,Epoch: [0][2008/100]	Time 0.086	Loss 3.6
+4014,"shape of embedding.... (?, 128)"
+4015,Epoch: [0][2009/100]	Time 0.090	Loss 3.7
+4016,"shape of embedding.... (?, 128)"
+4017,Epoch: [0][2010/100]	Time 0.097	Loss 3.7
+4018,"shape of embedding.... (?, 128)"
+4019,Epoch: [0][2011/100]	Time 0.095	Loss 3.6
+4020,"shape of embedding.... (?, 128)"
+4021,Epoch: [0][2012/100]	Time 0.086	Loss 3.6
+4022,"shape of embedding.... (?, 128)"
+4023,Epoch: [0][2013/100]	Time 0.088	Loss 3.9
+4024,"shape of embedding.... (?, 128)"
+4025,Epoch: [0][2014/100]	Time 0.087	Loss 3.7
+4026,"shape of embedding.... (?, 128)"
+4027,Epoch: [0][2015/100]	Time 0.089	Loss 3.6
+4028,"shape of embedding.... (?, 128)"
+4029,Epoch: [0][2016/100]	Time 0.089	Loss 3.7
+4030,"shape of embedding.... (?, 128)"
+4031,Epoch: [0][2017/100]	Time 0.089	Loss 3.7
+4032,"shape of embedding.... (?, 128)"
+4033,Epoch: [0][2018/100]	Time 0.088	Loss 3.6
+4034,"shape of embedding.... (?, 128)"
+4035,Epoch: [0][2019/100]	Time 0.091	Loss 3.6
+4036,"shape of embedding.... (?, 128)"
+4037,Epoch: [0][2020/100]	Time 0.091	Loss 3.6
+4038,"shape of embedding.... (?, 128)"
+4039,Epoch: [0][2021/100]	Time 0.086	Loss 3.7
+4040,"shape of embedding.... (?, 128)"
+4041,Epoch: [0][2022/100]	Time 0.087	Loss 3.7
+4042,"shape of embedding.... (?, 128)"
+4043,Epoch: [0][2023/100]	Time 0.091	Loss 3.6
+4044,"shape of embedding.... (?, 128)"
+4045,Epoch: [0][2024/100]	Time 0.093	Loss 3.6
+4046,"shape of embedding.... (?, 128)"
+4047,Epoch: [0][2025/100]	Time 0.089	Loss 3.6
+4048,"shape of embedding.... (?, 128)"
+4049,Epoch: [0][2026/100]	Time 0.089	Loss 3.6
+4050,"shape of embedding.... (?, 128)"
+4051,Epoch: [0][2027/100]	Time 0.087	Loss 3.8
+4052,"shape of embedding.... (?, 128)"
+4053,Epoch: [0][2028/100]	Time 0.089	Loss 3.9
+4054,"shape of embedding.... (?, 128)"
+4055,Epoch: [0][2029/100]	Time 0.082	Loss 3.6
+4056,"shape of embedding.... (?, 128)"
+4057,Epoch: [0][2030/100]	Time 0.089	Loss 3.6
+4058,"shape of embedding.... (?, 128)"
+4059,Epoch: [0][2031/100]	Time 0.087	Loss 3.7
+4060,"shape of embedding.... (?, 128)"
+4061,Epoch: [0][2032/100]	Time 0.085	Loss 3.7
+4062,"shape of embedding.... (?, 128)"
+4063,Epoch: [0][2033/100]	Time 0.091	Loss 3.6
+4064,"shape of embedding.... (?, 128)"
+4065,Epoch: [0][2034/100]	Time 0.087	Loss 3.6
+4066,"shape of embedding.... (?, 128)"
+4067,Epoch: [0][2035/100]	Time 0.088	Loss 3.6
+4068,"shape of embedding.... (?, 128)"
+4069,Epoch: [0][2036/100]	Time 0.090	Loss 3.7
+4070,"shape of embedding.... (?, 128)"
+4071,Epoch: [0][2037/100]	Time 0.090	Loss 3.8
+4072,"shape of embedding.... (?, 128)"
+4073,Epoch: [0][2038/100]	Time 0.083	Loss 3.7
+4074,"shape of embedding.... (?, 128)"
+4075,Epoch: [0][2039/100]	Time 0.091	Loss 3.7
+4076,"shape of embedding.... (?, 128)"
+4077,Epoch: [0][2040/100]	Time 0.090	Loss 3.8
+4078,"shape of embedding.... (?, 128)"
+4079,Epoch: [0][2041/100]	Time 0.089	Loss 3.6
+4080,"shape of embedding.... (?, 128)"
+4081,Epoch: [0][2042/100]	Time 0.091	Loss 3.6
+4082,"shape of embedding.... (?, 128)"
+4083,Epoch: [0][2043/100]	Time 0.092	Loss 3.7
+4084,"shape of embedding.... (?, 128)"
+4085,Epoch: [0][2044/100]	Time 0.093	Loss 3.6
+4086,"shape of embedding.... (?, 128)"
+4087,Epoch: [0][2045/100]	Time 0.087	Loss 3.6
+4088,"shape of embedding.... (?, 128)"
+4089,Epoch: [0][2046/100]	Time 0.092	Loss 3.6
+4090,"shape of embedding.... (?, 128)"
+4091,Epoch: [0][2047/100]	Time 0.091	Loss 3.7
+4092,"shape of embedding.... (?, 128)"
+4093,Epoch: [0][2048/100]	Time 0.092	Loss 3.6
+4094,"shape of embedding.... (?, 128)"
+4095,Epoch: [0][2049/100]	Time 0.089	Loss 3.7
+4096,"shape of embedding.... (?, 128)"
+4097,Epoch: [0][2050/100]	Time 0.087	Loss 3.7
+4098,"shape of embedding.... (?, 128)"
+4099,Epoch: [0][2051/100]	Time 0.089	Loss 3.7
+4100,"shape of embedding.... (?, 128)"
+4101,Epoch: [0][2052/100]	Time 0.091	Loss 3.7
+4102,"shape of embedding.... (?, 128)"
+4103,Epoch: [0][2053/100]	Time 0.095	Loss 3.6
+4104,"shape of embedding.... (?, 128)"
+4105,Epoch: [0][2054/100]	Time 0.085	Loss 3.6
+4106,"shape of embedding.... (?, 128)"
+4107,Epoch: [0][2055/100]	Time 0.086	Loss 3.6
+4108,"shape of embedding.... (?, 128)"
+4109,Epoch: [0][2056/100]	Time 0.089	Loss 3.7
+4110,"shape of embedding.... (?, 128)"
+4111,Epoch: [0][2057/100]	Time 0.087	Loss 3.6
+4112,"shape of embedding.... (?, 128)"
+4113,Epoch: [0][2058/100]	Time 0.088	Loss 3.6
+4114,"shape of embedding.... (?, 128)"
+4115,Epoch: [0][2059/100]	Time 0.093	Loss 3.6
+4116,"shape of embedding.... (?, 128)"
+4117,Epoch: [0][2060/100]	Time 0.094	Loss 3.6
+4118,"shape of embedding.... (?, 128)"
+4119,Epoch: [0][2061/100]	Time 0.090	Loss 3.8
+4120,"shape of embedding.... (?, 128)"
+4121,Epoch: [0][2062/100]	Time 0.092	Loss 3.6
+4122,"shape of embedding.... (?, 128)"
+4123,Epoch: [0][2063/100]	Time 0.087	Loss 3.6
+4124,"shape of embedding.... (?, 128)"
+4125,Epoch: [0][2064/100]	Time 0.091	Loss 3.7
+4126,"shape of embedding.... (?, 128)"
+4127,Epoch: [0][2065/100]	Time 0.086	Loss 3.7
+4128,"shape of embedding.... (?, 128)"
+4129,Epoch: [0][2066/100]	Time 0.085	Loss 3.6
+4130,"shape of embedding.... (?, 128)"
+4131,Epoch: [0][2067/100]	Time 0.087	Loss 3.7
+4132,"shape of embedding.... (?, 128)"
+4133,Epoch: [0][2068/100]	Time 0.087	Loss 3.7
+4134,"shape of embedding.... (?, 128)"
+4135,Epoch: [0][2069/100]	Time 0.089	Loss 3.6
+4136,"shape of embedding.... (?, 128)"
+4137,Epoch: [0][2070/100]	Time 0.090	Loss 3.7
+4138,"shape of embedding.... (?, 128)"
+4139,Epoch: [0][2071/100]	Time 0.091	Loss 3.6
+4140,"shape of embedding.... (?, 128)"
+4141,Epoch: [0][2072/100]	Time 0.092	Loss 3.6
+4142,"shape of embedding.... (?, 128)"
+4143,Epoch: [0][2073/100]	Time 0.088	Loss 3.6
+4144,"shape of embedding.... (?, 128)"
+4145,Epoch: [0][2074/100]	Time 0.088	Loss 3.6
+4146,"shape of embedding.... (?, 128)"
+4147,Epoch: [0][2075/100]	Time 0.086	Loss 3.7
+4148,"shape of embedding.... (?, 128)"
+4149,Epoch: [0][2076/100]	Time 0.093	Loss 3.6
+4150,"shape of embedding.... (?, 128)"
+4151,Epoch: [0][2077/100]	Time 0.088	Loss 3.6
+4152,"shape of embedding.... (?, 128)"
+4153,Epoch: [0][2078/100]	Time 0.086	Loss 3.6
+4154,"shape of embedding.... (?, 128)"
+4155,Epoch: [0][2079/100]	Time 0.089	Loss 3.7
+4156,"shape of embedding.... (?, 128)"
+4157,Epoch: [0][2080/100]	Time 0.089	Loss 3.7
+4158,"shape of embedding.... (?, 128)"
+4159,Epoch: [0][2081/100]	Time 0.089	Loss 3.6
+4160,"shape of embedding.... (?, 128)"
+4161,Epoch: [0][2082/100]	Time 0.091	Loss 3.6
+4162,"shape of embedding.... (?, 128)"
+4163,Epoch: [0][2083/100]	Time 0.083	Loss 3.6
+4164,"shape of embedding.... (?, 128)"
+4165,Epoch: [0][2084/100]	Time 0.082	Loss 3.7
+4166,"shape of embedding.... (?, 128)"
+4167,Epoch: [0][2085/100]	Time 0.086	Loss 3.6
